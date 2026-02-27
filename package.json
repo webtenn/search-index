@@ -1,0 +1,12 @@
+{
+  "name": "search-index-sync",
+  "version": "1.0.0",
+  "description": "Webflow CMS search index sync script",
+  "main": "sync-search-index.js",
+  "scripts": {
+    "sync": "node sync-search-index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
