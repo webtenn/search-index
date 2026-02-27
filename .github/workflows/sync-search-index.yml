@@ -1,14 +1,14 @@
 name: Sync Search Index
 
 on:
-  # ── Run once a day at 2:00 AM UTC ──────────────────────────────────────────
+  # Run once a day at 2:00 AM UTC
   schedule:
     - cron: "0 2 * * *"
 
-  # ── Allow manual trigger from GitHub Actions UI ────────────────────────────
+  # Allow manual trigger from GitHub Actions UI
   workflow_dispatch:
 
-  # ── Triggered by Webflow webhook via GitHub API ────────────────────────────
+  # Triggered by Webflow webhook via GitHub API
   repository_dispatch:
     types: [webflow_publish]
 
@@ -19,8 +19,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_PAT }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -33,11 +31,28 @@ jobs:
           WEBFLOW_SITE_ID: ${{ secrets.WEBFLOW_SITE_ID }}
         run: node sync-search-index.js
 
-      - name: Commit and push updated index
+      - name: Upload index via GitHub API
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_OWNER: ${{ github.repository_owner }}
+          GH_REPO: ${{ github.event.repository.name }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add search-index.json
-          git diff --staged --quiet && echo "No changes to commit" && exit 0
-          git commit -m "chore: update search index [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
-          git push origin HEAD:main --force-with-lease
+          # Base64 encode the file
+          CONTENT=$(base64 -w 0 search-index.json)
+          
+          # Get current file SHA (needed for updates)
+          SHA=$(curl -s -H "Authorization: Bearer $GH_PAT"             "https://api.github.com/repos/$GH_OWNER/$GH_REPO/contents/search-index.json"             | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('sha',''))" 2>/dev/null || echo "")
+          
+          # Build the JSON payload
+          TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          
+          if [ -z "$SHA" ]; then
+            PAYLOAD="{"message":"chore: update search index [$TIMESTAMP]","content":"$CONTENT"}"
+          else
+            PAYLOAD="{"message":"chore: update search index [$TIMESTAMP]","content":"$CONTENT","sha":"$SHA"}"
+          fi
+          
+          # Push the file via API
+          curl -s -X PUT             -H "Authorization: Bearer $GH_PAT"             -H "Content-Type: application/json"             -d "$PAYLOAD"             "https://api.github.com/repos/$GH_OWNER/$GH_REPO/contents/search-index.json"
+          
+          echo "Done updating search-index.json"
