@@ -37,7 +37,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
           git add search-index.json
           git diff --staged --quiet || git commit -m "chore: update search index [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
-          git pull --rebase origin main
-          git push
+          git push origin main
