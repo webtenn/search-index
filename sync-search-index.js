@@ -203,7 +203,7 @@ async function main() {
       const useCaseIds = Array.isArray(f["use-cases"]) ? f["use-cases"] : [];
       const useCases = resolveRefs(useCaseIds, useCasesMap);
 
-      const industryIds = Array.isArray(f["industries"]) ? f["industries"] : [];
+      const industryIds = Array.isArray(f["industries"]) ? f["industries"] : Array.isArray(f["categories"]) ? f["categories"] : [];
       const industries = resolveRefs(industryIds, industriesMap);
 
       allItems.push({
