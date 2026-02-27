@@ -1,1 +1,42 @@
+name: Sync Search Index
 
+on:
+  # ── Run once a day at 2:00 AM UTC ──────────────────────────────────────────
+  schedule:
+    - cron: "0 2 * * *"
+
+  # ── Allow manual trigger from GitHub Actions UI ────────────────────────────
+  workflow_dispatch:
+
+  # ── Triggered by Webflow webhook via GitHub API ────────────────────────────
+  repository_dispatch:
+    types: [webflow_publish]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run sync script
+        env:
+          WEBFLOW_API_TOKEN: ${{ secrets.WEBFLOW_API_TOKEN }}
+          WEBFLOW_SITE_ID: ${{ secrets.WEBFLOW_SITE_ID }}
+        run: node sync-search-index.js
+
+      - name: Commit and push updated index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add search-index.json
+          git diff --staged --quiet || git commit -m "chore: update search index [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+          git push
