@@ -1,13 +1,16 @@
 /**
  * Webflow Search Index Sync Script
- * 
+ *
  * Fetches all content from 6 Webflow collections, resolves references
  * (Authors, Resource Types, Use Cases, Industries), and writes a unified
- * search-index.json file to the repo.
- * 
+ * search-index.json file, then uploads it to GitHub via the API.
+ *
  * Required environment variables:
  *   WEBFLOW_API_TOKEN  — Site API token (CMS read)
  *   WEBFLOW_SITE_ID    — Your Webflow Site ID
+ *   GH_PAT             — GitHub Personal Access Token (repo scope)
+ *   GH_OWNER           — GitHub username or org
+ *   GH_REPO            — GitHub repo name
  */
 
 const fs = require("fs");
@@ -16,8 +19,8 @@ const path = require("path");
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
 
 const API_TOKEN = process.env.WEBFLOW_API_TOKEN;
-const SITE_ID = process.env.WEBFLOW_SITE_ID;
-const BASE_URL = "https://api.webflow.com/v2";
+const SITE_ID   = process.env.WEBFLOW_SITE_ID;
+const BASE_URL  = "https://api.webflow.com/v2";
 
 const COLLECTION_IDS = {
   blogs:         "658f221d560869e694a6072e",
@@ -35,7 +38,6 @@ const REFERENCE_COLLECTION_IDS = {
   industries:    "658f221d560869e694a6072c",
 };
 
-// URL prefix for each collection — maps to existing Webflow URL structure
 const COLLECTION_URL_PREFIX = {
   blogs:         "/blog",
   caseStudies:   "/case-studies",
@@ -54,10 +56,6 @@ const headers = {
   "accept-version": "1.0.0",
 };
 
-/**
- * Fetch all items from a collection, handling pagination automatically.
- * Webflow v2 API returns max 100 items per page.
- */
 async function fetchAllItems(collectionId) {
   let items = [];
   let offset = 0;
@@ -76,7 +74,6 @@ async function fetchAllItems(collectionId) {
     const page = data.items || [];
     items = items.concat(page);
 
-    // If we got fewer items than the limit, we've reached the last page
     if (page.length < limit) break;
     offset += limit;
   }
@@ -84,10 +81,6 @@ async function fetchAllItems(collectionId) {
   return items;
 }
 
-/**
- * Build a lookup map from a reference collection: { itemId -> name }
- * Optionally also captures a secondary field (e.g. photo for Authors).
- */
 async function buildLookupMap(collectionId, nameField = "name", extraFields = []) {
   const items = await fetchAllItems(collectionId);
   const map = {};
@@ -103,19 +96,66 @@ async function buildLookupMap(collectionId, nameField = "name", extraFields = []
   return map;
 }
 
-/**
- * Resolve a single reference ID to a name using a lookup map.
- */
 function resolveRef(id, map) {
   return map[id]?.name || null;
 }
 
-/**
- * Resolve an array of reference IDs to an array of names.
- */
 function resolveRefs(ids, map) {
   if (!Array.isArray(ids)) return [];
   return ids.map((id) => resolveRef(id, map)).filter(Boolean);
+}
+
+// ─── GITHUB UPLOAD ────────────────────────────────────────────────────────────
+
+async function uploadToGitHub(content, token, owner, repo) {
+  const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/search-index.json`;
+  const encoded = Buffer.from(content).toString("base64");
+
+  // Get current file SHA if it exists (required for updates)
+  let sha = null;
+  try {
+    const res = await fetch(apiUrl, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        Accept: "application/vnd.github.v3+json",
+      },
+    });
+    if (res.ok) {
+      const data = await res.json();
+      sha = data.sha || null;
+      console.log(`  Current file SHA: ${sha}`);
+    } else {
+      console.log(`  File does not exist yet, will create it`);
+    }
+  } catch (e) {
+    console.log(`  Could not fetch existing SHA: ${e.message}`);
+  }
+
+  const body = {
+    message: `chore: update search index [${new Date().toISOString()}]`,
+    content: encoded,
+  };
+
+  if (sha) {
+    body.sha = sha;
+  }
+
+  const res = await fetch(apiUrl, {
+    method: "PUT",
+    headers: {
+      Authorization: `Bearer ${token}`,
+      Accept: "application/vnd.github.v3+json",
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(body),
+  });
+
+  if (!res.ok) {
+    const err = await res.text();
+    throw new Error(`GitHub API upload failed: ${res.status} ${err}`);
+  }
+
+  console.log(`✅ search-index.json successfully uploaded to GitHub`);
 }
 
 // ─── MAIN ─────────────────────────────────────────────────────────────────────
@@ -126,7 +166,6 @@ async function main() {
 
   console.log("🔄 Building reference lookup maps...");
 
-  // Fetch all reference collections in parallel
   const [authorsMap, resourceTypesMap, useCasesMap, industriesMap] = await Promise.all([
     buildLookupMap(REFERENCE_COLLECTION_IDS.authors, "name", ["photo"]),
     buildLookupMap(REFERENCE_COLLECTION_IDS.resourceTypes, "name"),
@@ -141,7 +180,6 @@ async function main() {
 
   const allItems = [];
 
-  // ── Process each content collection ────────────────────────────────────────
   for (const [collectionKey, collectionId] of Object.entries(COLLECTION_IDS)) {
     console.log(`\n📦 Fetching ${collectionKey}...`);
     const items = await fetchAllItems(collectionId);
@@ -150,7 +188,6 @@ async function main() {
     for (const item of items) {
       const f = item.fieldData || {};
 
-      // Resolve author reference
       const authorId = f["author"] || null;
       const author = authorId
         ? {
@@ -159,22 +196,16 @@ async function main() {
           }
         : null;
 
-      // Resolve resource type (single reference)
-      // Blogs use "resource-types", Case Studies use "resource-type"
+      // Blogs use "resource-types", all others use "resource-type"
       const resourceTypeId = f["resource-types"] || f["resource-type"] || null;
       const resourceType = resourceTypeId ? resolveRef(resourceTypeId, resourceTypesMap) : null;
 
-      // Resolve use cases (multi-reference — array of IDs)
-      // Webflow field slug: "use-cases" (can be null if not filled in)
       const useCaseIds = Array.isArray(f["use-cases"]) ? f["use-cases"] : [];
       const useCases = resolveRefs(useCaseIds, useCasesMap);
 
-      // Resolve industries (multi-reference — array of IDs)
-      // Webflow field slug: "industries" (can be null if not filled in)
       const industryIds = Array.isArray(f["industries"]) ? f["industries"] : [];
       const industries = resolveRefs(industryIds, industriesMap);
 
-      // Build the unified item
       allItems.push({
         id:            item.id,
         collection:    collectionKey,
@@ -192,17 +223,31 @@ async function main() {
     }
   }
 
-  // ── Write output ────────────────────────────────────────────────────────────
+  // ── Write JSON file ──────────────────────────────────────────────────────
   const output = {
     lastUpdated: new Date().toISOString(),
-    totalItems: allItems.length,
-    items: allItems,
+    totalItems:  allItems.length,
+    items:       allItems,
   };
 
-  fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2));
+  const jsonContent = JSON.stringify(output, null, 2);
+  fs.writeFileSync(OUTPUT_PATH, jsonContent);
 
   console.log(`\n✅ Done! ${allItems.length} total items written to search-index.json`);
   console.log(`   Last updated: ${output.lastUpdated}`);
+
+  // ── Upload to GitHub ─────────────────────────────────────────────────────
+  const GH_PAT   = process.env.GH_PAT;
+  const GH_OWNER = process.env.GH_OWNER;
+  const GH_REPO  = process.env.GH_REPO;
+
+  console.log(`\n📤 GitHub upload vars — owner: ${GH_OWNER}, repo: ${GH_REPO}, token: ${GH_PAT ? "set" : "MISSING"}`);
+
+  if (GH_PAT && GH_OWNER && GH_REPO) {
+    await uploadToGitHub(jsonContent, GH_PAT, GH_OWNER, GH_REPO);
+  } else {
+    console.log(`⚠️  Skipping upload — one or more GitHub env vars are missing`);
+  }
 }
 
 main().catch((err) => {
