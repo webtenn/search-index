@@ -160,31 +160,34 @@ async function main() {
         : null;
 
       // Resolve resource type (single reference)
-      const resourceTypeId = f["resource-type"] || null;
+      // Blogs use "resource-types", Case Studies use "resource-type"
+      const resourceTypeId = f["resource-types"] || f["resource-type"] || null;
       const resourceType = resourceTypeId ? resolveRef(resourceTypeId, resourceTypesMap) : null;
 
       // Resolve use cases (multi-reference — array of IDs)
-      const useCaseIds = f["use-cases"] || f["use-case"] || [];
+      // Webflow field slug: "use-cases" (can be null if not filled in)
+      const useCaseIds = Array.isArray(f["use-cases"]) ? f["use-cases"] : [];
       const useCases = resolveRefs(useCaseIds, useCasesMap);
 
       // Resolve industries (multi-reference — array of IDs)
-      const industryIds = f["industries"] || f["industry"] || [];
+      // Webflow field slug: "industries" (can be null if not filled in)
+      const industryIds = Array.isArray(f["industries"]) ? f["industries"] : [];
       const industries = resolveRefs(industryIds, industriesMap);
 
       // Build the unified item
       allItems.push({
-        id:           item.id,
-        collection:   collectionKey,
-        resourceType: resourceType,
-        title:        f["name"] || f["title"] || "",
-        slug:         f["slug"] || item.fieldData?.slug || "",
-        url:          `${COLLECTION_URL_PREFIX[collectionKey]}/${f["slug"] || ""}`,
-        excerpt:      f["excerpt"] || f["post-summary"] || f["description"] || "",
-        thumbnail:    f["thumbnail"]?.url || f["main-image"]?.url || f["featured-image"]?.url || null,
-        publishedDate: f["published-date"] || f["date"] || null,
-        author:       author,
-        useCases:     useCases,
-        industries:   industries,
+        id:            item.id,
+        collection:    collectionKey,
+        resourceType:  resourceType,
+        title:         f["name"] || f["title"] || "",
+        slug:          f["slug"] || "",
+        url:           `${COLLECTION_URL_PREFIX[collectionKey]}/${f["slug"] || ""}`,
+        excerpt:       f["excerpt"] || f["post-summary"] || f["description"] || "",
+        thumbnail:     f["image"]?.url || f["thumbnail"]?.url || f["featured-image"]?.url || null,
+        publishedDate: f["publish-date"] || f["published-date"] || f["date"] || null,
+        author:        author,
+        useCases:      useCases,
+        industries:    industries,
       });
     }
   }
