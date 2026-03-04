@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T04:16:21.691Z",
+  "lastUpdated": "2026-03-04T04:09:44.642Z",
   "totalItems": 496,
   "items": [
     {
@@ -118,7 +118,7 @@
     {
       "id": "68c4668ed7620831d643ae3d",
       "collection": "blogs",
-      "resourceType": null,
+      "resourceType": "Blogs",
       "title": "LLM Hallucinations: Why Models Make Mistakes & How to Fix Them",
       "slug": "ai-hallucinations",
       "url": "/blog/ai-hallucinations",
@@ -268,7 +268,7 @@
     {
       "id": "6823682f33bd05ee8ed467cc",
       "collection": "blogs",
-      "resourceType": null,
+      "resourceType": "Blogs",
       "title": "Navigating Foundation Model Selection: How to Future-Proof Your Generative AI Investments ",
       "slug": "how-to-select-the-right-foundation-model-for-generative-ai",
       "url": "/blog/how-to-select-the-right-foundation-model-for-generative-ai",
@@ -637,12 +637,12 @@
     {
       "id": "6616e3e15647ce79bce12189",
       "collection": "blogs",
-      "resourceType": null,
+      "resourceType": "Blogs",
       "title": "Boosting Data Quality with Appen's Human-centric AI Detector Model",
       "slug": "appen-human-centric-ai-detector-model-boosts-data-quality",
       "url": "/blog/appen-human-centric-ai-detector-model-boosts-data-quality",
       "excerpt": "Explore how Appen has achieved many milestones and developed innovative methods to enhance the quality of human-generated data for AI model training.",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/6616e37d19313fe9e7d29cbe_boosting-data-quality-header.jpg",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6616e37d19313fe9e7d29cbe_boosting-data-quality-header.jpg",
       "publishedDate": "2024-04-10T00:00:00.000Z",
       "author": {
         "name": "Alice Desthuilliers",
