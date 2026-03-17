@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-17T20:48:49.926Z",
-  "totalItems": 491,
+  "lastUpdated": "2026-03-17T21:56:35.813Z",
+  "totalItems": 500,
   "items": [
     {
       "id": "69851ab52548b694527e9d93",
@@ -17,7 +17,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6914b009f1c1446d854c8da2",
@@ -31,7 +34,10 @@
       "publishedDate": "2025-11-12T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "69121d33be42b7f49dcb81ae",
@@ -48,7 +54,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "68f12cd7b6a1a541b71c5997",
@@ -65,7 +74,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "68f10d7411f70ce1ff96bf6f",
@@ -82,7 +94,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "68e572bdfc317e4f34befd14",
@@ -99,7 +114,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "68d31859d9a0f42c2a06abde",
@@ -113,7 +131,10 @@
       "publishedDate": "2025-09-24T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "68c4668ed7620831d643ae3d",
@@ -130,7 +151,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "68b1e1e520a110075b080907",
@@ -147,7 +171,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "68b0a39da2fde38011929f08",
@@ -161,7 +188,10 @@
       "publishedDate": "2025-08-28T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6887e4032b8073c716783ddc",
@@ -178,7 +208,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "687e8a42387afa9466b3440e",
@@ -195,7 +228,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "68790fb7c467efb57fa93efd",
@@ -212,7 +248,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "686d2e673c476ecfc485deef",
@@ -229,7 +268,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "684c4ff7f1009e0a9d55bbd2",
@@ -246,7 +288,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "683df11a34ef5ec5d167b6c5",
@@ -263,7 +308,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6823682f33bd05ee8ed467cc",
@@ -280,7 +328,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "681cfc7963eb21beac24eb09",
@@ -294,7 +345,10 @@
       "publishedDate": "2025-05-08T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6809472a62e3073906b20dc3",
@@ -308,7 +362,10 @@
       "publishedDate": "2025-04-23T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "67ed4d70895ae3c345d75917",
@@ -325,7 +382,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "67dd7fb3d1fd3a467fe64a11",
@@ -342,7 +402,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "67d3314743c7ab3c877f8b8f",
@@ -359,7 +422,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "67a64949aaca06a66a0cfd12",
@@ -376,7 +442,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "67633cd159c5611baea670e5",
@@ -393,7 +462,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "67362d0412ae050d4a2475ac",
@@ -410,7 +482,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "671fa7b4cc1bee95feabc1aa",
@@ -427,7 +502,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "67188a8993f3aece412dabd5",
@@ -446,7 +524,10 @@
       "useCases": [],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6716a45957d8ab0be7d20736",
@@ -463,7 +544,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6706e48bcc2d20bcc6f2bac6",
@@ -480,7 +564,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "66a26596681a763b2599bf66",
@@ -497,7 +584,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "667d7150f5e4e3e59e89e1ee",
@@ -511,7 +601,10 @@
       "publishedDate": "2024-06-27T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "66745ea8ed848db01c26b627",
@@ -528,7 +621,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6661f17b350ff9c61c705e84",
@@ -542,7 +638,10 @@
       "publishedDate": "2024-06-06T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6650e95f4171a5436d448576",
@@ -559,7 +658,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "664f4df993e51011a291ab11",
@@ -573,7 +675,10 @@
       "publishedDate": "2024-05-23T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "663bd45348ca6f78ba49145b",
@@ -587,7 +692,10 @@
       "publishedDate": "2024-05-09T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "66215bd07eae557eb8e2683f",
@@ -601,7 +709,10 @@
       "publishedDate": "2024-04-18T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "661e9b4e4b2f80842817f036",
@@ -618,7 +729,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6617f1a555838d37c05f3709",
@@ -632,7 +746,10 @@
       "publishedDate": "2024-04-11T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6616e3e15647ce79bce12189",
@@ -649,7 +766,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "660ec4466eb33a46eb14d480",
@@ -666,7 +786,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6605b0fadcee2a03c19605fc",
@@ -680,7 +803,10 @@
       "publishedDate": "2024-03-28T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65fafd9b239aa43b0dea5d43",
@@ -697,7 +823,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65edf5d50a440ab8f8ade4d1",
@@ -714,7 +843,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65d7c4dd5ef69842b066f0ae",
@@ -731,7 +863,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65d6146217db1f6483229d42",
@@ -748,7 +883,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65d61309c19ef5a14754c69e",
@@ -765,7 +903,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65b90ea41a1db0c9c0c7870a",
@@ -782,7 +923,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65a7ef25c44cc08b605f3849",
@@ -799,7 +943,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60987",
@@ -816,7 +963,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60986",
@@ -839,7 +989,10 @@
         "Government",
         "Healthcare",
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60985",
@@ -856,7 +1009,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60984",
@@ -880,7 +1036,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60982",
@@ -899,7 +1058,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6097c",
@@ -921,7 +1083,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60983",
@@ -938,7 +1103,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6097f",
@@ -955,7 +1123,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6097d",
@@ -972,7 +1143,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60980",
@@ -998,7 +1172,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6097e",
@@ -1017,7 +1194,10 @@
       "useCases": [
         "AI & Machine Learning"
       ],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60979",
@@ -1041,7 +1221,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6097a",
@@ -1058,7 +1241,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6097b",
@@ -1077,7 +1263,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60976",
@@ -1096,7 +1285,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60977",
@@ -1115,7 +1307,10 @@
       "useCases": [],
       "industries": [
         "Government"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60978",
@@ -1138,7 +1333,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60973",
@@ -1157,7 +1355,10 @@
       "useCases": [
         "AI & Machine Learning"
       ],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60974",
@@ -1174,7 +1375,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60975",
@@ -1191,7 +1395,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60971",
@@ -1208,7 +1415,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6096c",
@@ -1225,7 +1435,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6096d",
@@ -1242,7 +1455,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6096e",
@@ -1259,7 +1475,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6096f",
@@ -1283,7 +1502,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6096b",
@@ -1300,7 +1522,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6096a",
@@ -1317,7 +1542,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60969",
@@ -1334,7 +1562,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60964",
@@ -1351,7 +1582,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60967",
@@ -1368,7 +1602,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60966",
@@ -1385,7 +1622,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60965",
@@ -1402,7 +1642,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60961",
@@ -1419,7 +1662,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60960",
@@ -1436,7 +1682,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6095e",
@@ -1453,7 +1702,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60962",
@@ -1470,7 +1722,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6095a",
@@ -1487,7 +1742,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6095c",
@@ -1504,7 +1762,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60959",
@@ -1521,7 +1782,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60957",
@@ -1538,7 +1802,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60958",
@@ -1555,7 +1822,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60955",
@@ -1572,7 +1842,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60956",
@@ -1589,7 +1862,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60953",
@@ -1606,7 +1882,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6094f",
@@ -1623,7 +1902,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6094d",
@@ -1640,7 +1922,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6094c",
@@ -1657,7 +1942,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60952",
@@ -1674,7 +1962,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60950",
@@ -1691,7 +1982,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6094a",
@@ -1708,7 +2002,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6094b",
@@ -1725,7 +2022,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60946",
@@ -1742,7 +2042,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60945",
@@ -1759,7 +2062,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60948",
@@ -1776,7 +2082,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60949",
@@ -1793,7 +2102,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60947",
@@ -1810,7 +2122,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60943",
@@ -1827,7 +2142,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60942",
@@ -1844,7 +2162,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60940",
@@ -1861,7 +2182,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60941",
@@ -1878,7 +2202,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6093b",
@@ -1895,7 +2222,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6093c",
@@ -1912,7 +2242,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6093e",
@@ -1929,7 +2262,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60939",
@@ -1946,7 +2282,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6093a",
@@ -1965,7 +2304,10 @@
       "useCases": [
         "AI & Machine Learning"
       ],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60937",
@@ -1984,7 +2326,10 @@
       "useCases": [],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60936",
@@ -2001,7 +2346,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60935",
@@ -2018,7 +2366,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60934",
@@ -2035,7 +2386,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6092f",
@@ -2052,7 +2406,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60931",
@@ -2069,7 +2426,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60933",
@@ -2086,7 +2446,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60930",
@@ -2103,7 +2466,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6092b",
@@ -2122,7 +2488,10 @@
       "useCases": [],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6092d",
@@ -2139,7 +2508,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6092a",
@@ -2156,7 +2528,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6092e",
@@ -2173,7 +2548,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60929",
@@ -2190,7 +2568,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60928",
@@ -2207,7 +2588,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60926",
@@ -2224,7 +2608,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60921",
@@ -2241,7 +2628,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60922",
@@ -2258,7 +2648,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60925",
@@ -2275,7 +2668,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60923",
@@ -2292,7 +2688,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60924",
@@ -2309,7 +2708,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60920",
@@ -2326,7 +2728,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6091d",
@@ -2343,7 +2748,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60919",
@@ -2367,7 +2775,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6091a",
@@ -2391,7 +2802,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6091c",
@@ -2408,7 +2822,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60917",
@@ -2432,7 +2849,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60918",
@@ -2456,7 +2876,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60916",
@@ -2473,7 +2896,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60915",
@@ -2497,7 +2923,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60913",
@@ -2514,7 +2943,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60911",
@@ -2538,7 +2970,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60912",
@@ -2562,7 +2997,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6090f",
@@ -2586,7 +3024,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60910",
@@ -2610,7 +3051,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6090e",
@@ -2634,7 +3078,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6090d",
@@ -2658,7 +3105,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6090c",
@@ -2675,7 +3125,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6090b",
@@ -2699,7 +3152,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60909",
@@ -2723,7 +3179,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60908",
@@ -2747,7 +3206,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60906",
@@ -2771,7 +3233,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60907",
@@ -2795,7 +3260,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60905",
@@ -2819,7 +3287,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60904",
@@ -2843,7 +3314,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60903",
@@ -2867,7 +3341,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60902",
@@ -2891,7 +3368,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60901",
@@ -2915,7 +3395,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60900",
@@ -2939,7 +3422,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ff",
@@ -2963,7 +3449,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608fc",
@@ -2987,7 +3476,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608fe",
@@ -3011,7 +3503,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608fd",
@@ -3035,7 +3530,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608f8",
@@ -3059,7 +3557,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608fb",
@@ -3083,7 +3584,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608fa",
@@ -3107,7 +3611,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608f6",
@@ -3131,7 +3638,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608f7",
@@ -3155,7 +3665,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608f5",
@@ -3179,7 +3692,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608f1",
@@ -3203,7 +3719,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608f4",
@@ -3227,7 +3746,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608f3",
@@ -3251,7 +3773,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608f0",
@@ -3275,7 +3800,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ee",
@@ -3299,7 +3827,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ef",
@@ -3323,7 +3854,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ec",
@@ -3347,7 +3881,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608eb",
@@ -3374,7 +3911,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ea",
@@ -3398,7 +3938,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ed",
@@ -3420,7 +3963,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608e9",
@@ -3444,7 +3990,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608e8",
@@ -3461,7 +4010,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608e3",
@@ -3485,7 +4037,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608e5",
@@ -3509,7 +4064,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608e4",
@@ -3528,7 +4086,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608e1",
@@ -3552,7 +4113,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608e2",
@@ -3576,7 +4140,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608dc",
@@ -3600,7 +4167,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608dd",
@@ -3624,7 +4194,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608de",
@@ -3645,7 +4218,10 @@
         "Automotive",
         "Healthcare",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608e0",
@@ -3669,7 +4245,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608df",
@@ -3695,7 +4274,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608da",
@@ -3716,7 +4298,10 @@
         "Government",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608db",
@@ -3735,7 +4320,10 @@
       "useCases": [],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608d8",
@@ -3754,7 +4342,10 @@
       "useCases": [],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608d7",
@@ -3778,7 +4369,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608d5",
@@ -3797,7 +4391,10 @@
       "useCases": [],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608d9",
@@ -3821,7 +4418,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608d4",
@@ -3845,7 +4445,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608d3",
@@ -3867,7 +4470,10 @@
       "industries": [
         "Automotive",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608d2",
@@ -3891,7 +4497,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608cf",
@@ -3915,7 +4524,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ce",
@@ -3939,7 +4551,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608d0",
@@ -3958,7 +4573,10 @@
       "useCases": [],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608d1",
@@ -3982,7 +4600,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608cc",
@@ -4010,7 +4631,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608cd",
@@ -4029,7 +4653,10 @@
       "useCases": [],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608c9",
@@ -4053,7 +4680,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608cb",
@@ -4077,7 +4707,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ca",
@@ -4101,7 +4734,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608c8",
@@ -4125,7 +4761,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608c6",
@@ -4149,7 +4788,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608c4",
@@ -4172,7 +4814,10 @@
         "Finance",
         "Healthcare",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608c7",
@@ -4196,7 +4841,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608c2",
@@ -4219,7 +4867,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608c3",
@@ -4242,7 +4893,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608c0",
@@ -4263,7 +4917,10 @@
       ],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608c1",
@@ -4289,7 +4946,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608bc",
@@ -4308,7 +4968,10 @@
       "useCases": [
         "AI & Machine Learning"
       ],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608be",
@@ -4332,7 +4995,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608bb",
@@ -4351,7 +5017,10 @@
       "useCases": [],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608bd",
@@ -4375,7 +5044,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608b8",
@@ -4396,7 +5068,10 @@
       ],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608b9",
@@ -4418,7 +5093,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ba",
@@ -4435,7 +5113,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608b6",
@@ -4454,7 +5135,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608b7",
@@ -4471,7 +5155,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608b3",
@@ -4490,7 +5177,10 @@
       "useCases": [],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608b5",
@@ -4509,7 +5199,10 @@
       "useCases": [],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ae",
@@ -4526,7 +5219,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608b2",
@@ -4554,7 +5250,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608b0",
@@ -4573,7 +5272,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608af",
@@ -4590,7 +5292,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608b1",
@@ -4609,7 +5314,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ac",
@@ -4631,7 +5339,10 @@
       "industries": [
         "Finance",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ad",
@@ -4652,7 +5363,10 @@
       ],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608ab",
@@ -4673,7 +5387,10 @@
       ],
       "industries": [
         "Healthcare"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608a9",
@@ -4695,7 +5412,10 @@
       "industries": [
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608a7",
@@ -4714,7 +5434,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608aa",
@@ -4740,7 +5463,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608a8",
@@ -4765,7 +5491,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608a4",
@@ -4792,7 +5521,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608a5",
@@ -4815,7 +5547,10 @@
       "industries": [
         "Healthcare",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608a2",
@@ -4842,7 +5577,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608a6",
@@ -4869,7 +5607,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6089e",
@@ -4893,7 +5634,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6089d",
@@ -4917,7 +5661,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608a0",
@@ -4943,7 +5690,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6089f",
@@ -4960,7 +5710,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a608a1",
@@ -4981,7 +5734,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6089c",
@@ -5003,7 +5759,10 @@
       ],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6089b",
@@ -5025,7 +5784,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60897",
@@ -5048,7 +5810,10 @@
       ],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60899",
@@ -5069,7 +5834,10 @@
       ],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60898",
@@ -5090,7 +5858,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6089a",
@@ -5111,7 +5882,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60895",
@@ -5134,7 +5908,10 @@
       ],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60896",
@@ -5160,7 +5937,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60894",
@@ -5186,7 +5966,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60891",
@@ -5207,7 +5990,10 @@
       ],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60890",
@@ -5233,7 +6019,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60893",
@@ -5254,7 +6043,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6088c",
@@ -5276,7 +6068,10 @@
       "industries": [
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6088d",
@@ -5302,7 +6097,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6088f",
@@ -5323,7 +6121,10 @@
         "Finance",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6088e",
@@ -5346,7 +6147,10 @@
         "Automotive",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60889",
@@ -5370,7 +6174,10 @@
         "Government",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6088a",
@@ -5389,7 +6196,10 @@
       "useCases": [
         "AI & Machine Learning"
       ],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6088b",
@@ -5410,7 +6220,10 @@
       ],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60888",
@@ -5436,7 +6249,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60887",
@@ -5455,7 +6271,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60886",
@@ -5479,7 +6298,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60885",
@@ -5502,7 +6324,10 @@
         "Government",
         "Healthcare",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60882",
@@ -5526,7 +6351,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60884",
@@ -5547,7 +6375,10 @@
       ],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60883",
@@ -5566,7 +6397,10 @@
       "useCases": [],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6087e",
@@ -5588,7 +6422,10 @@
       "industries": [
         "Government",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6087f",
@@ -5610,7 +6447,10 @@
       ],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60881",
@@ -5636,7 +6476,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60880",
@@ -5653,7 +6496,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60877",
@@ -5677,7 +6523,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60879",
@@ -5698,7 +6547,10 @@
       ],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6087a",
@@ -5724,7 +6576,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60878",
@@ -5750,7 +6605,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60875",
@@ -5776,7 +6634,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60876",
@@ -5802,7 +6663,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60874",
@@ -5824,7 +6688,10 @@
         "Government",
         "Healthcare",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60872",
@@ -5849,7 +6716,10 @@
         "Finance",
         "Healthcare",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60871",
@@ -5873,7 +6743,10 @@
         "Retail",
         "Technology",
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60873",
@@ -5894,7 +6767,10 @@
       ],
       "industries": [
         "Healthcare"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6086f",
@@ -5913,7 +6789,10 @@
       "useCases": [],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6086c",
@@ -5937,7 +6816,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6086b",
@@ -5960,7 +6842,10 @@
         "Finance",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60870",
@@ -5984,7 +6869,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6086a",
@@ -6005,7 +6893,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6086e",
@@ -6026,7 +6917,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60866",
@@ -6053,7 +6947,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60867",
@@ -6075,7 +6972,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60869",
@@ -6094,7 +6994,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60868",
@@ -6118,7 +7021,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60864",
@@ -6137,7 +7043,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60862",
@@ -6156,7 +7065,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60863",
@@ -6178,7 +7090,10 @@
       "industries": [
         "Finance",
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60865",
@@ -6200,7 +7115,10 @@
       ],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60860",
@@ -6224,7 +7142,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6085f",
@@ -6247,7 +7168,10 @@
         "Automotive",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60861",
@@ -6269,7 +7193,10 @@
       "industries": [
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6085e",
@@ -6293,7 +7220,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60859",
@@ -6315,7 +7245,10 @@
       ],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6085b",
@@ -6336,7 +7269,10 @@
       ],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60858",
@@ -6358,7 +7294,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6085a",
@@ -6379,7 +7318,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60857",
@@ -6400,7 +7342,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6085d",
@@ -6422,7 +7367,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60855",
@@ -6443,7 +7391,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60856",
@@ -6464,7 +7415,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60854",
@@ -6485,7 +7439,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60852",
@@ -6505,7 +7462,10 @@
       "industries": [
         "Government",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60853",
@@ -6524,7 +7484,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60851",
@@ -6543,7 +7506,10 @@
       "useCases": [],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60850",
@@ -6564,7 +7530,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6084d",
@@ -6585,7 +7554,10 @@
       ],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6084c",
@@ -6602,7 +7574,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6084e",
@@ -6621,7 +7596,10 @@
       "useCases": [],
       "industries": [
         "Government"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6084f",
@@ -6640,7 +7618,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6084b",
@@ -6661,7 +7642,10 @@
       ],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60846",
@@ -6683,7 +7667,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60849",
@@ -6709,7 +7696,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6084a",
@@ -6730,7 +7720,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60847",
@@ -6752,7 +7745,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60844",
@@ -6776,7 +7772,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60843",
@@ -6798,7 +7797,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60845",
@@ -6819,7 +7821,10 @@
       ],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60842",
@@ -6841,7 +7846,10 @@
       "industries": [
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60840",
@@ -6863,7 +7871,10 @@
       ],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60841",
@@ -6886,7 +7897,10 @@
         "Automotive",
         "Finance",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6083f",
@@ -6905,7 +7919,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6083e",
@@ -6922,7 +7939,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6083d",
@@ -6948,7 +7968,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6083c",
@@ -6974,7 +7997,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6082b",
@@ -6991,7 +8017,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60829",
@@ -7011,7 +8040,10 @@
       "industries": [
         "Healthcare",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60828",
@@ -7028,7 +8060,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6082a",
@@ -7052,7 +8087,10 @@
         "Healthcare",
         "Technology",
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "691f49d636321bbb25c107f4",
@@ -7066,7 +8104,10 @@
       "publishedDate": "2025-11-20T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "68712b3061080eebea24e248",
@@ -7080,7 +8121,10 @@
       "publishedDate": "2025-07-11T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "67ed46688a53b2316c3c2fa5",
@@ -7104,7 +8148,10 @@
       "industries": [
         "Technology",
         "Software"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "67bf38b3bc3cff86735d5ace",
@@ -7120,7 +8167,10 @@
       "useCases": [
         "Chat"
       ],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "67acd08bc0d2e576cb84beda",
@@ -7134,7 +8184,10 @@
       "publishedDate": "2025-02-13T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "67acce1ead152aa41f4b787d",
@@ -7148,7 +8201,10 @@
       "publishedDate": "2025-02-13T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "673621f5c6af453da16d1494",
@@ -7162,7 +8218,10 @@
       "publishedDate": "2024-11-14T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6709416c0d7860bb0d605b63",
@@ -7176,7 +8235,10 @@
       "publishedDate": "2024-10-11T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609e4",
@@ -7197,7 +8259,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609e3",
@@ -7214,7 +8279,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609e2",
@@ -7231,7 +8299,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609dc",
@@ -7248,7 +8319,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609df",
@@ -7265,7 +8339,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609dd",
@@ -7284,7 +8361,10 @@
       "useCases": [
         "Computer Vision"
       ],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609e0",
@@ -7301,7 +8381,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609de",
@@ -7318,7 +8401,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609d8",
@@ -7339,7 +8425,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609d5",
@@ -7360,7 +8449,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609d9",
@@ -7381,7 +8473,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609d6",
@@ -7401,7 +8496,10 @@
         "NLP & Speech",
         "Data Annotation"
       ],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609da",
@@ -7422,7 +8520,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609db",
@@ -7443,7 +8544,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609d3",
@@ -7464,7 +8568,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609d4",
@@ -7485,7 +8592,10 @@
       ],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609d1",
@@ -7506,7 +8616,10 @@
       ],
       "industries": [
         "Healthcare"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609d0",
@@ -7527,7 +8640,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609d2",
@@ -7549,7 +8665,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609cf",
@@ -7568,7 +8687,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609cc",
@@ -7589,7 +8711,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609ca",
@@ -7610,7 +8735,10 @@
       ],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609ce",
@@ -7632,7 +8760,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609cb",
@@ -7653,7 +8784,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609cd",
@@ -7674,7 +8808,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609c4",
@@ -7693,7 +8830,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609c9",
@@ -7714,7 +8854,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609c8",
@@ -7735,7 +8878,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609c7",
@@ -7756,7 +8902,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609c5",
@@ -7777,7 +8926,10 @@
       ],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609be",
@@ -7798,7 +8950,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609c3",
@@ -7819,7 +8974,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609c0",
@@ -7838,7 +8996,10 @@
       "useCases": [],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609c2",
@@ -7859,7 +9020,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609c1",
@@ -7880,7 +9044,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609bf",
@@ -7901,7 +9068,10 @@
       ],
       "industries": [
         "Retail"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609bc",
@@ -7922,7 +9092,10 @@
       ],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609ba",
@@ -7943,7 +9116,10 @@
       ],
       "industries": [
         "Healthcare"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609b9",
@@ -7964,7 +9140,10 @@
       ],
       "industries": [
         "Healthcare"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609bd",
@@ -7985,7 +9164,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609bb",
@@ -8006,7 +9188,10 @@
       ],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "68d6adb541d18e0b3956bf62",
@@ -8020,7 +9205,10 @@
       "publishedDate": "2025-09-26T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "68d30f67de1c00bc258fec04",
@@ -8034,7 +9222,10 @@
       "publishedDate": "2025-09-24T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "68af091fce46d95b98e98f52",
@@ -8048,7 +9239,10 @@
       "publishedDate": "2025-08-27T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "687536f4b9f35c785040c377",
@@ -8062,7 +9256,10 @@
       "publishedDate": "2022-09-12T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "687536f18c5bf9c768dea41f",
@@ -8083,7 +9280,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "687536f17c4aec38987c960e",
@@ -8104,7 +9304,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "687536f1a5ce190b0d9d0ec9",
@@ -8125,7 +9328,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "687536f10ff42f1e3fa86862",
@@ -8146,7 +9352,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "687536f073c44fb82e42dc99",
@@ -8160,7 +9369,10 @@
       "publishedDate": "2024-10-22T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "687536f0cdf82283c57df62b",
@@ -8180,7 +9392,10 @@
       "industries": [
         "Automotive",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6851d94b9b1e6df2da1314d8",
@@ -8194,7 +9409,10 @@
       "publishedDate": "2025-06-18T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6809030f404727eff14c2964",
@@ -8208,7 +9426,10 @@
       "publishedDate": "2025-04-23T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "67c1cd22843db8b6c709a211",
@@ -8222,7 +9443,10 @@
       "publishedDate": "2025-02-28T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "674f5c2eac0cbf2df6c95615",
@@ -8236,7 +9460,10 @@
       "publishedDate": "2024-12-03T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "66f2e5bcd90074ab1303b2b8",
@@ -8250,7 +9477,10 @@
       "publishedDate": "2024-09-24T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "66b23e2478306a36e38d4a16",
@@ -8264,7 +9494,10 @@
       "publishedDate": "2024-08-06T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609f7",
@@ -8285,7 +9518,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609f6",
@@ -8306,7 +9542,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609f5",
@@ -8327,7 +9566,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609f4",
@@ -8343,7 +9585,10 @@
       "useCases": [],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609f3",
@@ -8364,7 +9609,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609f2",
@@ -8380,7 +9628,10 @@
       "useCases": [
         "Computer Vision"
       ],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609f1",
@@ -8399,7 +9650,10 @@
       ],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6903b40f6d68af9697aa1a85",
@@ -8413,7 +9667,10 @@
       "publishedDate": "2025-10-30T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6838cf37c1ea5446548196e6",
@@ -8427,7 +9684,10 @@
       "publishedDate": "2025-05-30T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6707eefd05addeb6802f0e60",
@@ -8441,7 +9701,10 @@
       "publishedDate": "2024-10-04T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "66217a4081dd064ba6a54163",
@@ -8455,7 +9718,10 @@
       "publishedDate": "2024-04-25T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "661ff148a52f869965db78db",
@@ -8469,7 +9735,10 @@
       "publishedDate": "2024-04-18T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6590a7a1ab58e12a9555cc11",
@@ -8483,7 +9752,10 @@
       "publishedDate": "2020-10-23T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65909b60e1e43a1655ebe2d9",
@@ -8497,7 +9769,10 @@
       "publishedDate": "2021-04-21T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65909886c64dcde8c653729f",
@@ -8511,7 +9786,10 @@
       "publishedDate": "2021-04-28T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6590978a5e79882f91f7a790",
@@ -8525,7 +9803,10 @@
       "publishedDate": "2021-08-12T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "659094b9ab58e12a954a82bc",
@@ -8543,7 +9824,10 @@
       ],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65909384e1e43a1655e7cd33",
@@ -8557,7 +9841,10 @@
       "publishedDate": "2019-08-28T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "659092ccba48a05dfdeca7f7",
@@ -8573,7 +9860,10 @@
       "useCases": [],
       "industries": [
         "Finance"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65909149ba48a05dfdebbec9",
@@ -8587,7 +9877,10 @@
       "publishedDate": "2019-03-26T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65908febeadc405562ce1a40",
@@ -8601,7 +9894,10 @@
       "publishedDate": "2019-05-28T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65908a71b954549820357c5b",
@@ -8619,7 +9915,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "659088d564761a9ccc387b15",
@@ -8633,7 +9932,10 @@
       "publishedDate": "2018-08-20T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6590876d0c1bc03529e3def5",
@@ -8651,7 +9953,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "659085885e79882f91ee7281",
@@ -8672,7 +9977,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65908355ba48a05dfde4a7cd",
@@ -8688,7 +9996,10 @@
       "useCases": [],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65907eaa09103cb044d6fa7b",
@@ -8709,7 +10020,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65906e0a322c326ec841633d",
@@ -8723,7 +10037,10 @@
       "publishedDate": "2022-11-18T00:00:00.000Z",
       "author": null,
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "65906b3379ac1d8d583b8b51",
@@ -8744,7 +10061,10 @@
         "Healthcare",
         "Retail",
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f3348c4c1c4b70c20e99b",
@@ -8762,7 +10082,10 @@
       ],
       "industries": [
         "Technology"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f2e241c31c1ee98fd741d",
@@ -8778,7 +10101,10 @@
       "useCases": [
         "Search"
       ],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609f8",
@@ -8794,7 +10120,10 @@
       "useCases": [],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "696a92e475477ff75b497b9c",
@@ -8811,7 +10140,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "696a925ed6103a095072e2c8",
@@ -8828,7 +10160,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "696a91e8051b3fd1bb4b0ff7",
@@ -8845,7 +10180,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "696a78e768484f96186b2d75",
@@ -8862,7 +10200,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "671a930a8916e1fdcc24ad40",
@@ -8879,7 +10220,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6717e431361a863363ef3dd0",
@@ -8896,7 +10240,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "66c8d09726eaf0b6aea43a22",
@@ -8913,7 +10260,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "661e97cca0ea3712f7da0302",
@@ -8930,7 +10280,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "6601d80547af787e36a466ee",
@@ -8947,7 +10300,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609b2",
@@ -8964,7 +10320,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609b6",
@@ -8981,7 +10340,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609b7",
@@ -8998,7 +10360,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609ad",
@@ -9015,7 +10380,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609af",
@@ -9032,7 +10400,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609b0",
@@ -9049,7 +10420,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609a9",
@@ -9066,7 +10440,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609aa",
@@ -9083,7 +10460,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609a8",
@@ -9100,7 +10480,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609a7",
@@ -9117,7 +10500,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609a6",
@@ -9134,7 +10520,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609a5",
@@ -9151,7 +10540,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609a4",
@@ -9168,7 +10560,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609a2",
@@ -9185,7 +10580,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609a1",
@@ -9202,7 +10600,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a609a0",
@@ -9219,7 +10620,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6099a",
@@ -9236,7 +10640,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6099b",
@@ -9253,7 +10660,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6099e",
@@ -9270,7 +10680,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6099d",
@@ -9287,7 +10700,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6099c",
@@ -9304,7 +10720,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6099f",
@@ -9321,7 +10740,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60995",
@@ -9338,7 +10760,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60994",
@@ -9355,7 +10780,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60997",
@@ -9372,7 +10800,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60998",
@@ -9389,7 +10820,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60999",
@@ -9406,7 +10840,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60996",
@@ -9423,7 +10860,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60993",
@@ -9440,7 +10880,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6098f",
@@ -9457,7 +10900,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60991",
@@ -9474,7 +10920,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60990",
@@ -9491,7 +10940,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6098c",
@@ -9510,7 +10962,10 @@
       "useCases": [],
       "industries": [
         "Government"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6098b",
@@ -9527,7 +10982,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6098d",
@@ -9544,7 +11002,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6098e",
@@ -9561,7 +11022,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a6098a",
@@ -9580,7 +11044,10 @@
       "useCases": [],
       "industries": [
         "Automotive"
-      ]
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60988",
@@ -9597,7 +11064,10 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
     },
     {
       "id": "658f221d560869e694a60989",
@@ -9614,7 +11084,163 @@
         "photo": null
       },
       "useCases": [],
-      "industries": []
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null
+    },
+    {
+      "id": "6904d79678376fa77b2cb9ab",
+      "collection": "events",
+      "resourceType": "Events",
+      "title": "Appen at NeurIPS 2025",
+      "slug": "neurips-2025",
+      "url": "/events/neurips-2025",
+      "excerpt": "Meet Appen at NeurIPS 2025 in San Diego. Gold Sponsor. Booth 902.",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6904db32c52aa1f355b10c41_NeurIPS-2025-visit-appen.png",
+      "publishedDate": "2025-10-31T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": "December 2-7, 2025",
+      "eventBooth": "#902",
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+    },
+    {
+      "id": "6877de7c40a255c4b2a958d8",
+      "collection": "events",
+      "resourceType": "Events",
+      "title": "Appen at ACL 2025 ",
+      "slug": "appen-at-acl-2025",
+      "url": "/events/appen-at-acl-2025",
+      "excerpt": "",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6877f0b2761bfe7d622ea1fd_Appen-at-ACL-2025.jpg",
+      "publishedDate": "2025-07-16T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": "July 28–30, 2025",
+      "eventBooth": "8",
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+    },
+    {
+      "id": "67f80a5518520d9c6f2f5591",
+      "collection": "events",
+      "resourceType": "Events",
+      "title": "Appen at ICLR 2025",
+      "slug": "appen-at-iclr-2025",
+      "url": "/events/appen-at-iclr-2025",
+      "excerpt": "",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/67f90d89c4debc55d6d2c9fe_ICLR-2025-blog.jpg",
+      "publishedDate": "2025-04-10T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": "April 24–26, 2025",
+      "eventBooth": "G04",
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+    },
+    {
+      "id": "67a3af5156723f8eeb1d40e4",
+      "collection": "events",
+      "resourceType": "Events",
+      "title": "Appen at HumanX 2025",
+      "slug": "appen-at-humanx-2025",
+      "url": "/events/appen-at-humanx-2025",
+      "excerpt": "Join Appen at HumanX 2025 to explore the intersection of human expertise and advanced AI. ",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/67a3e4ee61fe2f90d72d94be_HumanX-2025.png",
+      "publishedDate": "2025-02-05T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": "March 10–13, 2025",
+      "eventBooth": "Pod4",
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+    },
+    {
+      "id": "674f6b4f002569efc5461eb3",
+      "collection": "events",
+      "resourceType": "Events",
+      "title": "Next-Gen In-Cabin Monitoring & Interior Sensing Systems 2024",
+      "slug": "incabin-sensing-2024",
+      "url": "/events/incabin-sensing-2024",
+      "excerpt": "",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/674f6b1dec4073a35d8601bd_In%20Cabin%20Event%20Hero.png",
+      "publishedDate": "2024-12-03T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": "December 8-10, 2024",
+      "eventBooth": "Booth #25",
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+    },
+    {
+      "id": "662a7a2d1a9508bad85a8dbc",
+      "collection": "events",
+      "resourceType": "Events",
+      "title": "The AI Summit New York",
+      "slug": "the-ai-summit-new-york",
+      "url": "/events/the-ai-summit-new-york",
+      "excerpt": "",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/662a797f9e8a24a26be73faf_AI-Summit-NewYork.png",
+      "publishedDate": "2024-04-25T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": "December 11-12",
+      "eventBooth": "#126",
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+    },
+    {
+      "id": "662a74329e8a24a26be32d55",
+      "collection": "events",
+      "resourceType": "Events",
+      "title": "MLOps World & Generative AI World 2024",
+      "slug": "mlops-world-generative-ai-world-2024",
+      "url": "/events/mlops-world-generative-ai-world-2024",
+      "excerpt": "",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/662a73bb3af894adb2d525a9_MLOps-World-2024.jpg",
+      "publishedDate": "2024-04-25T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": "November 6-8",
+      "eventBooth": "#36",
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+    },
+    {
+      "id": "662a6eede6af3485bc053b3e",
+      "collection": "events",
+      "resourceType": "Events",
+      "title": "Ai4 2024 - AI Conference",
+      "slug": "ai4-2024",
+      "url": "/events/ai4-2024",
+      "excerpt": "",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/662a7127e6af3485bc06eadb_Ai42024-Appen.jpg",
+      "publishedDate": "2024-04-25T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": "August 12-14",
+      "eventBooth": null,
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+    },
+    {
+      "id": "6627e0c6f7ce94de39bb4a2e",
+      "collection": "events",
+      "resourceType": "Events",
+      "title": "AI & Big Data Expo North America",
+      "slug": "ai-big-data-expo-north-america",
+      "url": "/events/ai-big-data-expo-north-america",
+      "excerpt": "",
+      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/66281b6d734bdeb9f204efdc_AI-Big-Data-Header.jpg",
+      "publishedDate": "2024-04-23T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": "June 5-6",
+      "eventBooth": "#78",
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
     }
   ]
 }
