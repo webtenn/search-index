@@ -212,7 +212,7 @@ async function main() {
         resourceType:  resourceType,
         title:         f["name"] || f["title"] || "",
         slug:          f["slug"] || "",
-        url:           `${COLLECTION_URL_PREFIX[collectionKey]}/${f["slug"] || ""}`,
+        url: f["external-url"] || `${COLLECTION_URL_PREFIX[collectionKey]}/${f["slug"] || ""}`,
         excerpt:       f["excerpt"] || f["post-summary"] || f["description"] || "",
         thumbnail:     f["image"]?.url || f["thumbnail"]?.url || f["featured-image"]?.url || null,
         publishedDate: f["publish-date"] || f["published-date"] || f["date"] || null,
