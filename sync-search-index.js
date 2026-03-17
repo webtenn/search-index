@@ -215,6 +215,8 @@ async function main() {
       const eventDateText = f["event-date-text"] || null;
       const eventBooth    = f["event-booth"] || null;
       const eventStatus   = f["webinar-status"] || null;
+      const eventVenue    = f["event-venue"] || null;
+      const eventLocation = f["event-location"] || null;
 
       allItems.push({
         id:            item.id,
@@ -233,6 +235,8 @@ async function main() {
         eventDateText: isEvent ? eventDateText : null,
         eventBooth:    isEvent ? eventBooth : null,
         eventStatus:   isEvent ? eventStatus : null,
+        eventVenue:    isEvent ? eventVenue : null,
+        eventLocation: isEvent ? eventLocation : null,
       });
     }
   }
