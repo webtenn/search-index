@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T04:20:34.259Z",
+  "lastUpdated": "2026-03-17T19:53:03.686Z",
   "totalItems": 496,
   "items": [
     {
@@ -8011,7 +8011,7 @@
     {
       "id": "68d6adb541d18e0b3956bf62",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "White Papers",
       "title": "Audio Data for AI Models: End-to-End Solutions from Collection to Deployment",
       "slug": "audio-data",
       "url": "/whitepapers/audio-data",
@@ -8039,7 +8039,7 @@
     {
       "id": "68af091fce46d95b98e98f52",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "Research Papers",
       "title": "Retail AI: the Future of Shopping",
       "slug": "retail-ai",
       "url": "/whitepapers/retail-ai",
@@ -8185,7 +8185,7 @@
     {
       "id": "6851d94b9b1e6df2da1314d8",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "Research Papers",
       "title": "Multilingual LLM Translation: Evaluating Cultural Nuance in Generative AI ",
       "slug": "multilingual-cultural-nuance",
       "url": "/whitepapers/multilingual-cultural-nuance",
@@ -8199,7 +8199,7 @@
     {
       "id": "6809030f404727eff14c2964",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "Research Papers",
       "title": "Adversarial Prompting: Benchmarking Safety in Large Language Models",
       "slug": "adversarial-prompting",
       "url": "/whitepapers/adversarial-prompting",
@@ -8213,7 +8213,7 @@
     {
       "id": "67c1cd22843db8b6c709a211",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "Research Papers",
       "title": "AI Safety: Building Responsible and Reliable System",
       "slug": "ai-safety",
       "url": "/whitepapers/ai-safety",
@@ -8227,7 +8227,7 @@
     {
       "id": "674f5c2eac0cbf2df6c95615",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "White Papers",
       "title": "Mastering Large Language Models: A Deep Dive for AI Leaders",
       "slug": "mastering-llms",
       "url": "/whitepapers/mastering-llms",
@@ -8241,7 +8241,7 @@
     {
       "id": "66f2e5bcd90074ab1303b2b8",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "White Papers",
       "title": "How RAG and Human Expertise Optimize AI Performance",
       "slug": "optimize-ai-performance",
       "url": "/whitepapers/optimize-ai-performance",
@@ -8255,7 +8255,7 @@
     {
       "id": "66b23e2478306a36e38d4a16",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "White Papers",
       "title": "Guide to Chain-of-Thought Prompting",
       "slug": "chain-of-thought",
       "url": "/whitepapers/chain-of-thought",
@@ -8269,7 +8269,7 @@
     {
       "id": "658f221d560869e694a609f7",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "White Papers",
       "title": "AIOps for Business Leaders",
       "slug": "aiops-for-business-leaders",
       "url": "/whitepapers/aiops-for-business-leaders",
@@ -8290,7 +8290,7 @@
     {
       "id": "658f221d560869e694a609f6",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "White Papers",
       "title": "How to Create an AI Center of Excellence for Enterprise",
       "slug": "how-to-create-an-ai-center-of-excellence-for-enterprise",
       "url": "/whitepapers/how-to-create-an-ai-center-of-excellence-for-enterprise",
@@ -8311,7 +8311,7 @@
     {
       "id": "658f221d560869e694a609f5",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "White Papers",
       "title": "The Essential Guide to Training Data for AI and ML",
       "slug": "the-essential-guide-to-training-data",
       "url": "/whitepapers/the-essential-guide-to-training-data",
@@ -8332,7 +8332,7 @@
     {
       "id": "658f221d560869e694a609f4",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "White Papers",
       "title": "AI Solutions for Financial Services",
       "slug": "ai-solutions-for-financial-services",
       "url": "/whitepapers/ai-solutions-for-financial-services",
@@ -8348,7 +8348,7 @@
     {
       "id": "658f221d560869e694a609f3",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "White Papers",
       "title": "Responsible AI from Pilot to Production",
       "slug": "responsible-ai-from-pilot-to-production",
       "url": "/whitepapers/responsible-ai-from-pilot-to-production",
@@ -8369,7 +8369,7 @@
     {
       "id": "658f221d560869e694a609f2",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "White Papers",
       "title": "Data-Centric Computer Vision",
       "slug": "data-centric-computer-vision",
       "url": "/whitepapers/data-centric-computer-vision",
@@ -8385,7 +8385,7 @@
     {
       "id": "658f221d560869e694a609f1",
       "collection": "whitepapers",
-      "resourceType": "eBooks",
+      "resourceType": "White Papers",
       "title": "AI Solutions for the Automotive Industry",
       "slug": "ai-solutions-for-automotive",
       "url": "/whitepapers/ai-solutions-for-automotive",
@@ -8957,7 +8957,7 @@
     {
       "id": "671a930a8916e1fdcc24ad40",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Exclusive Interview: Appen CEO Ryan Kolln on AI Evolution and Strategic Growth in 2024",
       "slug": "appen-ceo-interview-unite-ai",
       "url": "/press-release/appen-ceo-interview-unite-ai",
@@ -8974,7 +8974,7 @@
     {
       "id": "6717e431361a863363ef3dd0",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen’s 2024 State of AI Report Highlights Rising Data Challenges",
       "slug": "state-of-ai-2024",
       "url": "/press-release/state-of-ai-2024",
@@ -8991,7 +8991,7 @@
     {
       "id": "66c8d09726eaf0b6aea43a22",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen CEO discusses AI industry challenges and opportunities in exclusive interview",
       "slug": "appen-ceo-discusses-ai-industry-challenges-and-opportunities-in-exclusive-interview",
       "url": "/press-release/appen-ceo-discusses-ai-industry-challenges-and-opportunities-in-exclusive-interview",
@@ -9008,7 +9008,7 @@
     {
       "id": "661e97cca0ea3712f7da0302",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Named a Leader in Everest Group’s Data Annotation and Labeling Solutions for AI/ML PEAK Matrix® Assessment 2024",
       "slug": "appen-named-leader-everest-group-peak-matrix",
       "url": "/press-release/appen-named-leader-everest-group-peak-matrix",
@@ -9025,7 +9025,7 @@
     {
       "id": "6601d80547af787e36a466ee",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Launches Solution for Enterprises to Customize Large Language Models (LLMs)",
       "slug": "appen-launches-solutions-for-enterprises-llms",
       "url": "/press-release/appen-launches-solutions-for-enterprises-llms",
@@ -9042,7 +9042,7 @@
     {
       "id": "658f221d560869e694a609b2",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Teams Up with AWS to Drive AI Innovation",
       "slug": "appen-amazon-aws-partnership",
       "url": "/press-release/appen-amazon-aws-partnership",
@@ -9059,7 +9059,7 @@
     {
       "id": "658f221d560869e694a609b6",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Launches AI Chat Feedback and Benchmarking Solutions for Enhanced LLM Evaluation",
       "slug": "appen-launches-ai-chat-feedback-and-benchmarking-solutions-for-enhanced-llm-evaluation",
       "url": "/press-release/appen-launches-ai-chat-feedback-and-benchmarking-solutions-for-enhanced-llm-evaluation",
@@ -9076,7 +9076,7 @@
     {
       "id": "658f221d560869e694a609b7",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Partners with Knockri to Use AI for Ethical Hiring",
       "slug": "appen-partners-with-knockri-to-use-ai-for-ethical-hiring",
       "url": "/press-release/appen-partners-with-knockri-to-use-ai-for-ethical-hiring",
@@ -9093,7 +9093,7 @@
     {
       "id": "658f221d560869e694a609ad",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Teams with NVIDIA to Enable Customized AI Solutions",
       "slug": "appen-teams-with-nvidia-to-enable-customized-ai-solutions",
       "url": "/press-release/appen-teams-with-nvidia-to-enable-customized-ai-solutions",
@@ -9110,7 +9110,7 @@
     {
       "id": "658f221d560869e694a609af",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Launches Three New Products to Build Trustworthy Generative AI Applications",
       "slug": "appen-launches-three-new-products-to-build-trustworthy-generative-ai-applications",
       "url": "/press-release/appen-launches-three-new-products-to-build-trustworthy-generative-ai-applications",
@@ -9127,7 +9127,7 @@
     {
       "id": "658f221d560869e694a609b0",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Releases State of AI Automotive Report",
       "slug": "appen-releases-state-of-ai-automotive-report",
       "url": "/press-release/appen-releases-state-of-ai-automotive-report",
@@ -9144,7 +9144,7 @@
     {
       "id": "658f221d560869e694a609a9",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Partners with CLEAR Global for First-of-Its-Kind Translation Project",
       "slug": "appen-partners-with-clear-global-for-first-of-its-kind-translation-project",
       "url": "/press-release/appen-partners-with-clear-global-for-first-of-its-kind-translation-project",
@@ -9161,7 +9161,7 @@
     {
       "id": "658f221d560869e694a609aa",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Forms New Relationship With Human-Centered Software Studio, Novatics",
       "slug": "appen-forms-new-relationship-with-human-centered-software-novatics",
       "url": "/press-release/appen-forms-new-relationship-with-human-centered-software-novatics",
@@ -9178,7 +9178,7 @@
     {
       "id": "658f221d560869e694a609a8",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Invests in Synthetic Data Business Mindtech",
       "slug": "appen-invests-in-synthetic-data",
       "url": "/press-release/appen-invests-in-synthetic-data",
@@ -9195,7 +9195,7 @@
     {
       "id": "658f221d560869e694a609a7",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen, a Leader in AI Development with World Class Training Data, Launches Japan-based Team Aimed to Accelerate Growth in the Japanese Market",
       "slug": "appen-launches-japan-based-team",
       "url": "/press-release/appen-launches-japan-based-team",
@@ -9212,7 +9212,7 @@
     {
       "id": "658f221d560869e694a609a6",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen’s Annual State of AI and Machine Learning Report Identifies a Gap in Ideal Versus Reality of Data Quality",
       "slug": "appens-annual-state-of-ai-and-machine-learning-report-identifies-a-gap-in-ideal-versus-reality-of-data-quality",
       "url": "/press-release/appens-annual-state-of-ai-and-machine-learning-report-identifies-a-gap-in-ideal-versus-reality-of-data-quality",
@@ -9229,7 +9229,7 @@
     {
       "id": "658f221d560869e694a609a5",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen to Acquire Quadrant to Expand Mobile-Location Based Data Collection Offering",
       "slug": "appen-to-acquire-quadrant",
       "url": "/press-release/appen-to-acquire-quadrant",
@@ -9246,7 +9246,7 @@
     {
       "id": "658f221d560869e694a609a4",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Leads Industry in Creating AI That Works for Everyone",
       "slug": "appen-leads-industry-in-creating-ai-that-works-for-everyone",
       "url": "/press-release/appen-leads-industry-in-creating-ai-that-works-for-everyone",
@@ -9263,7 +9263,7 @@
     {
       "id": "658f221d560869e694a609a2",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "AI Experts Provide Comprehensive Insights in Real World AI: A Practical Guide for Responsible Machine Learning",
       "slug": "ai-experts-provide-comprehensive-insights-in-real-world-ai-a-practical-guide-for-responsible-machine-learning",
       "url": "/press-release/ai-experts-provide-comprehensive-insights-in-real-world-ai-a-practical-guide-for-responsible-machine-learning",
@@ -9280,7 +9280,7 @@
     {
       "id": "658f221d560869e694a609a1",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "New Pre-Labeled Datasets (PLD) from Appen Accelerate AI Deployment",
       "slug": "new-pre-labeled-datasets-from-appen",
       "url": "/press-release/new-pre-labeled-datasets-from-appen",
@@ -9297,7 +9297,7 @@
     {
       "id": "658f221d560869e694a609a0",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen’s Annual State of AI Report Finds a Shift to Internal Efficiencies",
       "slug": "2021-state-of-ai",
       "url": "/press-release/2021-state-of-ai",
@@ -9314,7 +9314,7 @@
     {
       "id": "658f221d560869e694a6099a",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen’s Annual State of AI Report Finds Skyrocketing C-Suite Involvement, Surging Investment",
       "slug": "2020-state-of-ai",
       "url": "/press-release/2020-state-of-ai",
@@ -9331,7 +9331,7 @@
     {
       "id": "658f221d560869e694a6099b",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Partners with World Economic Forum to Create Responsible AI Standards",
       "slug": "appen-partners-with-world-economic-forum",
       "url": "/press-release/appen-partners-with-world-economic-forum",
@@ -9348,7 +9348,7 @@
     {
       "id": "658f221d560869e694a6099e",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Delivers High-Quality Training Data and Quality Assurance Services for Autonomous Vehicle Manufacturers",
       "slug": "training-data-quality-assurance-autonomous-vehicles",
       "url": "/press-release/training-data-quality-assurance-autonomous-vehicles",
@@ -9365,7 +9365,7 @@
     {
       "id": "658f221d560869e694a6099d",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Figure Eight Federal Welcomes New Senior Vice President to Grow Government Partnerships",
       "slug": "figure-eight-federal-welcomes-new-senior-vice-president-to-grow-government-partnerships",
       "url": "/press-release/figure-eight-federal-welcomes-new-senior-vice-president-to-grow-government-partnerships",
@@ -9382,7 +9382,7 @@
     {
       "id": "658f221d560869e694a6099c",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Launches Secure Workspace Solution to Protect Sensitive Data for Annotation in Facilities or in At-Home Environments",
       "slug": "secure-workspace-solution-press-release",
       "url": "/press-release/secure-workspace-solution-press-release",
@@ -9399,7 +9399,7 @@
     {
       "id": "658f221d560869e694a6099f",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Announces Crowd Code of Ethics to Build Better AI",
       "slug": "appen-announces-crowd-code-of-ethics-to-build-better-ai",
       "url": "/press-release/appen-announces-crowd-code-of-ethics-to-build-better-ai",
@@ -9416,7 +9416,7 @@
     {
       "id": "658f221d560869e694a60995",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Strengthens Leadership Team with Key Executive Hires to Support Continued Growth",
       "slug": "appen-strengthens-leadership-team-with-key-executive-hires-to-support-continued-growth",
       "url": "/press-release/appen-strengthens-leadership-team-with-key-executive-hires-to-support-continued-growth",
@@ -9433,7 +9433,7 @@
     {
       "id": "658f221d560869e694a60994",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Training Data Solution Unveils Feature Enhancements to Accelerate Customers' AI Initiatives",
       "slug": "appen-training-data-solution-unveils-feature-enhancements-to-accelerate-customers-ai-initiatives",
       "url": "/press-release/appen-training-data-solution-unveils-feature-enhancements-to-accelerate-customers-ai-initiatives",
@@ -9450,7 +9450,7 @@
     {
       "id": "658f221d560869e694a60997",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Philippines Seat Facility Achives ISO27001 Accreditation for Secure Collection and Annotation of AI Datasets",
       "slug": "appen-1000-seat-facility-in-the-philippines-achieves-iso-27001-accreditation-for-secure-collection-and-annotation-of-ai-datasets",
       "url": "/press-release/appen-1000-seat-facility-in-the-philippines-achieves-iso-27001-accreditation-for-secure-collection-and-annotation-of-ai-datasets",
@@ -9467,7 +9467,7 @@
     {
       "id": "658f221d560869e694a60998",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Completes Acquisition of Figure Eight and Achieves Critical Integration Milestone",
       "slug": "appen-completes-acquisition-of-figure-eight-and-achieves-critical-integration-milestone",
       "url": "/press-release/appen-completes-acquisition-of-figure-eight-and-achieves-critical-integration-milestone",
@@ -9484,7 +9484,7 @@
     {
       "id": "658f221d560869e694a60999",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Wins 2017 Technology Growth Company Award",
       "slug": "appen-wins-2017-technology-growth-company-award",
       "url": "/press-release/appen-wins-2017-technology-growth-company-award",
@@ -9501,7 +9501,7 @@
     {
       "id": "658f221d560869e694a60996",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen to Acquire Figure Eight to Create Industry-Leading Solution for High-Quality Machine Learning Training Data",
       "slug": "appen-to-acquire-figure-eight",
       "url": "/press-release/appen-to-acquire-figure-eight",
@@ -9518,7 +9518,7 @@
     {
       "id": "658f221d560869e694a60993",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen to Acquire Leapforce",
       "slug": "appen-acquire-leapforce",
       "url": "/press-release/appen-acquire-leapforce",
@@ -9535,7 +9535,7 @@
     {
       "id": "658f221d560869e694a6098f",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Named #1 Company to Watch for Remote Jobs in 2019 by FlexJobs",
       "slug": "appen-named-1-company-to-watch-for-remote-jobs-in-2019-by-flexjobs-lifeatappen",
       "url": "/press-release/appen-named-1-company-to-watch-for-remote-jobs-in-2019-by-flexjobs-lifeatappen",
@@ -9552,7 +9552,7 @@
     {
       "id": "658f221d560869e694a60991",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Named a Technology Fast 500™ Asia Pacific Winner",
       "slug": "appen-named-a-technology-fast-500-asia-pacific-winner",
       "url": "/press-release/appen-named-a-technology-fast-500-asia-pacific-winner",
@@ -9569,7 +9569,7 @@
     {
       "id": "658f221d560869e694a60990",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Announces Hiring of Wilson Pang as Chief Technology Officer",
       "slug": "appen-announces-hiring-of-wilson-pang-as-chief-technology-officer",
       "url": "/press-release/appen-announces-hiring-of-wilson-pang-as-chief-technology-officer",
@@ -9586,7 +9586,7 @@
     {
       "id": "658f221d560869e694a6098c",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Sarah Lowe as New Vice President | Appen UK",
       "slug": "appen-welcomes-sarah-lowe-new-vice-president-uk",
       "url": "/press-release/appen-welcomes-sarah-lowe-new-vice-president-uk",
@@ -9605,7 +9605,7 @@
     {
       "id": "658f221d560869e694a6098b",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Named a Top 100 Company to Watch for Telecommuting Jobs in 2016",
       "slug": "appen-named-a-top-100-company-to-watch-for-telecommuting-jobs-in-2016",
       "url": "/press-release/appen-named-a-top-100-company-to-watch-for-telecommuting-jobs-in-2016",
@@ -9622,7 +9622,7 @@
     {
       "id": "658f221d560869e694a6098d",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Awarded #1 Ranking on FlexJobs' 100 Top Companies to Watch for Remote Jobs 2017",
       "slug": "appen-flexjobs-top-companies-remote-jobs",
       "url": "/press-release/appen-flexjobs-top-companies-remote-jobs",
@@ -9639,7 +9639,7 @@
     {
       "id": "658f221d560869e694a6098e",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Listed on Australian Stock Exchange: APX on ASX",
       "slug": "appen-apx-on-asx",
       "url": "/press-release/appen-apx-on-asx",
@@ -9656,7 +9656,7 @@
     {
       "id": "658f221d560869e694a6098a",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Signs Distributor Agreement with Nuance Communications",
       "slug": "appen-signs-distributor-agreement-nuance-communications",
       "url": "/press-release/appen-signs-distributor-agreement-nuance-communications",
@@ -9675,7 +9675,7 @@
     {
       "id": "658f221d560869e694a60988",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Worldwide Business with kathy ireland®: See Appen Discuss its Role in Enhancing the eCommerce Shopping Experience",
       "slug": "appen-enhancing-ecommerce-worldwide-business-kathy-ireland",
       "url": "/press-release/appen-enhancing-ecommerce-worldwide-business-kathy-ireland",
@@ -9692,7 +9692,7 @@
     {
       "id": "658f221d560869e694a60989",
       "collection": "pressReleases",
-      "resourceType": "Press Releases",
+      "resourceType": "Press",
       "title": "Appen Announces Strategic UK Acquisition",
       "slug": "appen-announces-strategic-uk-acquisition",
       "url": "/press-release/appen-announces-strategic-uk-acquisition",
