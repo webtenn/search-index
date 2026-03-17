@@ -1,7 +1,7 @@
 /**
  * Webflow Search Index Sync Script
  *
- * Fetches all content from 6 Webflow collections, resolves references
+ * Fetches all content from 7 Webflow collections, resolves references
  * (Authors, Resource Types, Use Cases, Industries), and writes a unified
  * search-index.json file, then uploads it to GitHub via the API.
  *
@@ -27,8 +27,8 @@ const COLLECTION_IDS = {
   caseStudies:   "658f221d560869e694a60732",
   whitepapers:   "658f221d560869e694a60735",
   webinars:      "658f221d560869e694a60736",
-  dataSheets:    "658f221d560869e694a60734",
   pressReleases: "658f221d560869e694a60731",
+  events:        "6627de4d0ed5d6d4e1b1b693",
 };
 
 const REFERENCE_COLLECTION_IDS = {
@@ -43,8 +43,15 @@ const COLLECTION_URL_PREFIX = {
   caseStudies:   "/case-studies",
   whitepapers:   "/whitepapers",
   webinars:      "/webinars",
-  dataSheets:    "/data-sheets",
   pressReleases: "/press-release",
+  events:        "/events",
+};
+
+// Resolve webinar-status option IDs to human-readable labels
+// These are the option IDs from the Webflow dropdown field
+const WEBINAR_STATUS_MAP = {
+  "1de415a2a371f91235bca9e56bb347af": "On-Demand",
+  "4bca6dc0e38a874af553ec9052c4eae7": "Live",
 };
 
 const OUTPUT_PATH = path.join(__dirname, "search-index.json");
@@ -111,7 +118,6 @@ async function uploadToGitHub(content, token, owner, repo) {
   const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/search-index.json`;
   const encoded = Buffer.from(content).toString("base64");
 
-  // Get current file SHA if it exists (required for updates)
   let sha = null;
   try {
     const res = await fetch(apiUrl, {
@@ -136,9 +142,7 @@ async function uploadToGitHub(content, token, owner, repo) {
     content: encoded,
   };
 
-  if (sha) {
-    body.sha = sha;
-  }
+  if (sha) body.sha = sha;
 
   const res = await fetch(apiUrl, {
     method: "PUT",
@@ -206,19 +210,29 @@ async function main() {
       const industryIds = Array.isArray(f["industries"]) ? f["industries"] : Array.isArray(f["categories"]) ? f["categories"] : [];
       const industries = resolveRefs(industryIds, industriesMap);
 
+      // Events-specific fields
+      const isEvent = collectionKey === "events";
+      const eventDateText = f["event-date-text"] || null;
+      const eventBooth    = f["event-booth"] || null;
+      const eventStatus   = f["webinar-status"] || null;
+
       allItems.push({
         id:            item.id,
         collection:    collectionKey,
         resourceType:  resourceType,
         title:         f["name"] || f["title"] || "",
         slug:          f["slug"] || "",
-        url: f["external-url"] || `${COLLECTION_URL_PREFIX[collectionKey]}/${f["slug"] || ""}`,
+        url:           f["external-url"] || `${COLLECTION_URL_PREFIX[collectionKey]}/${f["slug"] || ""}`,
         excerpt:       f["excerpt"] || f["post-summary"] || f["description"] || "",
         thumbnail:     f["image"]?.url || f["thumbnail"]?.url || f["featured-image"]?.url || null,
         publishedDate: f["publish-date"] || f["published-date"] || f["date"] || null,
         author:        author,
         useCases:      useCases,
         industries:    industries,
+        // Event-specific fields (null for non-events)
+        eventDateText: isEvent ? eventDateText : null,
+        eventBooth:    isEvent ? eventBooth : null,
+        eventStatus:   isEvent ? eventStatus : null,
       });
     }
   }
