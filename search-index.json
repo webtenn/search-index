@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T22:03:31.158Z",
+  "lastUpdated": "2026-03-17T22:20:30.557Z",
   "totalItems": 500,
   "items": [
     {
@@ -20,7 +20,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6914b009f1c1446d854c8da2",
@@ -37,7 +39,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "69121d33be42b7f49dcb81ae",
@@ -57,7 +61,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "68f12cd7b6a1a541b71c5997",
@@ -77,7 +83,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "68f10d7411f70ce1ff96bf6f",
@@ -97,7 +105,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "68e572bdfc317e4f34befd14",
@@ -117,7 +127,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "68d31859d9a0f42c2a06abde",
@@ -134,7 +146,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "68c4668ed7620831d643ae3d",
@@ -154,7 +168,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "68b1e1e520a110075b080907",
@@ -174,7 +190,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "68b0a39da2fde38011929f08",
@@ -191,7 +209,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6887e4032b8073c716783ddc",
@@ -211,7 +231,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "687e8a42387afa9466b3440e",
@@ -231,7 +253,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "68790fb7c467efb57fa93efd",
@@ -251,7 +275,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "686d2e673c476ecfc485deef",
@@ -271,7 +297,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "684c4ff7f1009e0a9d55bbd2",
@@ -291,7 +319,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "683df11a34ef5ec5d167b6c5",
@@ -311,7 +341,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6823682f33bd05ee8ed467cc",
@@ -331,7 +363,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "681cfc7963eb21beac24eb09",
@@ -348,7 +382,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6809472a62e3073906b20dc3",
@@ -365,7 +401,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "67ed4d70895ae3c345d75917",
@@ -385,7 +423,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "67dd7fb3d1fd3a467fe64a11",
@@ -405,7 +445,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "67d3314743c7ab3c877f8b8f",
@@ -425,7 +467,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "67a64949aaca06a66a0cfd12",
@@ -445,7 +489,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "67633cd159c5611baea670e5",
@@ -465,7 +511,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "67362d0412ae050d4a2475ac",
@@ -485,7 +533,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "671fa7b4cc1bee95feabc1aa",
@@ -505,7 +555,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "67188a8993f3aece412dabd5",
@@ -527,7 +579,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6716a45957d8ab0be7d20736",
@@ -547,7 +601,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6706e48bcc2d20bcc6f2bac6",
@@ -567,7 +623,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "66a26596681a763b2599bf66",
@@ -587,7 +645,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "667d7150f5e4e3e59e89e1ee",
@@ -604,7 +664,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "66745ea8ed848db01c26b627",
@@ -624,7 +686,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6661f17b350ff9c61c705e84",
@@ -641,7 +705,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6650e95f4171a5436d448576",
@@ -661,7 +727,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "664f4df993e51011a291ab11",
@@ -678,7 +746,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "663bd45348ca6f78ba49145b",
@@ -695,7 +765,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "66215bd07eae557eb8e2683f",
@@ -712,7 +784,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "661e9b4e4b2f80842817f036",
@@ -732,7 +806,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6617f1a555838d37c05f3709",
@@ -749,7 +825,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6616e3e15647ce79bce12189",
@@ -769,7 +847,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "660ec4466eb33a46eb14d480",
@@ -789,7 +869,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6605b0fadcee2a03c19605fc",
@@ -806,7 +888,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65fafd9b239aa43b0dea5d43",
@@ -826,7 +910,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65edf5d50a440ab8f8ade4d1",
@@ -846,7 +932,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65d7c4dd5ef69842b066f0ae",
@@ -866,7 +954,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65d6146217db1f6483229d42",
@@ -886,7 +976,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65d61309c19ef5a14754c69e",
@@ -906,7 +998,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65b90ea41a1db0c9c0c7870a",
@@ -926,7 +1020,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65a7ef25c44cc08b605f3849",
@@ -946,7 +1042,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60987",
@@ -966,7 +1064,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60986",
@@ -992,7 +1092,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60985",
@@ -1012,7 +1114,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60984",
@@ -1039,7 +1143,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60982",
@@ -1061,7 +1167,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6097c",
@@ -1086,7 +1194,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60983",
@@ -1106,7 +1216,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6097f",
@@ -1126,7 +1238,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6097d",
@@ -1146,7 +1260,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60980",
@@ -1175,7 +1291,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6097e",
@@ -1197,7 +1315,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60979",
@@ -1224,7 +1344,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6097a",
@@ -1244,7 +1366,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6097b",
@@ -1266,7 +1390,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60976",
@@ -1288,7 +1414,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60977",
@@ -1310,7 +1438,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60978",
@@ -1336,7 +1466,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60973",
@@ -1358,7 +1490,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60974",
@@ -1378,7 +1512,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60975",
@@ -1398,7 +1534,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60971",
@@ -1418,7 +1556,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6096c",
@@ -1438,7 +1578,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6096d",
@@ -1458,7 +1600,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6096e",
@@ -1478,7 +1622,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6096f",
@@ -1505,7 +1651,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6096b",
@@ -1525,7 +1673,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6096a",
@@ -1545,7 +1695,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60969",
@@ -1565,7 +1717,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60964",
@@ -1585,7 +1739,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60967",
@@ -1605,7 +1761,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60966",
@@ -1625,7 +1783,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60965",
@@ -1645,7 +1805,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60961",
@@ -1665,7 +1827,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60960",
@@ -1685,7 +1849,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6095e",
@@ -1705,7 +1871,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60962",
@@ -1725,7 +1893,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6095a",
@@ -1745,7 +1915,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6095c",
@@ -1765,7 +1937,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60959",
@@ -1785,7 +1959,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60957",
@@ -1805,7 +1981,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60958",
@@ -1825,7 +2003,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60955",
@@ -1845,7 +2025,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60956",
@@ -1865,7 +2047,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60953",
@@ -1885,7 +2069,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6094f",
@@ -1905,7 +2091,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6094d",
@@ -1925,7 +2113,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6094c",
@@ -1945,7 +2135,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60952",
@@ -1965,7 +2157,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60950",
@@ -1985,7 +2179,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6094a",
@@ -2005,7 +2201,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6094b",
@@ -2025,7 +2223,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60946",
@@ -2045,7 +2245,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60945",
@@ -2065,7 +2267,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60948",
@@ -2085,7 +2289,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60949",
@@ -2105,7 +2311,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60947",
@@ -2125,7 +2333,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60943",
@@ -2145,7 +2355,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60942",
@@ -2165,7 +2377,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60940",
@@ -2185,7 +2399,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60941",
@@ -2205,7 +2421,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6093b",
@@ -2225,7 +2443,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6093c",
@@ -2245,7 +2465,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6093e",
@@ -2265,7 +2487,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60939",
@@ -2285,7 +2509,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6093a",
@@ -2307,7 +2533,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60937",
@@ -2329,7 +2557,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60936",
@@ -2349,7 +2579,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60935",
@@ -2369,7 +2601,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60934",
@@ -2389,7 +2623,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6092f",
@@ -2409,7 +2645,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60931",
@@ -2429,7 +2667,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60933",
@@ -2449,7 +2689,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60930",
@@ -2469,7 +2711,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6092b",
@@ -2491,7 +2735,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6092d",
@@ -2511,7 +2757,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6092a",
@@ -2531,7 +2779,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6092e",
@@ -2551,7 +2801,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60929",
@@ -2571,7 +2823,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60928",
@@ -2591,7 +2845,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60926",
@@ -2611,7 +2867,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60921",
@@ -2631,7 +2889,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60922",
@@ -2651,7 +2911,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60925",
@@ -2671,7 +2933,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60923",
@@ -2691,7 +2955,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60924",
@@ -2711,7 +2977,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60920",
@@ -2731,7 +2999,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6091d",
@@ -2751,7 +3021,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60919",
@@ -2778,7 +3050,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6091a",
@@ -2805,7 +3079,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6091c",
@@ -2825,7 +3101,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60917",
@@ -2852,7 +3130,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60918",
@@ -2879,7 +3159,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60916",
@@ -2899,7 +3181,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60915",
@@ -2926,7 +3210,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60913",
@@ -2946,7 +3232,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60911",
@@ -2973,7 +3261,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60912",
@@ -3000,7 +3290,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6090f",
@@ -3027,7 +3319,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60910",
@@ -3054,7 +3348,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6090e",
@@ -3081,7 +3377,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6090d",
@@ -3108,7 +3406,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6090c",
@@ -3128,7 +3428,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6090b",
@@ -3155,7 +3457,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60909",
@@ -3182,7 +3486,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60908",
@@ -3209,7 +3515,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60906",
@@ -3236,7 +3544,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60907",
@@ -3263,7 +3573,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60905",
@@ -3290,7 +3602,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60904",
@@ -3317,7 +3631,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60903",
@@ -3344,7 +3660,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60902",
@@ -3371,7 +3689,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60901",
@@ -3398,7 +3718,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60900",
@@ -3425,7 +3747,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ff",
@@ -3452,7 +3776,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608fc",
@@ -3479,7 +3805,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608fe",
@@ -3506,7 +3834,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608fd",
@@ -3533,7 +3863,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608f8",
@@ -3560,7 +3892,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608fb",
@@ -3587,7 +3921,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608fa",
@@ -3614,7 +3950,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608f6",
@@ -3641,7 +3979,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608f7",
@@ -3668,7 +4008,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608f5",
@@ -3695,7 +4037,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608f1",
@@ -3722,7 +4066,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608f4",
@@ -3749,7 +4095,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608f3",
@@ -3776,7 +4124,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608f0",
@@ -3803,7 +4153,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ee",
@@ -3830,7 +4182,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ef",
@@ -3857,7 +4211,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ec",
@@ -3884,7 +4240,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608eb",
@@ -3914,7 +4272,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ea",
@@ -3941,7 +4301,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ed",
@@ -3966,7 +4328,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608e9",
@@ -3993,7 +4357,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608e8",
@@ -4013,7 +4379,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608e3",
@@ -4040,7 +4408,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608e5",
@@ -4067,7 +4437,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608e4",
@@ -4089,7 +4461,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608e1",
@@ -4116,7 +4490,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608e2",
@@ -4143,7 +4519,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608dc",
@@ -4170,7 +4548,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608dd",
@@ -4197,7 +4577,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608de",
@@ -4221,7 +4603,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608e0",
@@ -4248,7 +4632,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608df",
@@ -4277,7 +4663,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608da",
@@ -4301,7 +4689,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608db",
@@ -4323,7 +4713,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608d8",
@@ -4345,7 +4737,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608d7",
@@ -4372,7 +4766,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608d5",
@@ -4394,7 +4790,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608d9",
@@ -4421,7 +4819,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608d4",
@@ -4448,7 +4848,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608d3",
@@ -4473,7 +4875,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608d2",
@@ -4500,7 +4904,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608cf",
@@ -4527,7 +4933,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ce",
@@ -4554,7 +4962,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608d0",
@@ -4576,7 +4986,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608d1",
@@ -4603,7 +5015,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608cc",
@@ -4634,7 +5048,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608cd",
@@ -4656,7 +5072,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608c9",
@@ -4683,7 +5101,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608cb",
@@ -4710,7 +5130,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ca",
@@ -4737,7 +5159,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608c8",
@@ -4764,7 +5188,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608c6",
@@ -4791,7 +5217,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608c4",
@@ -4817,7 +5245,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608c7",
@@ -4844,7 +5274,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608c2",
@@ -4870,7 +5302,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608c3",
@@ -4896,7 +5330,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608c0",
@@ -4920,7 +5356,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608c1",
@@ -4949,7 +5387,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608bc",
@@ -4971,7 +5411,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608be",
@@ -4998,7 +5440,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608bb",
@@ -5020,7 +5464,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608bd",
@@ -5047,7 +5493,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608b8",
@@ -5071,7 +5519,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608b9",
@@ -5096,7 +5546,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ba",
@@ -5116,7 +5568,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608b6",
@@ -5138,7 +5592,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608b7",
@@ -5158,7 +5614,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608b3",
@@ -5180,7 +5638,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608b5",
@@ -5202,7 +5662,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ae",
@@ -5222,7 +5684,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608b2",
@@ -5253,7 +5717,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608b0",
@@ -5275,7 +5741,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608af",
@@ -5295,7 +5763,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608b1",
@@ -5317,7 +5787,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ac",
@@ -5342,7 +5814,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ad",
@@ -5366,7 +5840,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608ab",
@@ -5390,7 +5866,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608a9",
@@ -5415,7 +5893,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608a7",
@@ -5437,7 +5917,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608aa",
@@ -5466,7 +5948,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608a8",
@@ -5494,7 +5978,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608a4",
@@ -5524,7 +6010,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608a5",
@@ -5550,7 +6038,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608a2",
@@ -5580,7 +6070,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608a6",
@@ -5610,7 +6102,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6089e",
@@ -5637,7 +6131,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6089d",
@@ -5664,7 +6160,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608a0",
@@ -5693,7 +6191,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6089f",
@@ -5713,7 +6213,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a608a1",
@@ -5737,7 +6239,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6089c",
@@ -5762,7 +6266,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6089b",
@@ -5787,7 +6293,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60897",
@@ -5813,7 +6321,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60899",
@@ -5837,7 +6347,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60898",
@@ -5861,7 +6373,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6089a",
@@ -5885,7 +6399,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60895",
@@ -5911,7 +6427,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60896",
@@ -5940,7 +6458,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60894",
@@ -5969,7 +6489,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60891",
@@ -5993,7 +6515,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60890",
@@ -6022,7 +6546,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60893",
@@ -6046,7 +6572,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6088c",
@@ -6071,7 +6599,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6088d",
@@ -6100,7 +6630,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6088f",
@@ -6124,7 +6656,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6088e",
@@ -6150,7 +6684,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60889",
@@ -6177,7 +6713,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6088a",
@@ -6199,7 +6737,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6088b",
@@ -6223,7 +6763,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60888",
@@ -6252,7 +6794,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60887",
@@ -6274,7 +6818,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60886",
@@ -6301,7 +6847,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60885",
@@ -6327,7 +6875,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60882",
@@ -6354,7 +6904,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60884",
@@ -6378,7 +6930,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60883",
@@ -6400,7 +6954,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6087e",
@@ -6425,7 +6981,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6087f",
@@ -6450,7 +7008,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60881",
@@ -6479,7 +7039,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60880",
@@ -6499,7 +7061,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60877",
@@ -6526,7 +7090,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60879",
@@ -6550,7 +7116,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6087a",
@@ -6579,7 +7147,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60878",
@@ -6608,7 +7178,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60875",
@@ -6637,7 +7209,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60876",
@@ -6666,7 +7240,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60874",
@@ -6691,7 +7267,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60872",
@@ -6719,7 +7297,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60871",
@@ -6746,7 +7326,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60873",
@@ -6770,7 +7352,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6086f",
@@ -6792,7 +7376,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6086c",
@@ -6819,7 +7405,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6086b",
@@ -6845,7 +7433,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60870",
@@ -6872,7 +7462,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6086a",
@@ -6896,7 +7488,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6086e",
@@ -6920,7 +7514,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60866",
@@ -6950,7 +7546,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60867",
@@ -6975,7 +7573,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60869",
@@ -6997,7 +7597,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60868",
@@ -7024,7 +7626,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60864",
@@ -7046,7 +7650,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60862",
@@ -7068,7 +7674,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60863",
@@ -7093,7 +7701,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60865",
@@ -7118,7 +7728,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60860",
@@ -7145,7 +7757,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6085f",
@@ -7171,7 +7785,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60861",
@@ -7196,7 +7812,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6085e",
@@ -7223,7 +7841,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60859",
@@ -7248,7 +7868,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6085b",
@@ -7272,7 +7894,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60858",
@@ -7297,7 +7921,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6085a",
@@ -7321,7 +7947,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60857",
@@ -7345,7 +7973,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6085d",
@@ -7370,7 +8000,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60855",
@@ -7394,7 +8026,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60856",
@@ -7418,7 +8052,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60854",
@@ -7442,7 +8078,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60852",
@@ -7465,7 +8103,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60853",
@@ -7487,7 +8127,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60851",
@@ -7509,7 +8151,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60850",
@@ -7533,7 +8177,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6084d",
@@ -7557,7 +8203,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6084c",
@@ -7577,7 +8225,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6084e",
@@ -7599,7 +8249,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6084f",
@@ -7621,7 +8273,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6084b",
@@ -7645,7 +8299,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60846",
@@ -7670,7 +8326,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60849",
@@ -7699,7 +8357,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6084a",
@@ -7723,7 +8383,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60847",
@@ -7748,7 +8410,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60844",
@@ -7775,7 +8439,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60843",
@@ -7800,7 +8466,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60845",
@@ -7824,7 +8492,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60842",
@@ -7849,7 +8519,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60840",
@@ -7874,7 +8546,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60841",
@@ -7900,7 +8574,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6083f",
@@ -7922,7 +8598,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6083e",
@@ -7942,7 +8620,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6083d",
@@ -7971,7 +8651,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6083c",
@@ -8000,7 +8682,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6082b",
@@ -8020,7 +8704,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60829",
@@ -8043,7 +8729,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60828",
@@ -8063,7 +8751,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6082a",
@@ -8090,7 +8780,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "691f49d636321bbb25c107f4",
@@ -8107,7 +8799,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "68712b3061080eebea24e248",
@@ -8124,7 +8818,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "67ed46688a53b2316c3c2fa5",
@@ -8151,7 +8847,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "67bf38b3bc3cff86735d5ace",
@@ -8170,7 +8868,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "67acd08bc0d2e576cb84beda",
@@ -8187,7 +8887,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "67acce1ead152aa41f4b787d",
@@ -8204,7 +8906,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "673621f5c6af453da16d1494",
@@ -8221,7 +8925,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6709416c0d7860bb0d605b63",
@@ -8238,7 +8944,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609e4",
@@ -8262,7 +8970,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609e3",
@@ -8282,7 +8992,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609e2",
@@ -8302,7 +9014,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609dc",
@@ -8322,7 +9036,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609df",
@@ -8342,7 +9058,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609dd",
@@ -8364,7 +9082,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609e0",
@@ -8384,7 +9104,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609de",
@@ -8404,7 +9126,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609d8",
@@ -8428,7 +9152,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609d5",
@@ -8452,7 +9178,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609d9",
@@ -8476,7 +9204,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609d6",
@@ -8499,7 +9229,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609da",
@@ -8523,7 +9255,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609db",
@@ -8547,7 +9281,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609d3",
@@ -8571,7 +9307,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609d4",
@@ -8595,7 +9333,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609d1",
@@ -8619,7 +9359,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609d0",
@@ -8643,7 +9385,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609d2",
@@ -8668,7 +9412,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609cf",
@@ -8690,7 +9436,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609cc",
@@ -8714,7 +9462,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609ca",
@@ -8738,7 +9488,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609ce",
@@ -8763,7 +9515,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609cb",
@@ -8787,7 +9541,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609cd",
@@ -8811,7 +9567,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609c4",
@@ -8833,7 +9591,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609c9",
@@ -8857,7 +9617,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609c8",
@@ -8881,7 +9643,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609c7",
@@ -8905,7 +9669,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609c5",
@@ -8929,7 +9695,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609be",
@@ -8953,7 +9721,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609c3",
@@ -8977,7 +9747,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609c0",
@@ -8999,7 +9771,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609c2",
@@ -9023,7 +9797,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609c1",
@@ -9047,7 +9823,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609bf",
@@ -9071,7 +9849,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609bc",
@@ -9095,7 +9875,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609ba",
@@ -9119,7 +9901,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609b9",
@@ -9143,7 +9927,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609bd",
@@ -9167,7 +9953,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609bb",
@@ -9191,7 +9979,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "68d6adb541d18e0b3956bf62",
@@ -9208,7 +9998,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "68d30f67de1c00bc258fec04",
@@ -9225,7 +10017,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "68af091fce46d95b98e98f52",
@@ -9242,7 +10036,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "687536f4b9f35c785040c377",
@@ -9259,7 +10055,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "687536f18c5bf9c768dea41f",
@@ -9283,7 +10081,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "687536f17c4aec38987c960e",
@@ -9307,7 +10107,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "687536f1a5ce190b0d9d0ec9",
@@ -9331,7 +10133,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "687536f10ff42f1e3fa86862",
@@ -9355,7 +10159,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "687536f073c44fb82e42dc99",
@@ -9372,7 +10178,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "687536f0cdf82283c57df62b",
@@ -9395,7 +10203,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6851d94b9b1e6df2da1314d8",
@@ -9412,7 +10222,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6809030f404727eff14c2964",
@@ -9429,7 +10241,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "67c1cd22843db8b6c709a211",
@@ -9446,7 +10260,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "674f5c2eac0cbf2df6c95615",
@@ -9463,7 +10279,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "66f2e5bcd90074ab1303b2b8",
@@ -9480,7 +10298,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "66b23e2478306a36e38d4a16",
@@ -9497,7 +10317,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609f7",
@@ -9521,7 +10343,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609f6",
@@ -9545,7 +10369,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609f5",
@@ -9569,7 +10395,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609f4",
@@ -9588,7 +10416,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609f3",
@@ -9612,7 +10442,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609f2",
@@ -9631,7 +10463,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609f1",
@@ -9653,7 +10487,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6903b40f6d68af9697aa1a85",
@@ -9670,7 +10506,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6838cf37c1ea5446548196e6",
@@ -9687,7 +10525,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6707eefd05addeb6802f0e60",
@@ -9704,7 +10544,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "66217a4081dd064ba6a54163",
@@ -9721,7 +10563,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "661ff148a52f869965db78db",
@@ -9738,7 +10582,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6590a7a1ab58e12a9555cc11",
@@ -9755,7 +10601,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65909b60e1e43a1655ebe2d9",
@@ -9772,7 +10620,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65909886c64dcde8c653729f",
@@ -9789,7 +10639,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6590978a5e79882f91f7a790",
@@ -9806,7 +10658,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "659094b9ab58e12a954a82bc",
@@ -9827,7 +10681,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65909384e1e43a1655e7cd33",
@@ -9844,7 +10700,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "659092ccba48a05dfdeca7f7",
@@ -9863,7 +10721,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65909149ba48a05dfdebbec9",
@@ -9880,7 +10740,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65908febeadc405562ce1a40",
@@ -9897,7 +10759,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65908a71b954549820357c5b",
@@ -9918,7 +10782,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "659088d564761a9ccc387b15",
@@ -9935,7 +10801,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6590876d0c1bc03529e3def5",
@@ -9956,7 +10824,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "659085885e79882f91ee7281",
@@ -9980,7 +10850,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65908355ba48a05dfde4a7cd",
@@ -9999,7 +10871,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65907eaa09103cb044d6fa7b",
@@ -10023,7 +10897,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65906e0a322c326ec841633d",
@@ -10040,7 +10916,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "65906b3379ac1d8d583b8b51",
@@ -10064,7 +10942,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f3348c4c1c4b70c20e99b",
@@ -10085,7 +10965,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f2e241c31c1ee98fd741d",
@@ -10104,7 +10986,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609f8",
@@ -10123,7 +11007,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "696a92e475477ff75b497b9c",
@@ -10143,7 +11029,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "696a925ed6103a095072e2c8",
@@ -10163,7 +11051,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "696a91e8051b3fd1bb4b0ff7",
@@ -10183,7 +11073,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "696a78e768484f96186b2d75",
@@ -10203,7 +11095,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "671a930a8916e1fdcc24ad40",
@@ -10223,7 +11117,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6717e431361a863363ef3dd0",
@@ -10243,7 +11139,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "66c8d09726eaf0b6aea43a22",
@@ -10263,7 +11161,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "661e97cca0ea3712f7da0302",
@@ -10283,7 +11183,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6601d80547af787e36a466ee",
@@ -10303,7 +11205,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609b2",
@@ -10323,7 +11227,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609b6",
@@ -10343,7 +11249,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609b7",
@@ -10363,7 +11271,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609ad",
@@ -10383,7 +11293,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609af",
@@ -10403,7 +11315,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609b0",
@@ -10423,7 +11337,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609a9",
@@ -10443,7 +11359,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609aa",
@@ -10463,7 +11381,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609a8",
@@ -10483,7 +11403,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609a7",
@@ -10503,7 +11425,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609a6",
@@ -10523,7 +11447,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609a5",
@@ -10543,7 +11469,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609a4",
@@ -10563,7 +11491,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609a2",
@@ -10583,7 +11513,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609a1",
@@ -10603,7 +11535,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a609a0",
@@ -10623,7 +11557,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6099a",
@@ -10643,7 +11579,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6099b",
@@ -10663,7 +11601,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6099e",
@@ -10683,7 +11623,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6099d",
@@ -10703,7 +11645,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6099c",
@@ -10723,7 +11667,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6099f",
@@ -10743,7 +11689,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60995",
@@ -10763,7 +11711,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60994",
@@ -10783,7 +11733,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60997",
@@ -10803,7 +11755,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60998",
@@ -10823,7 +11777,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60999",
@@ -10843,7 +11799,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60996",
@@ -10863,7 +11821,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60993",
@@ -10883,7 +11843,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6098f",
@@ -10903,7 +11865,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60991",
@@ -10923,7 +11887,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60990",
@@ -10943,7 +11909,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6098c",
@@ -10965,7 +11933,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6098b",
@@ -10985,7 +11955,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6098d",
@@ -11005,7 +11977,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6098e",
@@ -11025,7 +11999,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a6098a",
@@ -11047,7 +12023,9 @@
       ],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60988",
@@ -11067,7 +12045,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "658f221d560869e694a60989",
@@ -11087,7 +12067,9 @@
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
-      "eventStatus": null
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6904d79678376fa77b2cb9ab",
@@ -11104,7 +12086,9 @@
       "industries": [],
       "eventDateText": "December 2-7, 2025",
       "eventBooth": "#902",
-      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af",
+      "eventVenue": "San Diego Convention Center",
+      "eventLocation": "San Diego, CA"
     },
     {
       "id": "6877de7c40a255c4b2a958d8",
@@ -11121,7 +12105,9 @@
       "industries": [],
       "eventDateText": "July 28–30, 2025",
       "eventBooth": "8",
-      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af",
+      "eventVenue": "Austria Center Vienna",
+      "eventLocation": "Austria"
     },
     {
       "id": "67f80a5518520d9c6f2f5591",
@@ -11138,7 +12124,9 @@
       "industries": [],
       "eventDateText": "April 24–26, 2025",
       "eventBooth": "G04",
-      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af",
+      "eventVenue": "Singapore EXPO",
+      "eventLocation": "Singapore"
     },
     {
       "id": "67a3af5156723f8eeb1d40e4",
@@ -11155,7 +12143,9 @@
       "industries": [],
       "eventDateText": "March 10–13, 2025",
       "eventBooth": "Pod4",
-      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af",
+      "eventVenue": "Fontainebleau",
+      "eventLocation": "Las Vegas, NV"
     },
     {
       "id": "674f6b4f002569efc5461eb3",
@@ -11172,7 +12162,9 @@
       "industries": [],
       "eventDateText": "December 8-10, 2024",
       "eventBooth": "Booth #25",
-      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af",
+      "eventVenue": null,
+      "eventLocation": "Dearborn, Michigan"
     },
     {
       "id": "662a7a2d1a9508bad85a8dbc",
@@ -11189,7 +12181,9 @@
       "industries": [],
       "eventDateText": "December 11-12",
       "eventBooth": "#126",
-      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af",
+      "eventVenue": "Javits Center, NYC",
+      "eventLocation": "New York City"
     },
     {
       "id": "662a74329e8a24a26be32d55",
@@ -11206,7 +12200,9 @@
       "industries": [],
       "eventDateText": "November 6-8",
       "eventBooth": "#36",
-      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af",
+      "eventVenue": "Austin, TX",
+      "eventLocation": "Austin, TX"
     },
     {
       "id": "662a6eede6af3485bc053b3e",
@@ -11223,7 +12219,9 @@
       "industries": [],
       "eventDateText": "August 12-14",
       "eventBooth": null,
-      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af",
+      "eventVenue": "MGM Grand, Las Vegas",
+      "eventLocation": "Las Vegas, NV"
     },
     {
       "id": "6627e0c6f7ce94de39bb4a2e",
@@ -11240,7 +12238,9 @@
       "industries": [],
       "eventDateText": "June 5-6",
       "eventBooth": "#78",
-      "eventStatus": "1de415a2a371f91235bca9e56bb347af"
+      "eventStatus": "1de415a2a371f91235bca9e56bb347af",
+      "eventVenue": "Santa Clara Convention Center, CA",
+      "eventLocation": "Santa Clara, CA"
     }
   ]
 }
