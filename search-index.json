@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-17T20:04:36.588Z",
-  "totalItems": 496,
+  "lastUpdated": "2026-03-17T20:30:25.713Z",
+  "totalItems": 491,
   "items": [
     {
       "id": "69851ab52548b694527e9d93",
@@ -8795,96 +8795,6 @@
       "industries": [
         "Automotive"
       ]
-    },
-    {
-      "id": "661955a4d8e757a45d3560ea",
-      "collection": "dataSheets",
-      "resourceType": "Data Sheets",
-      "title": "Unlock the Power of Enterprise Data in your LLM",
-      "slug": "enterprise-data-llm",
-      "url": "/data-sheets/enterprise-data-llm",
-      "excerpt": "Appen has launched new platform capabilities to support AI teams in their efforts to optimize large language models. These new capabilities offer enterprises a way to incorporate proprietary data and collaborate with internal subject matter experts",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/6619547e65a47fd94043fecc_enterprise-data.jpg",
-      "publishedDate": "2024-04-12T00:00:00.000Z",
-      "author": null,
-      "useCases": [],
-      "industries": []
-    },
-    {
-      "id": "658f221d560869e694a609f0",
-      "collection": "dataSheets",
-      "resourceType": "Data Sheets",
-      "title": "Natural Language Processing & Speech Technology at Appen",
-      "slug": "natural-language-processing-speech-technology-at-appen",
-      "url": "/data-sheets/natural-language-processing-speech-technology-at-appen",
-      "excerpt": "At Appen, our natural language processing & speech technology expertise spans over 25 years, over which time we have acquired advanced resources and expertise on the best formula for successful NLP projects. From text, speech, and audio collection",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/65821f7020e49cddfb521e99_Natural-Language-Processing-Speech-Technology-data-sheet-1-1.png",
-      "publishedDate": "2021-03-09T00:00:00.000Z",
-      "author": null,
-      "useCases": [
-        "NLP & Speech"
-      ],
-      "industries": [
-        "Automotive",
-        "Finance",
-        "Government",
-        "Healthcare",
-        "Retail",
-        "Technology"
-      ]
-    },
-    {
-      "id": "658f221d560869e694a609ef",
-      "collection": "dataSheets",
-      "resourceType": "Data Sheets",
-      "title": "Appen's Computer Vision Expertise",
-      "slug": "appens-computer-vision-expertise",
-      "url": "/data-sheets/appens-computer-vision-expertise",
-      "excerpt": "At Appen, we provide high-quality annotated training data to power the world’s most innovative machine learning and business solutions. We can support you from point cloud, image, and video annotation to pre-labeling and pixel-level semantic",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/65821e38d9432f0969fc419c_computer-vision-data-sheet-1-1.png",
-      "publishedDate": "2021-03-09T00:00:00.000Z",
-      "author": null,
-      "useCases": [
-        "Computer Vision"
-      ],
-      "industries": [
-        "Automotive",
-        "Finance",
-        "Government",
-        "Healthcare",
-        "Retail",
-        "Technology"
-      ]
-    },
-    {
-      "id": "658f221d560869e694a609ee",
-      "collection": "dataSheets",
-      "resourceType": "Data Sheets",
-      "title": "Quality Controls for Appen Data Annotation Platform",
-      "slug": "appen-platform-quality-controls",
-      "url": "/data-sheets/appen-platform-quality-controls",
-      "excerpt": "High-quality training data is the foundation needed to run successful AI and ML models and yet quality assurance is often an overlooked critical component of the data labeling process. Appen Data Annotation Platform (ADAP) provides highly accurate",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/65821d66acfca4d9940b9d24_quality-controls-data-annotation.png",
-      "publishedDate": "2021-07-02T00:00:00.000Z",
-      "author": null,
-      "useCases": [
-        "Data Annotation"
-      ],
-      "industries": []
-    },
-    {
-      "id": "658f221d560869e694a609ed",
-      "collection": "dataSheets",
-      "resourceType": "Data Sheets",
-      "title": "Appen Quality Controls for Managed Services",
-      "slug": "appen-quality-controls-for-managed-services",
-      "url": "/data-sheets/appen-quality-controls-for-managed-services",
-      "excerpt": "Level up your training data quality by harnessing the combination of Appen’s expertise, thorough QA processes, and technology platform. At Appen, we provide a holistic approach to maintain and improve the quality of your annotated data by addressing",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/65821b9423f89309f1240050_MS-quality-ds-1-1.jpg",
-      "publishedDate": "2021-07-02T00:00:00.000Z",
-      "author": null,
-      "useCases": [],
-      "industries": []
     },
     {
       "id": "696a92e475477ff75b497b9c",
