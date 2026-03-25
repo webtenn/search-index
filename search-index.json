@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T16:07:24.311Z",
+  "lastUpdated": "2026-03-25T04:22:38.088Z",
   "totalItems": 501,
   "items": [
     {
@@ -1906,7 +1906,7 @@
       "slug": "unlocking-the-power-of-human-feedback-the-benefits-of-rlhf",
       "url": "/blog/unlocking-the-power-of-human-feedback-the-benefits-of-rlhf",
       "excerpt": "Reinforcement learning with human feedback (RLHF) is a cutting-edge technique that has been gaining popularity in recent years as a means of improving the performance of",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/657792522f3920615e9fbd8e_230323_RLHF_Blog.jpeg",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/657792522f3920615e9fbd8e_230323_RLHF_Blog.jpeg",
       "publishedDate": "2023-03-23T00:00:00.000Z",
       "author": {
         "name": "Appen",
