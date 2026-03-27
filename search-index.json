@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-27T04:34:56.922Z",
-  "totalItems": 501,
+  "lastUpdated": "2026-03-27T18:57:39.888Z",
+  "totalItems": 502,
   "items": [
     {
       "id": "69851ab52548b694527e9d93",
@@ -9978,6 +9978,25 @@
       "industries": [
         "Automotive"
       ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "69c6d1f35f3c1b158206cf86",
+      "collection": "whitepapers",
+      "resourceType": "White Papers",
+      "title": "Reinforcement Learning Environments: Designing High-Fidelity Training Grounds for Smarter AI Agents",
+      "slug": "reinforcement-learning-environments-ai-agents",
+      "url": "/whitepapers/reinforcement-learning-environments-ai-agents",
+      "excerpt": "Learn how high-quality reinforcement learning environments improve AI agent performance. Explore Appen’s methodology, including tasks, verifiers, and a finance domain deep dive.",
+      "thumbnail": null,
+      "publishedDate": "2026-03-27T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
       "eventDateText": null,
       "eventBooth": null,
       "eventStatus": null,
