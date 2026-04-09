@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-09T04:35:04.792Z",
-  "totalItems": 502,
+  "lastUpdated": "2026-04-09T17:46:57.447Z",
+  "totalItems": 504,
   "items": [
     {
       "id": "69851ab52548b694527e9d93",
@@ -8786,6 +8786,25 @@
       "eventLocation": null
     },
     {
+      "id": "69d7e2d6ceb93990863a3d62",
+      "collection": "caseStudies",
+      "resourceType": "Case Studies",
+      "title": "Physical AI Data Annotation & Evaluation",
+      "slug": "physical-ai-robotics-annotation-eval",
+      "url": "/case-studies/physical-ai-robotics-annotation-eval",
+      "excerpt": "See how a frontier robotics lab partnered with Appen to annotate egocentric video and evaluate robot performance — delivering 50,000+ units of Physical AI training data.",
+      "thumbnail": null,
+      "publishedDate": "2026-04-09T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
       "id": "691f49d636321bbb25c107f4",
       "collection": "caseStudies",
       "resourceType": "Case Studies",
@@ -9978,6 +9997,25 @@
       "industries": [
         "Automotive"
       ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "69d7dde7fcf6953e46eacb09",
+      "collection": "whitepapers",
+      "resourceType": "White Papers",
+      "title": "Rubric-Based Evaluations to Improve LLM Retrieval and Search Functionality",
+      "slug": "rubric-based-llm-retrieval-search-eval",
+      "url": "/whitepapers/rubric-based-llm-retrieval-search-eval",
+      "excerpt": "Learn how Appen's multi-dimensional rubric framework improves LLM retrieval and search quality — with 790,000+ evaluations delivered across markets and languages.",
+      "thumbnail": null,
+      "publishedDate": "2026-04-09T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
       "eventDateText": null,
       "eventBooth": null,
       "eventStatus": null,
