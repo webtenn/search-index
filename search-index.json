@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-17T04:49:51.048Z",
-  "totalItems": 504,
+  "lastUpdated": "2026-04-17T18:18:56.410Z",
+  "totalItems": 505,
   "items": [
     {
       "id": "69851ab52548b694527e9d93",
@@ -9997,6 +9997,25 @@
       "industries": [
         "Automotive"
       ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "69e2783b616e78811bc172b8",
+      "collection": "whitepapers",
+      "resourceType": "White Papers",
+      "title": "Multilingual LLM-as-a-Judge Managed Service for Evaluation at Scale",
+      "slug": "multilingual-llmaaj-managed-service",
+      "url": "/whitepapers/multilingual-llmaaj-managed-service",
+      "excerpt": "Appen's Multilingual LLMaaJ Managed Service delivers rubric-based LLM evaluation across numerous use cases and languages - combining automated speed with human oversight and cultural precision at scale.",
+      "thumbnail": null,
+      "publishedDate": "2026-04-17T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
       "eventDateText": null,
       "eventBooth": null,
       "eventStatus": null,
