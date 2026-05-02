@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-01T05:42:41.506Z",
-  "totalItems": 505,
+  "lastUpdated": "2026-05-02T05:12:02.441Z",
+  "totalItems": 506,
   "items": [
     {
       "id": "69851ab52548b694527e9d93",
@@ -9997,6 +9997,25 @@
       "industries": [
         "Automotive"
       ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "69f4d0663eb7b5fcd71504a7",
+      "collection": "whitepapers",
+      "resourceType": "White Papers",
+      "title": "Verified Domain Expertise to Improve Generative Multimodal Model Performance",
+      "slug": "verified-domain-expertise-generative-multimodal-models",
+      "url": "/whitepapers/verified-domain-expertise-generative-multimodal-models",
+      "excerpt": "Learn how Appen's four-phase methodology closes the gap between current multimodal model performance and professional-grade performance.",
+      "thumbnail": null,
+      "publishedDate": "2026-05-01T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
       "eventDateText": null,
       "eventBooth": null,
       "eventStatus": null,
