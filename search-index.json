@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-06T15:04:51.501Z",
-  "totalItems": 507,
+  "lastUpdated": "2026-05-06T16:37:41.718Z",
+  "totalItems": 508,
   "items": [
     {
       "id": "69fb53a88eb5018eed3b74a6",
@@ -11142,6 +11142,28 @@
       "industries": [
         "Automotive"
       ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "69fb6aa6a3f66d0578089fcd",
+      "collection": "pressReleases",
+      "resourceType": "Press",
+      "title": "Appen Provides Private, High-Quality Audio Data to Hugging Face's Open ASR Leaderboard",
+      "slug": "appen-hugging-face-open-asr-leaderboard",
+      "url": "/press-release/appen-hugging-face-open-asr-leaderboard",
+      "excerpt": "New datasets improve benchmark integrity for a more complete picture of real-world speech recognition performance",
+      "thumbnail": null,
+      "publishedDate": "2026-05-06T00:00:00.000Z",
+      "author": {
+        "name": "Appen",
+        "photo": null
+      },
+      "useCases": [],
+      "industries": [],
       "eventDateText": null,
       "eventBooth": null,
       "eventStatus": null,
