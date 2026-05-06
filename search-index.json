@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-05-06T05:30:16.711Z",
-  "totalItems": 506,
+  "lastUpdated": "2026-05-06T15:04:51.501Z",
+  "totalItems": 507,
   "items": [
+    {
+      "id": "69fb53a88eb5018eed3b74a6",
+      "collection": "blogs",
+      "resourceType": "Blogs",
+      "title": "Appen Contributes Private Benchmark Data to the Open ASR Leaderboard",
+      "slug": "hugging-face-open-llm-leaderboard",
+      "url": "/blog/hugging-face-open-llm-leaderboard",
+      "excerpt": "We partnered with Hugging Face to add a private evaluation track to the Open ASR Leaderboard, high-quality ASR datasets kept off-limits from model developers to give the community a cleaner signal on real-world performance.",
+      "thumbnail": null,
+      "publishedDate": "2026-05-06T00:00:00.000Z",
+      "author": {
+        "name": "Appen",
+        "photo": null
+      },
+      "useCases": [],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
     {
       "id": "69851ab52548b694527e9d93",
       "collection": "blogs",
