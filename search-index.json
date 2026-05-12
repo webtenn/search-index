@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-11T05:59:45.813Z",
-  "totalItems": 508,
+  "lastUpdated": "2026-05-12T05:39:08.964Z",
+  "totalItems": 510,
   "items": [
     {
       "id": "69fb53a88eb5018eed3b74a6",
@@ -10019,6 +10019,44 @@
       "industries": [
         "Automotive"
       ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "6a025253084e5f244dfc0953",
+      "collection": "whitepapers",
+      "resourceType": "Research Papers",
+      "title": "Benchmarking Subquadratic’s latest model & SSA Kernel",
+      "slug": "benchmarking-subquadratics-latest-model-ssa-kernel",
+      "url": "/whitepapers/benchmarking-subquadratics-latest-model-ssa-kernel",
+      "excerpt": "56× faster than FlashAttention-2 at 1M tokens. Independent efficiency, retrieval, and SWE-Bench benchmark of sparse self-attention. Download the full report.",
+      "thumbnail": null,
+      "publishedDate": "2026-05-11T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "6a01ee770b19bc43488ed340",
+      "collection": "whitepapers",
+      "resourceType": "White Papers",
+      "title": "Building Production-Representative Speech Benchmarks to Improve Speech Model Performance",
+      "slug": "production-representative-speech-benchmarks-asr-model-performance",
+      "url": "/whitepapers/production-representative-speech-benchmarks-asr-model-performance",
+      "excerpt": "Discover Appen's five-stage methodology for building speech benchmarks that reflect real-world production conditions - and how we partnered with Hugging Face to make ASR evaluation more trustworthy.",
+      "thumbnail": null,
+      "publishedDate": "2026-05-11T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
       "eventDateText": null,
       "eventBooth": null,
       "eventStatus": null,
