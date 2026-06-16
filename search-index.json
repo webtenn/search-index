@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-16T07:28:14.573Z",
-  "totalItems": 514,
+  "lastUpdated": "2026-06-16T14:40:01.752Z",
+  "totalItems": 515,
   "items": [
     {
       "id": "69fb53a88eb5018eed3b74a6",
@@ -10019,6 +10019,25 @@
       "industries": [
         "Automotive"
       ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "6a3154ede0e0999089e0c96a",
+      "collection": "whitepapers",
+      "resourceType": "Research Papers",
+      "title": "Putting SubQ 1.1 Small Preview to the Test on Long-Context Retrieval & LiveCodeBench",
+      "slug": "subquadratic-preview-model-benchmark-evaluation",
+      "url": "/whitepapers/subquadratic-preview-model-benchmark-evaluation",
+      "excerpt": "A third-party benchmark assessment of Subquadratic's preview models, conducted by Appen across long-context retrieval, code generation, business-workflow automation, and graduate-level reasoning benchmarks.",
+      "thumbnail": null,
+      "publishedDate": "2026-06-16T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
       "eventDateText": null,
       "eventBooth": null,
       "eventStatus": null,
