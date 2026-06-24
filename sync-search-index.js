@@ -29,6 +29,7 @@ const COLLECTION_IDS = {
   webinars:      "658f221d560869e694a60736",
   pressReleases: "658f221d560869e694a60731",
   events:        "6627de4d0ed5d6d4e1b1b693",
+  research:      '6a3c2e068f1328eafb5da97c',
 };
 
 const REFERENCE_COLLECTION_IDS = {
