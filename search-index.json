@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-24T22:05:33.853Z",
-  "totalItems": 515,
+  "lastUpdated": "2026-06-24T22:51:30.451Z",
+  "totalItems": 516,
   "items": [
     {
       "id": "69fb53a88eb5018eed3b74a6",
@@ -12400,6 +12400,25 @@
       "eventStatus": "1de415a2a371f91235bca9e56bb347af",
       "eventVenue": "Santa Clara Convention Center, CA",
       "eventLocation": "Santa Clara, CA"
+    },
+    {
+      "id": "6a3c5aaf793ed82379fb96aa",
+      "collection": "research",
+      "resourceType": "Research Papers",
+      "title": "In Security, a Missed Bug Beats a False Alarm Every Time: Appen’s Security Benchmark ",
+      "slug": "appens-security-benchmark",
+      "url": "/research/appens-security-benchmark",
+      "excerpt": "We tested 21 frontier models against 141 human-verified vulnerabilities. The best misses nearly 4 in 10. See who leads on recall — and why that metric matters most in security.",
+      "thumbnail": null,
+      "publishedDate": "2026-06-24T00:00:00.000Z",
+      "author": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6a3c2eb0850ff71ddfe67445",
