@@ -46,6 +46,7 @@ const COLLECTION_URL_PREFIX = {
   webinars:      "/webinars",
   pressReleases: "/press-release",
   events:        "/events",
+  research: "/research",
 };
 
 // Resolve webinar-status option IDs to human-readable labels
