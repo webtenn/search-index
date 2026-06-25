@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-25T06:08:14.649Z",
-  "totalItems": 516,
+  "lastUpdated": "2026-06-25T19:48:35.202Z",
+  "totalItems": 520,
   "items": [
     {
       "id": "69fb53a88eb5018eed3b74a6",
@@ -11085,6 +11085,94 @@
       "industries": [
         "Automotive"
       ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "6a3d8505f0537f3c0ec61563",
+      "collection": "pressReleases",
+      "resourceType": "Press External",
+      "title": "Australia's Appen says being the Switzerland of AI boosts demand for its human testing",
+      "slug": "australias-appen-says-being-the-switzerland-of-ai-boosts-demand-for-its-human-testing",
+      "url": "https://www.reuters.com/world/asia-pacific/australias-appen-says-being-switzerland-ai-boosts-demand-its-human-testing-2026-02-27/",
+      "excerpt": "",
+      "thumbnail": null,
+      "publishedDate": "2026-02-26T00:00:00.000Z",
+      "author": {
+        "name": "Appen",
+        "photo": null
+      },
+      "useCases": [],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "6a3d84a6ae25cedc4bdebdc6",
+      "collection": "pressReleases",
+      "resourceType": "Press External",
+      "title": "Why LLMs Hallucinate And What Enterprises Must Do About It",
+      "slug": "why-llms-hallucinate-and-what-enterprises-must-do-about-it",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/04/27/why-llms-hallucinate-and-what-enterprises-must-do-about-it/",
+      "excerpt": "",
+      "thumbnail": null,
+      "publishedDate": "2026-04-27T00:00:00.000Z",
+      "author": {
+        "name": "Ryan Kolln",
+        "photo": null
+      },
+      "useCases": [],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "6a3d841936403b430cbffcc5",
+      "collection": "pressReleases",
+      "resourceType": "Press External",
+      "title": "When AI Models Hallucinate Not Just Text But What They See",
+      "slug": "when-ai-models-hallucinate-not-just-text-but-what-they-see",
+      "url": "https://theaiinnovator.com/when-multimodal-models-hallucinate-what-they-see/",
+      "excerpt": "",
+      "thumbnail": null,
+      "publishedDate": "2026-05-08T00:00:00.000Z",
+      "author": {
+        "name": "Sergio Bruccoleri",
+        "photo": null
+      },
+      "useCases": [],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "6a3d834ffea7992ba471a93a",
+      "collection": "pressReleases",
+      "resourceType": "Press External",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "slug": "a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "excerpt": "",
+      "thumbnail": null,
+      "publishedDate": "2026-06-19T00:00:00.000Z",
+      "author": {
+        "name": "Appen",
+        "photo": null
+      },
+      "useCases": [],
+      "industries": [],
       "eventDateText": null,
       "eventBooth": null,
       "eventStatus": null,
