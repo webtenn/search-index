@@ -231,6 +231,7 @@ async function main() {
         thumbnail:     f["image"]?.url || f["thumbnail"]?.url || f["featured-image"]?.url || null,
         publishedDate: f["publish-date"] || f["published-date"] || f["date"] || null,
         author:        author,
+        publisher:     f["publisher"] || null,
         useCases:      useCases,
         industries:    industries,
         // Event-specific fields (null for non-events)
