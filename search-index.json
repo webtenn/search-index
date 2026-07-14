@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T04:51:44.929Z",
-  "totalItems": 520,
+  "lastUpdated": "2026-07-14T18:06:50.167Z",
+  "totalItems": 521,
   "items": [
     {
       "id": "69fb53a88eb5018eed3b74a6",
@@ -10967,6 +10967,33 @@
       "industries": [
         "Automotive"
       ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "6a5668525d8a6a15aa90c87a",
+      "collection": "webinars",
+      "resourceType": "Webinars",
+      "title": "The Future of AI Agents: Long Context, Benchmarks, and Real-World Deployment | The Data Layer Ep. 2",
+      "slug": "future-of-ai-agents-long-context-benchmarks",
+      "url": "/webinars/future-of-ai-agents-long-context-benchmarks",
+      "excerpt": "Subquadratic's CTO and Appen's VP of Delivery break down long context, agent benchmarking, and what's next for AI agents in production.",
+      "thumbnail": null,
+      "publishedDate": "2026-07-14T00:00:00.000Z",
+      "author": null,
+      "publisher": null,
+      "useCases": [
+        "AI Agents",
+        "Long Context",
+        "LLM Benchmarking",
+        "Foundation Models",
+        "Agentic AI",
+        "Enterprise AI"
+      ],
+      "industries": [],
       "eventDateText": null,
       "eventBooth": null,
       "eventStatus": null,
