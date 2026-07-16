@@ -29,7 +29,8 @@ const COLLECTION_IDS = {
   webinars:      "658f221d560869e694a60736",
   pressReleases: "658f221d560869e694a60731",
   events:        "6627de4d0ed5d6d4e1b1b693",
-  research:      '6a3c2e068f1328eafb5da97c',
+  research:      "6a3c2e068f1328eafb5da97c",
+  podcast:       "6a590ff2d6ddc4d1b3dc4ae2",
 };
 
 const REFERENCE_COLLECTION_IDS = {
@@ -46,7 +47,8 @@ const COLLECTION_URL_PREFIX = {
   webinars:      "/webinars",
   pressReleases: "/press-release",
   events:        "/events",
-  research: "/research",
+  research:      "/research",
+  podcast:       "/podcasts",
 };
 
 // Resolve webinar-status option IDs to human-readable labels
