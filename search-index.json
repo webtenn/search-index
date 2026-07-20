@@ -1,7 +1,33 @@
 {
-  "lastUpdated": "2026-07-20T05:40:51.730Z",
-  "totalItems": 521,
+  "lastUpdated": "2026-07-20T15:47:06.547Z",
+  "totalItems": 522,
   "items": [
+    {
+      "id": "6a5e3ebe9160428250050b6d",
+      "collection": "blogs",
+      "resourceType": "Blogs",
+      "title": "GPT-Red: What OpenAI’s Automated Red-Teamer Shows About Safety Evaluation",
+      "slug": "gpt-red-openai-ai-safety-evaluation",
+      "url": "/blog/gpt-red-openai-ai-safety-evaluation",
+      "excerpt": "A technical analysis of GPT-Red’s self-play training, reported prompt-injection results, and the evaluation coverage still needed across languages, modalities, and interaction settings.",
+      "thumbnail": null,
+      "publishedDate": "2026-07-20T00:00:00.000Z",
+      "author": {
+        "name": "Appen",
+        "photo": null
+      },
+      "publisher": null,
+      "useCases": [
+        "AI Red Teaming",
+        "AI Safety Evaluation"
+      ],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
     {
       "id": "69fb53a88eb5018eed3b74a6",
       "collection": "blogs",
