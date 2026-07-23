@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-23T05:25:58.879Z",
-  "totalItems": 522,
+  "lastUpdated": "2026-07-23T21:31:39.220Z",
+  "totalItems": 521,
   "items": [
     {
       "id": "6a5e3ebe9160428250050b6d",
@@ -43,7 +43,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "LLM Benchmarking",
+        "Model Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -66,7 +70,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "RLHF",
+        "Alignment",
+        "Compliance"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -86,7 +94,11 @@
       "publishedDate": "2025-11-12T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Safety Evaluation",
+        "Alignment",
+        "Model Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -109,7 +121,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Dialects",
+        "NLP & Speech (speech-specific)",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -132,7 +148,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Agents",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -155,7 +174,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "TTS",
+        "Dialects"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -178,7 +201,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Agents",
+        "Enterprise AI",
+        "Tool Use"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -198,7 +225,11 @@
       "publishedDate": "2025-09-24T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Red Teaming",
+        "AI Safety Evaluation",
+        "Model Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -221,7 +252,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Hallucinations",
+        "Model Evaluation",
+        "Human Feedback"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -244,7 +279,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Search",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -264,7 +302,11 @@
       "publishedDate": "2025-08-28T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "SFT",
+        "Vision Language Models (VLMs)",
+        "Foundation Models"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -287,7 +329,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Human Evaluation",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -310,7 +356,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "SFT",
+        "Model Evaluation",
+        "Human Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -402,7 +452,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Trustworthiness",
+        "Alignment",
+        "Model Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -425,7 +479,12 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Foundation Models",
+        "Model Evaluation",
+        "Human Evaluation",
+        "Alignment"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -445,7 +504,11 @@
       "publishedDate": "2025-05-08T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Safety Evaluation",
+        "Alignment",
+        "Human Feedback"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -465,7 +528,10 @@
       "publishedDate": "2025-04-23T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Red Teaming",
+        "AI Safety Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -488,7 +554,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Agents",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -534,7 +603,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -557,7 +629,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -603,7 +678,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Human Feedback",
+        "Data Annotation",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -626,7 +705,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data",
+        "Model Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -697,7 +780,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -720,7 +806,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Chat",
+        "Human Feedback",
+        "Model Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -740,7 +830,13 @@
       "publishedDate": "2024-06-27T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Computer Vision",
+        "Video Understanding",
+        "NLP & Speech (speech-specific)",
+        "Cross-modal",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -763,7 +859,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Enterprise AI",
+        "Search"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -783,7 +882,11 @@
       "publishedDate": "2024-06-06T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Enterprise AI",
+        "Search",
+        "Human Feedback"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -806,7 +909,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Human Feedback",
+        "Data Annotation",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -826,7 +933,11 @@
       "publishedDate": "2024-05-23T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Enterprise AI",
+        "Search",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -846,7 +957,11 @@
       "publishedDate": "2024-05-09T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Red Teaming",
+        "AI Safety Evaluation",
+        "Alignment"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -866,7 +981,10 @@
       "publishedDate": "2024-04-18T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Enterprise AI",
+        "Human Feedback"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -909,7 +1027,10 @@
       "publishedDate": "2024-04-11T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Long Context",
+        "Foundation Models"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -932,7 +1053,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data",
+        "AI & Machine Learning"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -955,7 +1080,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Collection",
+        "Dataset Creation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -998,7 +1127,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Search",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1021,7 +1153,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Enterprise AI",
+        "Human Feedback",
+        "SFT"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1044,7 +1180,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Trustworthiness"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1090,7 +1228,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Compliance"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1159,7 +1299,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1182,7 +1324,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Model Evaluation"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -1211,7 +1355,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Emotion Detection"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1234,7 +1380,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "NLP & Speech (speech-specific)",
+        "Speech Recognition",
+        "Audio"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -1264,7 +1414,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Chat"
+      ],
       "industries": [
         "Technology"
       ],
@@ -1290,8 +1442,9 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech",
-        "Chat"
+        "NLP & Speech (speech-specific)",
+        "Speech Recognition",
+        "Audio"
       ],
       "industries": [
         "Technology"
@@ -1340,7 +1493,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1363,7 +1518,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Computer Vision"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1387,7 +1544,7 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Automotive",
@@ -1419,8 +1576,11 @@
       },
       "publisher": null,
       "useCases": [
-        "Training Data",
-        "AI & Machine Learning"
+        "AI & Machine Learning",
+        "Human Feedback",
+        "Human Evaluation",
+        "AI Agents",
+        "Compliance"
       ],
       "industries": [],
       "eventDateText": null,
@@ -1474,7 +1634,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1497,7 +1659,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Collection",
+        "Dataset Creation"
+      ],
       "industries": [
         "Technology"
       ],
@@ -1522,7 +1687,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Computer Vision"
+      ],
       "industries": [
         "Technology"
       ],
@@ -1602,7 +1769,9 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning"
+        "Human Feedback",
+        "AI & Machine Learning",
+        "Human Evaluation"
       ],
       "industries": [],
       "eventDateText": null,
@@ -1626,7 +1795,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Collection",
+        "AI & Machine Learning"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1649,7 +1822,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Human Evaluation",
+        "Data Annotation",
+        "AI & Machine Learning"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1695,7 +1872,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Bias",
+        "Foundation Models"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1718,7 +1898,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "LLM Benchmarking",
+        "Model Evaluation",
+        "Foundation Models"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1741,7 +1925,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Chat",
+        "Human Feedback",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1764,7 +1952,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -1817,7 +2007,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Hallucinations"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1840,7 +2032,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Annotation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1863,7 +2058,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "RLHF",
+        "Human Feedback"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1886,7 +2084,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Computer Vision",
+        "Autonomous Driving"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1909,7 +2110,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Image Generation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1955,7 +2158,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Red Teaming",
+        "AI Safety Evaluation",
+        "Alignment"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -1978,7 +2185,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2024,7 +2234,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data",
+        "Dataset Creation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2047,7 +2261,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "RLHF",
+        "Human Feedback",
+        "Preference Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2070,7 +2288,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Bias",
+        "Trustworthiness",
+        "Compliance"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2116,7 +2338,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "OCR"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2139,7 +2363,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Autonomous Driving"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2185,7 +2411,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Annotation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2208,7 +2437,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Collection"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2231,7 +2463,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Robotics"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2300,7 +2534,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Collection"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2323,7 +2560,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Bias",
+        "Trustworthiness"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2438,7 +2678,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Computer Vision",
+        "Autonomous Driving"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2461,7 +2704,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Model Evaluation",
+        "Human Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2484,7 +2730,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Bias",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2507,7 +2756,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Autonomous Driving",
+        "Computer Vision"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2553,7 +2805,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2599,7 +2853,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Bias",
+        "Data Collection",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2622,7 +2880,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "NLP & Speech (speech-specific)"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2645,7 +2905,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Collection"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2668,7 +2931,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data",
+        "Data Collection"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2692,7 +2959,9 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning"
+        "AI & Machine Learning",
+        "Training Data",
+        "Data Annotation"
       ],
       "industries": [],
       "eventDateText": null,
@@ -2716,7 +2985,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "AI Agents"
+      ],
       "industries": [
         "Retail"
       ],
@@ -2741,7 +3013,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Bias",
+        "Data Annotation",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2787,7 +3063,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Collection",
+        "Training Data",
+        "Dataset Creation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2879,7 +3159,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Chat",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2902,7 +3185,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Autonomous Driving",
+        "Robotics"
+      ],
       "industries": [
         "Automotive"
       ],
@@ -2927,7 +3213,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -2996,7 +3285,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Chat",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -3157,7 +3449,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Dataset Creation",
+        "Data Collection"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -3180,7 +3476,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Model Evaluation",
+        "Training Data",
+        "AI & Machine Learning"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -3203,7 +3503,12 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)",
+        "Training Data",
+        "Dataset Creation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -3226,7 +3531,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning",
+        "Enterprise AI"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3256,7 +3564,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3286,7 +3598,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -3309,7 +3624,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning",
+        "Training Data",
+        "Model Evaluation"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3339,7 +3658,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)",
+        "Audio"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3392,7 +3715,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3422,7 +3747,12 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning",
+        "Training Data",
+        "Data Collection",
+        "Dataset Creation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -3445,7 +3775,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Search"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3475,7 +3807,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Computer Vision",
+        "Dataset Creation",
+        "Training Data"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3535,7 +3871,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3565,7 +3903,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Dataset Creation",
+        "Data Collection"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3595,7 +3937,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)",
+        "Audio"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3648,7 +3994,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Annotation",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3678,7 +4028,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data",
+        "Data Collection"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3708,7 +4062,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Computer Vision"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3738,7 +4094,12 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Dataset Creation",
+        "Training Data",
+        "Data Collection",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3798,7 +4159,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Sensor Fusion"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3828,7 +4191,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)",
+        "Audio"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3858,7 +4225,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Human Feedback",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3888,7 +4258,12 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Collection",
+        "Training Data",
+        "AI & Machine Learning",
+        "Dataset Creation"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3918,7 +4293,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "AI & Machine Learning",
+        "Data Collection"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3948,7 +4327,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "Audio"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -3978,7 +4360,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4008,7 +4392,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Foundation Models",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4038,7 +4426,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "Audio"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4068,7 +4459,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Compliance",
+        "Trustworthiness",
+        "Bias"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4098,7 +4493,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4128,7 +4525,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "OCR",
+        "Computer Vision"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4158,7 +4558,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Annotation",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4218,7 +4622,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Compliance",
+        "Trustworthiness",
+        "Bias"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4278,7 +4686,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4308,7 +4720,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "AI & Machine Learning",
+        "Data Annotation"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4338,7 +4754,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Trustworthiness",
+        "Compliance"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4368,7 +4787,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Bias"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4458,7 +4879,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "NLP & Speech (speech-specific)",
+        "Data Collection"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4490,7 +4914,8 @@
       "publisher": null,
       "useCases": [
         "Data Annotation",
-        "NLP & Speech"
+        "Training Data",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Automotive",
@@ -4552,8 +4977,8 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Computer Vision"
+        "Computer Vision",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Technology"
@@ -4579,7 +5004,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "LiDAR",
+        "Autonomous Driving"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4678,31 +5106,6 @@
       "eventLocation": null
     },
     {
-      "id": "658f221d560869e694a608e4",
-      "collection": "blogs",
-      "resourceType": "Blogs",
-      "title": "Spelling Standardization:  How Many Ways Can You Spell a Word?",
-      "slug": "spelling-standardization-2",
-      "url": "/blog/spelling-standardization-2",
-      "excerpt": "Here’s a topic that’s near and dear to our hearts here at Appen: spelling standardization. If you’re providing training data to a computer system to produce machine",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/65779223899ddb1eb896e23b_how-many-ways-can-you-spell-a-word.png",
-      "publishedDate": "2021-05-03T00:00:00.000Z",
-      "author": {
-        "name": "Appen",
-        "photo": null
-      },
-      "publisher": null,
-      "useCases": [],
-      "industries": [
-        "Technology"
-      ],
-      "eventDateText": null,
-      "eventBooth": null,
-      "eventStatus": null,
-      "eventVenue": null,
-      "eventLocation": null
-    },
-    {
       "id": "658f221d560869e694a608e1",
       "collection": "blogs",
       "resourceType": "Blogs",
@@ -4717,7 +5120,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Collection",
+        "Training Data",
+        "Compliance"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4777,7 +5184,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4807,7 +5218,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4837,7 +5250,12 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Computer Vision",
+        "Video Understanding",
+        "Training Data"
+      ],
       "industries": [
         "Automotive",
         "Healthcare",
@@ -4864,7 +5282,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Computer Vision",
+        "Training Data"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -4895,7 +5317,8 @@
       },
       "publisher": null,
       "useCases": [
-        "Search"
+        "Search",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Automotive",
@@ -4926,7 +5349,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning",
+        "Trustworthiness"
+      ],
       "industries": [
         "Government",
         "Retail",
@@ -5003,7 +5429,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Bias",
+        "Trustworthiness",
+        "Compliance"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5033,7 +5463,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning",
+        "Autonomous Driving"
+      ],
       "industries": [
         "Automotive"
       ],
@@ -5058,7 +5491,12 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Agents",
+        "Chat",
+        "Data Collection",
+        "Training Data"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5088,7 +5526,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Computer Vision"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5146,7 +5586,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Compliance"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5176,7 +5618,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Trustworthiness",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5206,7 +5651,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Chat",
+        "AI Agents"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5236,7 +5684,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Autonomous Driving"
+      ],
       "industries": [
         "Automotive"
       ],
@@ -5261,7 +5711,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5293,8 +5745,8 @@
       "publisher": null,
       "useCases": [
         "AI & Machine Learning",
-        "NLP & Speech",
-        "Text Generation"
+        "Training Data",
+        "Dataset Creation"
       ],
       "industries": [
         "Automotive",
@@ -5325,7 +5777,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Autonomous Driving"
+      ],
       "industries": [
         "Automotive"
       ],
@@ -5350,7 +5804,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5380,7 +5836,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5410,7 +5869,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5529,7 +5990,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5588,7 +6052,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Model Evaluation",
+        "Bias",
+        "Trustworthiness"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5701,7 +6169,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Bias",
+        "Trustworthiness"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -5731,7 +6202,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Finance"
       ],
@@ -5806,7 +6279,7 @@
       "slug": "spelling-standardization",
       "url": "/blog/spelling-standardization",
       "excerpt": "Here’s a topic that’s near and dear to our hearts here at Appen: spelling standardization. If you’re providing training data to a computer system to produce machine",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/65779223899ddb1eb896e23b_how-many-ways-can-you-spell-a-word.png",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/65779223899ddb1eb896e23b_how-many-ways-can-you-spell-a-word.png",
       "publishedDate": "2020-06-06T00:00:00.000Z",
       "author": {
         "name": "Appen",
@@ -5814,8 +6287,9 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Text Generation"
+        "Training Data",
+        "Data Annotation",
+        "Data Collection"
       ],
       "industries": [
         "Technology"
@@ -5864,7 +6338,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Human Evaluation",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Technology"
       ],
@@ -5889,7 +6366,12 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Annotation",
+        "Data Collection",
+        "AI & Machine Learning"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -5912,7 +6394,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Search",
+        "Human Evaluation",
+        "Data Annotation"
+      ],
       "industries": [
         "Retail"
       ],
@@ -5937,7 +6423,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive"
       ],
@@ -5988,7 +6476,7 @@
       "useCases": [
         "AI & Machine Learning",
         "Chat",
-        "NLP & Speech"
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Automotive",
@@ -6019,7 +6507,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Data Collection",
+        "Training Data"
+      ],
       "industries": [
         "Technology"
       ],
@@ -6121,7 +6613,7 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning"
+        "Autonomous Driving"
       ],
       "industries": [
         "Automotive"
@@ -6175,7 +6667,8 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning"
+        "Robotics",
+        "Embodied AI"
       ],
       "industries": [
         "Retail",
@@ -6291,9 +6784,9 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
         "Chat",
-        "NLP & Speech"
+        "Enterprise AI",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Automotive",
@@ -6324,7 +6817,6 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
         "Computer Vision"
       ],
       "industries": [
@@ -6353,8 +6845,9 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "NLP & Speech"
+        "Data Collection",
+        "Dataset Creation",
+        "Chat"
       ],
       "industries": [
         "Automotive",
@@ -6386,8 +6879,9 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "NLP & Speech"
+        "Chat",
+        "Data Collection",
+        "Training Data"
       ],
       "industries": [
         "Automotive",
@@ -6479,7 +6973,8 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning"
+        "Data Annotation",
+        "Training Data"
       ],
       "industries": [
         "Automotive",
@@ -6510,7 +7005,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Bias",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -6534,7 +7032,7 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Technology"
@@ -6561,8 +7059,9 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Computer Vision"
+        "Computer Vision",
+        "Autonomous Driving",
+        "Data Collection"
       ],
       "industries": [
         "Automotive"
@@ -6589,8 +7088,9 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Computer Vision"
+        "Computer Vision",
+        "Training Data",
+        "Dataset Creation"
       ],
       "industries": [
         "Technology"
@@ -6617,9 +7117,9 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Chat",
-        "NLP & Speech"
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)",
+        "Data Collection"
       ],
       "industries": [
         "Automotive"
@@ -6673,7 +7173,8 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Technology"
@@ -6700,6 +7201,8 @@
       },
       "publisher": null,
       "useCases": [
+        "Training Data",
+        "Data Collection",
         "AI & Machine Learning"
       ],
       "industries": [
@@ -6727,9 +7230,10 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Chat",
-        "NLP & Speech"
+        "NLP & Speech (speech-specific)",
+        "Speech Recognition",
+        "Dialects",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Automotive"
@@ -6847,8 +7351,8 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Computer Vision"
+        "Computer Vision",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Automotive",
@@ -6879,6 +7383,9 @@
       },
       "publisher": null,
       "useCases": [
+        "Data Annotation",
+        "Training Data",
+        "Dataset Creation",
         "AI & Machine Learning"
       ],
       "industries": [
@@ -6906,6 +7413,8 @@
       },
       "publisher": null,
       "useCases": [
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)",
         "AI & Machine Learning"
       ],
       "industries": [
@@ -6934,8 +7443,11 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Computer Vision"
+        "Computer Vision",
+        "Training Data",
+        "Data Annotation",
+        "Dataset Creation",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Automotive",
@@ -7191,7 +7703,7 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning"
+        "Image Generation"
       ],
       "industries": [
         "Government",
@@ -7276,7 +7788,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Autonomous Driving"
+      ],
       "industries": [
         "Automotive"
       ],
@@ -7330,8 +7844,8 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Search"
+        "Search",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Retail"
@@ -7626,9 +8140,8 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
         "Computer Vision",
-        "NLP & Speech"
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Finance",
@@ -7657,8 +8170,8 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Chat"
+        "Chat",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Retail",
@@ -7738,7 +8251,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -7882,8 +8398,8 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "NLP & Speech"
+        "Chat",
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Automotive",
@@ -7915,8 +8431,8 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "NLP & Speech"
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Technology"
@@ -7942,7 +8458,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "NLP & Speech (speech-specific)",
+        "Dialects"
+      ],
       "industries": [
         "Technology"
       ],
@@ -7997,7 +8516,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Collection",
+        "Data Annotation",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Technology"
       ],
@@ -8048,6 +8571,7 @@
       },
       "publisher": null,
       "useCases": [
+        "Enterprise AI",
         "AI & Machine Learning"
       ],
       "industries": [
@@ -8076,8 +8600,8 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Search"
+        "Search",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Retail"
@@ -8134,7 +8658,9 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "Training Data",
+        "Data Annotation",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Automotive",
@@ -8163,7 +8689,9 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning"
+        "Search",
+        "Data Annotation",
+        "Human Evaluation"
       ],
       "industries": [
         "Retail",
@@ -8190,7 +8718,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Human Evaluation",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -8221,8 +8753,9 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Chat"
+        "Chat",
+        "Enterprise AI",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Finance"
@@ -8276,8 +8809,7 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Data Annotation"
+        "Search"
       ],
       "industries": [
         "Technology"
@@ -8304,6 +8836,7 @@
       },
       "publisher": null,
       "useCases": [
+        "Search",
         "AI & Machine Learning"
       ],
       "industries": [
@@ -8331,6 +8864,7 @@
       },
       "publisher": null,
       "useCases": [
+        "Data Annotation",
         "AI & Machine Learning"
       ],
       "industries": [
@@ -8359,7 +8893,7 @@
       "publisher": null,
       "useCases": [
         "AI & Machine Learning",
-        "NLP & Speech"
+        "Data Annotation"
       ],
       "industries": [
         "Technology"
@@ -8386,6 +8920,7 @@
       },
       "publisher": null,
       "useCases": [
+        "Data Collection",
         "AI & Machine Learning"
       ],
       "industries": [
@@ -8413,6 +8948,7 @@
       },
       "publisher": null,
       "useCases": [
+        "Search",
         "AI & Machine Learning"
       ],
       "industries": [
@@ -8440,6 +8976,7 @@
       },
       "publisher": null,
       "useCases": [
+        "Search",
         "AI & Machine Learning"
       ],
       "industries": [
@@ -8543,7 +9080,8 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Technology"
@@ -8697,8 +9235,8 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "Search"
+        "Search",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Technology"
@@ -8757,7 +9295,8 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Technology"
@@ -8784,8 +9323,10 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "NLP & Speech"
+        "Search",
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Technology"
@@ -8842,8 +9383,8 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
-        "NLP & Speech"
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Technology"
@@ -8925,7 +9466,6 @@
       },
       "publisher": null,
       "useCases": [
-        "AI & Machine Learning",
         "Search"
       ],
       "industries": [
@@ -8953,7 +9493,8 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "NLP & Speech (speech-specific)",
+        "Chat"
       ],
       "industries": [
         "Automotive",
@@ -9006,7 +9547,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "AI & Machine Learning",
+        "Data Collection"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9030,7 +9575,7 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Automotive",
@@ -9062,7 +9607,10 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "NLP & Speech (speech-specific)",
+        "Speech Recognition",
+        "Data Collection",
+        "Training Data"
       ],
       "industries": [
         "Automotive",
@@ -9165,7 +9713,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Collection",
+        "Data Annotation"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -9192,7 +9743,13 @@
       "publishedDate": "2026-04-09T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Robotics",
+        "Embodied AI",
+        "Data Annotation",
+        "Training Data",
+        "Video Understanding"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9212,7 +9769,11 @@
       "publishedDate": "2025-11-20T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Computer Vision",
+        "Data Annotation",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9232,7 +9793,12 @@
       "publishedDate": "2025-07-11T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "SFT",
+        "Preference Data",
+        "Enterprise AI",
+        "Model Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9256,14 +9822,12 @@
       },
       "publisher": null,
       "useCases": [
-        "Summarization",
-        "Text Generation",
-        "Computer Vision"
+        "Video Understanding",
+        "Computer Vision",
+        "Cross-modal",
+        "Human Evaluation"
       ],
-      "industries": [
-        "Technology",
-        "Software"
-      ],
+      "industries": [],
       "eventDateText": null,
       "eventBooth": null,
       "eventStatus": null,
@@ -9283,7 +9847,7 @@
       "author": null,
       "publisher": null,
       "useCases": [
-        "Chat"
+        "Audio"
       ],
       "industries": [],
       "eventDateText": null,
@@ -9304,7 +9868,12 @@
       "publishedDate": "2025-02-13T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "LLM Benchmarking",
+        "Model Evaluation",
+        "Compliance",
+        "Trustworthiness"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9324,7 +9893,12 @@
       "publishedDate": "2025-02-13T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "SFT",
+        "Preference Data",
+        "Dialects",
+        "Human Feedback"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9344,7 +9918,11 @@
       "publishedDate": "2024-11-14T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Image Generation",
+        "Model Evaluation",
+        "Cross-modal"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9364,7 +9942,9 @@
       "publishedDate": "2024-10-11T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Chat"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9388,7 +9968,8 @@
       },
       "publisher": null,
       "useCases": [
-        "Computer Vision"
+        "Computer Vision",
+        "Autonomous Driving"
       ],
       "industries": [
         "Technology"
@@ -9414,7 +9995,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning",
+        "Data Annotation",
+        "Trustworthiness"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9437,7 +10022,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9460,7 +10047,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9483,7 +10072,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Search"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9531,7 +10122,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Trustworthiness"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9554,7 +10147,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "NLP & Speech (speech-specific)",
+        "Chat",
+        "Dialects"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -9578,7 +10175,8 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "NLP & Speech (speech-specific)",
+        "Dataset Creation"
       ],
       "industries": [
         "Technology"
@@ -9605,7 +10203,8 @@
       },
       "publisher": null,
       "useCases": [
-        "Search"
+        "Search",
+        "Data Collection"
       ],
       "industries": [
         "Technology"
@@ -9632,7 +10231,9 @@
       },
       "publisher": null,
       "useCases": [
-        "Chat"
+        "Chat",
+        "Dataset Creation",
+        "Training Data"
       ],
       "industries": [
         "Technology"
@@ -9659,8 +10260,10 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech",
-        "Data Annotation"
+        "NLP & Speech (speech-specific)",
+        "Dialects",
+        "Data Annotation",
+        "Data Collection"
       ],
       "industries": [],
       "eventDateText": null,
@@ -9685,7 +10288,9 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "Emotion Detection",
+        "Video Understanding",
+        "Data Annotation"
       ],
       "industries": [
         "Technology"
@@ -9712,7 +10317,8 @@
       },
       "publisher": null,
       "useCases": [
-        "Chat"
+        "Chat",
+        "Enterprise AI"
       ],
       "industries": [
         "Technology"
@@ -9739,7 +10345,8 @@
       },
       "publisher": null,
       "useCases": [
-        "Search"
+        "Search",
+        "Data Annotation"
       ],
       "industries": [
         "Technology"
@@ -9766,7 +10373,8 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "Data Annotation",
+        "Training Data"
       ],
       "industries": [
         "Finance"
@@ -9793,7 +10401,8 @@
       },
       "publisher": null,
       "useCases": [
-        "Computer Vision"
+        "Computer Vision",
+        "Data Annotation"
       ],
       "industries": [
         "Healthcare"
@@ -9847,7 +10456,8 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech",
+        "NLP & Speech (speech-specific)",
+        "Speech Recognition",
         "Data Annotation"
       ],
       "industries": [
@@ -9900,7 +10510,8 @@
       },
       "publisher": null,
       "useCases": [
-        "Search"
+        "Computer Vision",
+        "Training Data"
       ],
       "industries": [
         "Technology"
@@ -9927,7 +10538,8 @@
       },
       "publisher": null,
       "useCases": [
-        "Chat"
+        "Chat",
+        "Enterprise AI"
       ],
       "industries": [
         "Finance"
@@ -9954,7 +10566,7 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech",
+        "Computer Vision",
         "Data Annotation"
       ],
       "industries": [
@@ -9982,7 +10594,10 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)",
+        "Training Data",
+        "AI & Machine Learning"
       ],
       "industries": [
         "Technology"
@@ -10009,7 +10624,8 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "AI & Machine Learning",
+        "Training Data"
       ],
       "industries": [
         "Technology"
@@ -10035,7 +10651,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Collection",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Technology"
       ],
@@ -10088,7 +10708,8 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "Data Collection",
+        "Dataset Creation"
       ],
       "industries": [
         "Technology"
@@ -10142,7 +10763,7 @@
       },
       "publisher": null,
       "useCases": [
-        "Search"
+        "Human Evaluation"
       ],
       "industries": [
         "Retail"
@@ -10169,7 +10790,8 @@
       },
       "publisher": null,
       "useCases": [
-        "Computer Vision"
+        "Computer Vision",
+        "Human Evaluation"
       ],
       "industries": [
         "Technology"
@@ -10196,7 +10818,8 @@
       },
       "publisher": null,
       "useCases": [
-        "Search"
+        "Search",
+        "Human Evaluation"
       ],
       "industries": [
         "Technology"
@@ -10222,7 +10845,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Human Evaluation"
+      ],
       "industries": [
         "Technology"
       ],
@@ -10248,7 +10873,8 @@
       },
       "publisher": null,
       "useCases": [
-        "Search"
+        "Search",
+        "Human Evaluation"
       ],
       "industries": [
         "Technology"
@@ -10275,7 +10901,8 @@
       },
       "publisher": null,
       "useCases": [
-        "Search"
+        "Search",
+        "Human Evaluation"
       ],
       "industries": [
         "Technology"
@@ -10302,7 +10929,7 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Retail"
@@ -10329,7 +10956,8 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Automotive"
@@ -10356,7 +10984,9 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "TTS",
+        "Speech Synthesis",
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Healthcare"
@@ -10383,7 +11013,9 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "TTS",
+        "Speech Synthesis",
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Healthcare"
@@ -10410,7 +11042,8 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Technology"
@@ -10437,7 +11070,9 @@
       },
       "publisher": null,
       "useCases": [
-        "NLP & Speech"
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)",
+        "Training Data"
       ],
       "industries": [
         "Automotive"
@@ -10460,7 +11095,11 @@
       "publishedDate": "2026-05-11T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "NLP & Speech (speech-specific)",
+        "Model Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -10480,7 +11119,11 @@
       "publishedDate": "2026-05-01T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Vision Language Models (VLMs)",
+        "Model Evaluation",
+        "Human Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -10500,7 +11143,11 @@
       "publishedDate": "2026-04-17T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Model Evaluation",
+        "Human Evaluation",
+        "LLM Benchmarking"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -10520,7 +11167,11 @@
       "publishedDate": "2026-04-09T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Search",
+        "Model Evaluation",
+        "Human Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -10540,7 +11191,11 @@
       "publishedDate": "2026-03-27T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Agents",
+        "Agent Evaluation",
+        "RLHF"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -10560,7 +11215,10 @@
       "publishedDate": "2026-03-24T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Agents",
+        "Agent Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -10580,7 +11238,11 @@
       "publishedDate": "2025-09-26T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "Audio",
+        "NLP & Speech (speech-specific)"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -10620,7 +11282,11 @@
       "publishedDate": "2022-04-20T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Annotation",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -10750,7 +11416,9 @@
       "publisher": null,
       "useCases": [
         "Computer Vision",
-        "NLP & Speech"
+        "NLP & Speech (speech-specific)",
+        "Autonomous Driving",
+        "Data Annotation"
       ],
       "industries": [
         "Automotive",
@@ -10774,7 +11442,10 @@
       "publishedDate": "2024-12-03T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Foundation Models",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -10794,7 +11465,10 @@
       "publishedDate": "2024-09-24T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Search",
+        "Human Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -10814,7 +11488,10 @@
       "publishedDate": "2024-08-06T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Foundation Models",
+        "AI & Machine Learning"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -10834,7 +11511,10 @@
       "publishedDate": "2020-01-15T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -10888,7 +11568,11 @@
       "publishedDate": "2020-04-08T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Annotation",
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -10915,7 +11599,9 @@
       "publishedDate": "2020-05-13T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Enterprise AI"
+      ],
       "industries": [
         "Finance"
       ],
@@ -10937,7 +11623,10 @@
       "publishedDate": "2021-01-28T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Compliance",
+        "Trustworthiness"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -10965,7 +11654,9 @@
       "author": null,
       "publisher": null,
       "useCases": [
-        "Computer Vision"
+        "Computer Vision",
+        "Data Annotation",
+        "Training Data"
       ],
       "industries": [],
       "eventDateText": null,
@@ -10988,7 +11679,8 @@
       "publisher": null,
       "useCases": [
         "Computer Vision",
-        "NLP & Speech"
+        "Autonomous Driving",
+        "NLP & Speech (speech-specific)"
       ],
       "industries": [
         "Automotive"
@@ -11011,7 +11703,10 @@
       "publishedDate": "2025-10-30T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "LLM Benchmarking",
+        "Model Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11031,7 +11726,11 @@
       "publishedDate": "2025-05-30T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Safety Evaluation",
+        "Trustworthiness",
+        "Compliance"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11051,7 +11750,10 @@
       "publishedDate": "2024-10-04T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Search",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11091,7 +11793,11 @@
       "publishedDate": "2024-04-18T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "SFT",
+        "Human Feedback",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11171,7 +11877,11 @@
       "publishedDate": "2021-08-12T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Annotation",
+        "Data Collection"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11192,6 +11902,8 @@
       "author": null,
       "publisher": null,
       "useCases": [
+        "Autonomous Driving",
+        "Training Data",
         "Computer Vision"
       ],
       "industries": [
@@ -11215,7 +11927,10 @@
       "publishedDate": "2019-08-28T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Data Annotation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11235,7 +11950,9 @@
       "publishedDate": "2019-03-26T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning"
+      ],
       "industries": [
         "Finance"
       ],
@@ -11277,7 +11994,9 @@
       "publishedDate": "2019-05-28T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Compliance"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11298,7 +12017,9 @@
       "author": null,
       "publisher": null,
       "useCases": [
-        "Computer Vision"
+        "Computer Vision",
+        "Training Data",
+        "Data Annotation"
       ],
       "industries": [
         "Technology"
@@ -11365,7 +12086,11 @@
       "publishedDate": "2020-06-15T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Trustworthiness",
+        "Compliance",
+        "Bias"
+      ],
       "industries": [
         "Automotive",
         "Finance",
@@ -11489,7 +12214,8 @@
       "author": null,
       "publisher": null,
       "useCases": [
-        "Chat"
+        "Chat",
+        "Enterprise AI"
       ],
       "industries": [
         "Technology"
@@ -11513,7 +12239,9 @@
       "author": null,
       "publisher": null,
       "useCases": [
-        "Search"
+        "Search",
+        "AI & Machine Learning",
+        "Data Annotation"
       ],
       "industries": [],
       "eventDateText": null,
@@ -11534,7 +12262,12 @@
       "publishedDate": "2022-06-06T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Autonomous Driving",
+        "Model Evaluation",
+        "Data Collection",
+        "Training Data"
+      ],
       "industries": [
         "Automotive"
       ],
@@ -11559,7 +12292,9 @@
         "photo": null
       },
       "publisher": "Reuters",
-      "useCases": [],
+      "useCases": [
+        "Human Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11582,7 +12317,9 @@
         "photo": null
       },
       "publisher": "Forbes",
-      "useCases": [],
+      "useCases": [
+        "Hallucinations"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11605,7 +12342,10 @@
         "photo": null
       },
       "publisher": "The AI Innovator",
-      "useCases": [],
+      "useCases": [
+        "Hallucinations",
+        "Vision Language Models (VLMs)"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11628,7 +12368,9 @@
         "photo": null
       },
       "publisher": "MIT Technology Review",
-      "useCases": [],
+      "useCases": [
+        "Foundation Models"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11651,7 +12393,11 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "LLM Benchmarking",
+        "Audio"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11674,7 +12420,10 @@
         "photo": null
       },
       "publisher": "The AI Journal",
-      "useCases": [],
+      "useCases": [
+        "AI Safety Evaluation",
+        "Alignment"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11697,7 +12446,11 @@
         "photo": null
       },
       "publisher": "DATAVERSITY",
-      "useCases": [],
+      "useCases": [
+        "AI Agents",
+        "Agent Evaluation",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11720,7 +12473,10 @@
         "photo": null
       },
       "publisher": "Forbes",
-      "useCases": [],
+      "useCases": [
+        "Vision Language Models (VLMs)",
+        "Cross-modal"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11743,7 +12499,9 @@
         "photo": null
       },
       "publisher": "Spotify",
-      "useCases": [],
+      "useCases": [
+        "Foundation Models"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11812,7 +12570,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Foundation Models"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11835,7 +12596,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11858,7 +12622,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Foundation Models",
+        "Enterprise AI"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11904,7 +12671,12 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Chat",
+        "LLM Benchmarking",
+        "Model Evaluation",
+        "Human Feedback"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -11973,7 +12745,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Trustworthiness",
+        "Foundation Models"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12019,7 +12794,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Chat",
+        "Dialects"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12065,7 +12843,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Dataset Creation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12134,7 +12915,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Collection"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12157,7 +12940,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Bias"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12180,7 +12965,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI & Machine Learning",
+        "Speech Recognition"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12203,7 +12991,13 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "Dataset Creation",
+        "Speech Recognition",
+        "Audio",
+        "OCR"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12272,7 +13066,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Compliance",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12295,7 +13092,12 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Autonomous Driving",
+        "Training Data",
+        "Sensor Fusion",
+        "Data Collection"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12341,7 +13143,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Annotation",
+        "Training Data"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12410,7 +13215,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Training Data",
+        "AI & Machine Learning"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12433,7 +13241,10 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Data Collection",
+        "Data Annotation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12525,7 +13336,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Search"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12711,7 +13524,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "NLP & Speech (speech-specific)"
+      ],
       "industries": [
         "Automotive"
       ],
@@ -12759,7 +13574,9 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "NLP & Speech (speech-specific)"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -12779,7 +13596,9 @@
       "publishedDate": "2026-06-05T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Computer Vision"
+      ],
       "industries": [],
       "eventDateText": "June 5–7, 2026",
       "eventBooth": "Booth 641",
@@ -12919,7 +13738,10 @@
       "publishedDate": "2024-12-03T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Sensor Fusion",
+        "Computer Vision"
+      ],
       "industries": [],
       "eventDateText": "December 8-10, 2024",
       "eventBooth": "Booth #25",
@@ -13019,7 +13841,12 @@
       "publishedDate": "2026-06-24T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Red Teaming",
+        "AI Safety Evaluation",
+        "LLM Benchmarking",
+        "Model Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -13039,7 +13866,13 @@
       "publishedDate": "2026-06-16T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Long Context",
+        "LiveCodeBench",
+        "Code Generation",
+        "LLM Benchmarking",
+        "Foundation Models"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -13059,7 +13892,12 @@
       "publishedDate": "2026-05-11T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "SWE Bench",
+        "LLM Benchmarking",
+        "Foundation Models",
+        "Long Context"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -13099,7 +13937,11 @@
       "publishedDate": "2025-09-24T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Red Teaming",
+        "Vision Language Models (VLMs)",
+        "AI Safety Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -13119,7 +13961,10 @@
       "publishedDate": "2025-06-18T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Bias",
+        "Human Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -13139,7 +13984,11 @@
       "publishedDate": "2025-04-23T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Red Teaming",
+        "AI Safety Evaluation",
+        "LLM Benchmarking"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -13159,7 +14008,11 @@
       "publishedDate": "2025-02-28T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "AI Safety Evaluation",
+        "Alignment",
+        "Trustworthiness"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
@@ -13183,8 +14036,7 @@
         "AI Agents",
         "Long Context",
         "LLM Benchmarking",
-        "Foundation Models",
-        "Agentic AI",
+        "Agent Evaluation",
         "Enterprise AI"
       ],
       "industries": [],
@@ -13206,7 +14058,12 @@
       "publishedDate": "2026-06-08T00:00:00.000Z",
       "author": null,
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Speech Recognition",
+        "LLM Benchmarking",
+        "Dialects",
+        "Model Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
