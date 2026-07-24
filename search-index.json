@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-07-24T05:21:06.408Z",
+  "lastUpdated": "2026-07-24T16:13:32.624Z",
   "totalItems": 521,
+  "useCaseGroups": [
+    {
+      "name": "Frontier Alignment",
+      "children": [
+        "AI Red Teaming",
+        "AI Safety Evaluation",
+        "Alignment",
+        "Constitutional AI",
+        "Human Feedback",
+        "Preference Data",
+        "RLHF",
+        "SFT"
+      ]
+    },
+    {
+      "name": "Agentic AI",
+      "children": [
+        "AI Agents",
+        "Agent Evaluation",
+        "Agentic AI",
+        "Chat",
+        "Enterprise AI",
+        "Long Context",
+        "Search",
+        "Tool Use"
+      ]
+    },
+    {
+      "name": "Speech & Audio",
+      "children": [
+        "Audio",
+        "Dialects",
+        "Emotion Detection",
+        "NLP & Speech (speech-specific)",
+        "Speech Recognition",
+        "Speech Synthesis",
+        "TTS"
+      ]
+    },
+    {
+      "name": "Multimodal AI",
+      "children": [
+        "Computer Vision",
+        "Cross-modal",
+        "Image Generation",
+        "OCR",
+        "Video Understanding",
+        "Vision Language Models (VLMs)"
+      ]
+    },
+    {
+      "name": "Physical AI",
+      "children": [
+        "Autonomous Driving",
+        "Embodied AI",
+        "LiDAR",
+        "Robotics",
+        "Robotics Trajectories",
+        "Sensor Fusion"
+      ]
+    },
+    {
+      "name": "Model Integrity",
+      "children": [
+        "Bias",
+        "Compliance",
+        "Foundation Models",
+        "Hallucinations",
+        "LLM Benchmarking",
+        "Model Evaluation",
+        "Trustworthiness"
+      ]
+    },
+    {
+      "name": "Coding Repositories",
+      "children": [
+        "Code Evaluation",
+        "Code Generation",
+        "LiveCodeBench",
+        "Repository Understanding",
+        "SWE Bench",
+        "Software Engineering AI"
+      ]
+    },
+    {
+      "name": "AI Research Services (ResearchOps)",
+      "children": [
+        "AI & Machine Learning",
+        "Data Annotation",
+        "Data Collection",
+        "Dataset Creation",
+        "Human Evaluation",
+        "Training Data"
+      ]
+    }
+  ],
   "items": [
     {
       "id": "6a5e3ebe9160428250050b6d",
