@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T21:37:03.841Z",
+  "lastUpdated": "2026-07-24T05:21:06.408Z",
   "totalItems": 521,
   "items": [
     {
@@ -878,7 +878,7 @@
       "slug": "appen-advantage-in-rag-optimization",
       "url": "/blog/appen-advantage-in-rag-optimization",
       "excerpt": "Discover how human oversight in Retrieval-Augmented Generation (RAG) systems enhances AI performance. Learn about core RAG components, the importance of chunk optimization, and how Appen's AI Data Platform ensures accurate, context-aware responses",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/6661f0e6b9f8e54f6764b932_Expert-Human-Intervention.png",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6661f0e6b9f8e54f6764b932_Expert-Human-Intervention.png",
       "publishedDate": "2024-06-06T00:00:00.000Z",
       "author": null,
       "publisher": null,
@@ -902,7 +902,7 @@
       "slug": "leveraging-human-intelligence-with-llms-for-cost-effective-annotations",
       "url": "/blog/leveraging-human-intelligence-with-llms-for-cost-effective-annotations",
       "excerpt": "Read this blog post where we discuss an experiment that used model uncertainty, as indicated by LLM uncertainty, to inform the allocation of annotation work.",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/6650b9a5fc7040f8de2ba6e6_Striking-the-Balance-blog.png",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6650b9a5fc7040f8de2ba6e6_Striking-the-Balance-blog.png",
       "publishedDate": "2024-05-29T00:00:00.000Z",
       "author": {
         "name": "Appen",
