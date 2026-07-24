@@ -1,9 +1,11 @@
 /**
  * Webflow Search Index Sync Script
  *
- * Fetches all content from 7 Webflow collections, resolves references
- * (Authors, Resource Types, Use Cases, Industries), and writes a unified
- * search-index.json file, then uploads it to GitHub via the API.
+ * Fetches all content from the Webflow content collections, resolves references
+ * (Authors, Resource Types, Use Cases, Industries), builds the Use Case Group
+ * taxonomy (parent -> children, from the Use Case Groups collection + the Group
+ * field on Use Cases), and writes a unified search-index.json file, then uploads
+ * it to GitHub via the API.
  *
  * Required environment variables:
  *   WEBFLOW_API_TOKEN  — Site API token (CMS read)
@@ -38,7 +40,22 @@ const REFERENCE_COLLECTION_IDS = {
   resourceTypes: "658f221d560869e694a60730",
   useCases:      "658f221d560869e694a6072d",
   industries:    "658f221d560869e694a6072c",
+  useCaseGroups: "6a62321ff874bd2ca9cc7728",
 };
+
+// Desired display order of the Use Case Groups (the bold parent rows in the
+// front-end filter). Groups found in Webflow but not listed here are appended
+// alphabetically, so new groups still flow through automatically.
+const USE_CASE_GROUP_ORDER = [
+  "Frontier Alignment",
+  "Agentic AI",
+  "Speech & Audio",
+  "Multimodal AI",
+  "Physical AI",
+  "Model Integrity",
+  "Coding Repositories",
+  "AI Research Services (ResearchOps)",
+];
 
 const COLLECTION_URL_PREFIX = {
   blogs:         "/blog",
@@ -174,17 +191,43 @@ async function main() {
 
   console.log("🔄 Building reference lookup maps...");
 
-  const [authorsMap, resourceTypesMap, useCasesMap, industriesMap] = await Promise.all([
+  const [authorsMap, resourceTypesMap, useCasesMap, industriesMap, useCaseGroupsMap] = await Promise.all([
     buildLookupMap(REFERENCE_COLLECTION_IDS.authors, "name", ["photo"]),
     buildLookupMap(REFERENCE_COLLECTION_IDS.resourceTypes, "name"),
-    buildLookupMap(REFERENCE_COLLECTION_IDS.useCases, "name"),
+    buildLookupMap(REFERENCE_COLLECTION_IDS.useCases, "name", ["group"]),
     buildLookupMap(REFERENCE_COLLECTION_IDS.industries, "name"),
+    buildLookupMap(REFERENCE_COLLECTION_IDS.useCaseGroups, "name"),
   ]);
 
   console.log(`  ✓ Authors: ${Object.keys(authorsMap).length}`);
   console.log(`  ✓ Resource Types: ${Object.keys(resourceTypesMap).length}`);
   console.log(`  ✓ Use Cases: ${Object.keys(useCasesMap).length}`);
   console.log(`  ✓ Industries: ${Object.keys(industriesMap).length}`);
+  console.log(`  ✓ Use Case Groups: ${Object.keys(useCaseGroupsMap).length}`);
+
+  // ── Build the Use Case Group taxonomy (parent → children) ────────────────
+  // Each Use Case item carries a multi-reference "group" field pointing at the
+  // Use Case Groups collection. Resolve those into an ordered parent→children
+  // structure the front-end filter renders directly.
+  const childrenByGroup = {};
+  for (const uc of Object.values(useCasesMap)) {
+    const groupIds = Array.isArray(uc.group) ? uc.group : [];
+    for (const gid of groupIds) {
+      const groupName = useCaseGroupsMap[gid]?.name;
+      if (!groupName || !uc.name) continue;
+      (childrenByGroup[groupName] = childrenByGroup[groupName] || new Set()).add(uc.name);
+    }
+  }
+
+  const orderedGroupNames = USE_CASE_GROUP_ORDER.filter((n) => childrenByGroup[n])
+    .concat(Object.keys(childrenByGroup).filter((n) => USE_CASE_GROUP_ORDER.indexOf(n) === -1).sort());
+
+  const useCaseGroups = orderedGroupNames.map((name) => ({
+    name,
+    children: Array.from(childrenByGroup[name]).sort(),
+  }));
+
+  console.log(`  ✓ Use Case taxonomy: ${useCaseGroups.length} groups, ${useCaseGroups.reduce((s, g) => s + g.children.length, 0)} child use cases`);
 
   const allItems = [];
 
@@ -248,9 +291,10 @@ async function main() {
 
   // ── Write JSON file ──────────────────────────────────────────────────────
   const output = {
-    lastUpdated: new Date().toISOString(),
-    totalItems:  allItems.length,
-    items:       allItems,
+    lastUpdated:   new Date().toISOString(),
+    totalItems:    allItems.length,
+    useCaseGroups: useCaseGroups,
+    items:         allItems,
   };
 
   const jsonContent = JSON.stringify(output, null, 2);
