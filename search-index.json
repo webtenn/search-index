@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-30T05:09:36.831Z",
-  "totalItems": 521,
+  "lastUpdated": "2026-07-30T15:38:20.140Z",
+  "totalItems": 522,
   "useCaseGroups": [
     {
       "name": "Frontier Alignment",
@@ -98,6 +98,33 @@
     }
   ],
   "items": [
+    {
+      "id": "6a6b6c6c468d14b0336dea78",
+      "collection": "blogs",
+      "resourceType": "Blogs",
+      "title": "When an Agent Passes the Test but Misses the Point",
+      "slug": "reward-hacking-ai-agent-evaluation",
+      "url": "/blog/reward-hacking-ai-agent-evaluation",
+      "excerpt": "Reward hacking can make AI agents pass benchmarks without solving the intended task. Learn why agent evaluation needs auditable trajectories and human review.",
+      "thumbnail": null,
+      "publishedDate": "2026-07-30T00:00:00.000Z",
+      "author": {
+        "name": "Appen",
+        "photo": null
+      },
+      "publisher": null,
+      "useCases": [
+        "AI Red Teaming",
+        "Agent Evaluation",
+        "AI Safety Evaluation"
+      ],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
     {
       "id": "6a5e3ebe9160428250050b6d",
       "collection": "blogs",
