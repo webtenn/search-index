@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-11T03:44:33.370Z",
-  "totalItems": 522,
+  "lastUpdated": "2026-08-11T15:11:05.050Z",
+  "totalItems": 523,
   "useCaseGroups": [
     {
       "name": "Frontier Alignment",
@@ -14075,6 +14075,30 @@
         "AI Safety Evaluation",
         "Alignment",
         "Trustworthiness"
+      ],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
+      "id": "6a7b38ca1aaf7d5ee2add176",
+      "collection": "podcast",
+      "resourceType": "Podcasts",
+      "title": "Can LLMs Actually Reason? Dan Roth on Agents, Retrieval, and Evaluation",
+      "slug": "llm-reasoning-agentic-ai-dan-roth-oracle",
+      "url": "/podcasts/llm-reasoning-agentic-ai-dan-roth-oracle",
+      "excerpt": "Oracle Chief AI Scientist Dan Roth joins Appen to discuss LLM reasoning, agentic AI, retrieval, system-level evaluation, runtime monitoring, and AI reliability.",
+      "thumbnail": null,
+      "publishedDate": "2026-08-11T00:00:00.000Z",
+      "author": null,
+      "publisher": null,
+      "useCases": [
+        "Agentic AI",
+        "Agent Evaluation",
+        "Enterprise AI"
       ],
       "industries": [],
       "eventDateText": null,
