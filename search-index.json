@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-12T04:08:23.421Z",
-  "totalItems": 523,
+  "lastUpdated": "2026-08-13T04:12:21.102Z",
+  "totalItems": 524,
   "useCaseGroups": [
     {
       "name": "Frontier Alignment",
@@ -98,6 +98,37 @@
     }
   ],
   "items": [
+    {
+      "id": "6a7c88346aadacd208319001",
+      "collection": "blogs",
+      "resourceType": "Blogs",
+      "title": "The Coming Medical Data Crunch: Why AI's Biggest Boom Faces Its Biggest Shortage",
+      "slug": "medical-data-crunch-healthcare-ai",
+      "url": "/blog/medical-data-crunch-healthcare-ai",
+      "excerpt": "Demand for medical data is booming while supply stays locked behind privacy law and scarce clinical experts. Why the healthcare AI data crunch is structural.",
+      "thumbnail": null,
+      "publishedDate": "2026-08-12T00:00:00.000Z",
+      "author": {
+        "name": "Sergio Bruccoleri",
+        "photo": null
+      },
+      "publisher": null,
+      "useCases": [
+        "Training Data",
+        "Data Annotation",
+        "Foundation Models",
+        "Compliance",
+        "Speech Recognition"
+      ],
+      "industries": [
+        "Healthcare"
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
     {
       "id": "6a6b6c6c468d14b0336dea78",
       "collection": "blogs",
