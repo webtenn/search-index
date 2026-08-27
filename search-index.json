@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-27T12:24:44.794Z",
-  "totalItems": 524,
+  "lastUpdated": "2026-08-27T14:32:17.331Z",
+  "totalItems": 525,
   "useCaseGroups": [
     {
       "name": "Frontier Alignment",
@@ -98,6 +98,33 @@
     }
   ],
   "items": [
+    {
+      "id": "6a9043f11dac4e5b89eab88e",
+      "collection": "blogs",
+      "resourceType": "Blogs",
+      "title": "When Vision-Language Judges Miss the Big Picture: Local Accuracy vs. Long-Horizon Video Understanding",
+      "slug": "vlm-judges-long-horizon-video-understanding",
+      "url": "/blog/vlm-judges-long-horizon-video-understanding",
+      "excerpt": "Why VLM judges miss the big picture in video evaluation, from temporal reasoning and frame retrieval failures to salience, rubric design, and human alignment.",
+      "thumbnail": null,
+      "publishedDate": "2026-08-27T00:00:00.000Z",
+      "author": {
+        "name": "Appen",
+        "photo": null
+      },
+      "publisher": null,
+      "useCases": [
+        "Vision Language Models (VLMs)",
+        "Video Understanding",
+        "Model Evaluation"
+      ],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
     {
       "id": "6a7c88346aadacd208319001",
       "collection": "blogs",
