@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-08T06:58:36.817Z",
-  "totalItems": 525,
+  "lastUpdated": "2026-09-08T15:18:34.521Z",
+  "totalItems": 526,
   "useCaseGroups": [
     {
       "name": "Frontier Alignment",
@@ -13949,6 +13949,32 @@
       "eventStatus": "1de415a2a371f91235bca9e56bb347af",
       "eventVenue": "Santa Clara Convention Center, CA",
       "eventLocation": "Santa Clara, CA"
+    },
+    {
+      "id": "6aa023df86dd1e03a65a2f6e",
+      "collection": "research",
+      "resourceType": "Research Papers",
+      "title": "MedTerm-90: seven speech-to-text engines, judged the way a clinician would judge them",
+      "slug": "medterm-90-medical-speech-to-text-benchmark",
+      "url": "/research/medterm-90-medical-speech-to-text-benchmark",
+      "excerpt": "Appen's MedTerm-90 benchmark scores seven speech-to-text APIs on 90.5 hours of real physician dictation — judged on clinical entity recall, not word error rate.",
+      "thumbnail": null,
+      "publishedDate": "2026-09-08T00:00:00.000Z",
+      "author": null,
+      "publisher": null,
+      "useCases": [
+        "Speech Recognition",
+        "LLM Benchmarking",
+        "Model Evaluation"
+      ],
+      "industries": [
+        "Healthcare"
+      ],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
     },
     {
       "id": "6a3c5aaf793ed82379fb96aa",
