@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T15:18:34.521Z",
+  "lastUpdated": "2026-09-09T07:08:20.565Z",
   "totalItems": 526,
   "useCaseGroups": [
     {
@@ -13958,7 +13958,7 @@
       "slug": "medterm-90-medical-speech-to-text-benchmark",
       "url": "/research/medterm-90-medical-speech-to-text-benchmark",
       "excerpt": "Appen's MedTerm-90 benchmark scores seven speech-to-text APIs on 90.5 hours of real physician dictation — judged on clinical entity recall, not word error rate.",
-      "thumbnail": null,
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6aa031080dccf9f86035d615_appen-medterm90-dark-og%402x.png",
       "publishedDate": "2026-09-08T00:00:00.000Z",
       "author": null,
       "publisher": null,
