@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-23T07:26:47.075Z",
-  "totalItems": 526,
+  "lastUpdated": "2026-09-24T07:18:43.227Z",
+  "totalItems": 527,
   "useCaseGroups": [
     {
       "name": "Frontier Alignment",
@@ -99,6 +99,30 @@
   ],
   "items": [
     {
+      "id": "6ab433362b24da37566384b8",
+      "collection": "blogs",
+      "resourceType": "Blogs",
+      "title": "The dataset had every value. The more useful question was what happened between them.",
+      "slug": "training-data-transition-coverage-ai-evaluation",
+      "url": "/blog/training-data-transition-coverage-ai-evaluation",
+      "excerpt": "Learn how transition coverage audits can uncover gaps in AI training data and help design stronger evaluations for model generalization.",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6ab44308290bca7c14d2b4c4_Appen-social-share.png",
+      "publishedDate": "2026-09-24T00:00:00.000Z",
+      "author": null,
+      "publisher": null,
+      "useCases": [
+        "Model Evaluation",
+        "Data Collection",
+        "Data Annotation"
+      ],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
+    {
       "id": "6a9043f11dac4e5b89eab88e",
       "collection": "blogs",
       "resourceType": "Blogs",
@@ -109,7 +133,7 @@
       "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6a905b1cd04a91e09ce43a20_appen-vlm-judge-blog.png",
       "publishedDate": "2026-08-27T00:00:00.000Z",
       "author": {
-        "name": "Jeanine Sinanan-Singh  ",
+        "name": "Jeanine Sinanan-Singh",
         "photo": null
       },
       "publisher": null,
@@ -167,7 +191,7 @@
       "thumbnail": null,
       "publishedDate": "2026-07-30T00:00:00.000Z",
       "author": {
-        "name": "Jeanine Sinanan-Singh  ",
+        "name": "Jeanine Sinanan-Singh",
         "photo": null
       },
       "publisher": null,
