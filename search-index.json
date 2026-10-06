@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T08:29:55.007Z",
+  "lastUpdated": "2026-10-06T08:38:51.741Z",
   "totalItems": 527,
   "useCaseGroups": [
     {
@@ -108,7 +108,10 @@
       "excerpt": "Learn how transition coverage audits can uncover gaps in AI training data and help design stronger evaluations for model generalization.",
       "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6ab44308290bca7c14d2b4c4_Appen-social-share.png",
       "publishedDate": "2026-09-24T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Jeanine Sinanan-Singh",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [
         "Model Evaluation",
@@ -153,7 +156,7 @@
       "id": "6a7c88346aadacd208319001",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "The Coming Medical Data Crunch: Why AI's Biggest Boom Faces Its Biggest Shortage",
+      "title": "The Coming Medical Data Crunch: Why AI’s Biggest Boom Faces Its Biggest Shortage",
       "slug": "medical-data-crunch-healthcare-ai",
       "url": "/blog/medical-data-crunch-healthcare-ai",
       "excerpt": "Demand for medical data is booming while supply stays locked behind privacy law and scarce clinical experts. Why the healthcare AI data crunch is structural.",
@@ -297,7 +300,10 @@
       "excerpt": "Move beyond binary “safe/unsafe” in your LLM evaluations. Learn how tricategorical reasoning rewards responsible restraint and ethical uncertainty, improving AI safety and reliability.",
       "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6914beeb9417c567a0446e1e_tricategorical-ai-safety-evaluation.jpg",
       "publishedDate": "2025-11-12T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Sergio Bruccoleri",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [
         "AI Safety Evaluation",
@@ -428,7 +434,10 @@
       "excerpt": "Appen’s latest research reveals Claude Sonnet 3.5 resisted adversarial prompting by refusing more often. Should benchmarks reward silence instead of penalizing it?",
       "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/68d30ee13f8d26858f7ad2e6_ai-image-generation.jpg",
       "publishedDate": "2025-09-24T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Casey Ford",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [
         "AI Red Teaming",
@@ -505,7 +514,10 @@
       "excerpt": "ACL 2025 highlights: how trends in fine-tuning, multimodal reasoning, and efficiency are shaping the future of LLMs.",
       "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/68b0a3c73f8a08229ca48316_vienna-austria.jpg",
       "publishedDate": "2025-08-28T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Madison Van Doren",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [
         "SFT",
@@ -707,7 +719,10 @@
       "excerpt": "Explore key takeaways from ICLR 2025, from LLM safety to culturally aware AI—and why human-in-the-loop data is more vital than ever.",
       "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/681cfc5a058a32d099afc121_ICLR-2025.jpg",
       "publishedDate": "2025-05-08T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Si Chen",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [
         "AI Safety Evaluation",
@@ -731,7 +746,10 @@
       "excerpt": "Learn how to leverage adversarial prompting to mitigate threats to large language models, such as prompt injection vulnerabilities.",
       "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/68091507451d6ae37953e1ea_Adversarial-Prompting-Research-Paper.jpg",
       "publishedDate": "2025-04-23T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Emily Dix",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [
         "AI Red Teaming",
@@ -774,7 +792,7 @@
       "id": "67dd7fb3d1fd3a467fe64a11",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "HumanX 2025: Deep Dive into AI's Future, Ethical Frameworks, and Appen’s Crucial Role",
+      "title": "HumanX 2025: Deep Dive into AI’s Future, Ethical Frameworks, and Appen’s Crucial Role",
       "slug": "humanx-2025",
       "url": "/blog/humanx-2025",
       "excerpt": "Appen played a critical role at HumanX 2025, leading industry conversations about the human element in AI development.",
@@ -1031,9 +1049,12 @@
       "slug": "multimodal-ai-models-part-1",
       "url": "/blog/multimodal-ai-models-part-1",
       "excerpt": "Explore how Appen's advanced training and evaluation data empowers Multimodal AI, integrating image, video, speech, and text for superior cognitive capabilities.",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/667d7384616b7915155f6570_Multimodal-AI-Models-part-1.png",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/667d7384616b7915155f6570_Multimodal-AI-Models-part-1.png",
       "publishedDate": "2024-06-27T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Si Chen",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [
         "Computer Vision",
@@ -1053,7 +1074,7 @@
       "id": "66745ea8ed848db01c26b627",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "Improve Enterprise Data Retrieval with Appen's New Build My RAG Feature",
+      "title": "Improve Enterprise Data Retrieval with Appen’s New Build My RAG Feature",
       "slug": "appens-new-build-my-rag-feature",
       "url": "/blog/appens-new-build-my-rag-feature",
       "excerpt": "Unlock the potential of Appen's new \"Build My RAG\" feature in our AI Data Platform. This capability simplifies creating high-quality Retrieval Augmented Generation (RAG) models by leveraging your enterprise's knowledge bases.",
@@ -1085,7 +1106,10 @@
       "excerpt": "Discover how human oversight in Retrieval-Augmented Generation (RAG) systems enhances AI performance. Learn about core RAG components, the importance of chunk optimization, and how Appen's AI Data Platform ensures accurate, context-aware responses",
       "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6661f0e6b9f8e54f6764b932_Expert-Human-Intervention.png",
       "publishedDate": "2024-06-06T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Ryan Richards",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [
         "Enterprise AI",
@@ -1134,9 +1158,12 @@
       "slug": "enhancing-data-to-unlock-success-with-rag-optimization",
       "url": "/blog/enhancing-data-to-unlock-success-with-rag-optimization",
       "excerpt": "Get a deeper understanding of the data preparation processes and considerations for building effective RAG architectures at an enterprise scale.",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/664f4e509ebdff3f84c0ab17_RAG-Optimization-blog.jpg",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/664f4e509ebdff3f84c0ab17_RAG-Optimization-blog.jpg",
       "publishedDate": "2024-05-23T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Si Chen",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [
         "Enterprise AI",
@@ -1158,9 +1185,12 @@
       "slug": "large-language-model-red-teaming",
       "url": "/blog/large-language-model-red-teaming",
       "excerpt": "Learn how Appen can help the AI community address this challenge with human-in-the-loop approaches, ensuring LLM development and deployment adhere to the highest standards.",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/663bd697cb0214d8b729024a_MC-red-teaming-blog.jpg",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/663bd697cb0214d8b729024a_MC-red-teaming-blog.jpg",
       "publishedDate": "2024-05-09T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Si Chen",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [
         "AI Red Teaming",
@@ -1182,9 +1212,12 @@
       "slug": "unleashing-the-power-of-generative-ai",
       "url": "/blog/unleashing-the-power-of-generative-ai",
       "excerpt": "Learn how large enterprises can use centralized platforms to unlock GenAI's full potential while maintaining oversight and domain expertise.",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/66215d25ba15b915539dd0a0_unleashing-genai-header.jpg",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/66215d25ba15b915539dd0a0_unleashing-genai-header.jpg",
       "publishedDate": "2024-04-18T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Andrew Ettinger",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [
         "Enterprise AI",
@@ -1228,9 +1261,12 @@
       "slug": "understanding-large-language-models-context-windows",
       "url": "/blog/understanding-large-language-models-context-windows",
       "excerpt": "Learn what context windows are, how they affect AI, and what organizations should consider when using LLMs.",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/6617f23e6c4c7ab1ec6645d2_understanding-LLM-context-windows.jpg",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6617f23e6c4c7ab1ec6645d2_understanding-LLM-context-windows.jpg",
       "publishedDate": "2024-04-11T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Ryan Richards",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [
         "Long Context",
@@ -1247,7 +1283,7 @@
       "id": "6616e3e15647ce79bce12189",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "Boosting Data Quality with Appen's Human-centric AI Detector Model",
+      "title": "Boosting Data Quality with Appen’s Human-centric AI Detector Model",
       "slug": "appen-human-centric-ai-detector-model-boosts-data-quality",
       "url": "/blog/appen-human-centric-ai-detector-model-boosts-data-quality",
       "excerpt": "Explore how Appen has achieved many milestones and developed innovative methods to enhance the quality of human-generated data for AI model training.",
@@ -1305,9 +1341,12 @@
       "slug": "nvidia-gtc-event-recap",
       "url": "/blog/nvidia-gtc-event-recap",
       "excerpt": "Last week, the Appen team had the opportunity to attend the NVIDIA GTC event, a cornerstone gathering for professionals in AI, machine learning, and other cutting-edge technologies. GTC has always been a beacon for innovation",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/6605b17f6c70006f867ebbaf_NVIDIA-GTC-2024.jpg",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6605b17f6c70006f867ebbaf_NVIDIA-GTC-2024.jpg",
       "publishedDate": "2024-03-28T00:00:00.000Z",
-      "author": null,
+      "author": {
+        "name": "Ryan Richards",
+        "photo": null
+      },
       "publisher": null,
       "useCases": [],
       "industries": [],
@@ -1608,7 +1647,7 @@
       "id": "658f221d560869e694a60982",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "How do you map out a conversation you haven't even had yet?",
+      "title": "How do you map out a conversation you haven’t even had yet?",
       "slug": "how-do-you-map-out-a-conversation-you-havent-even-had-yet",
       "url": "/blog/how-do-you-map-out-a-conversation-you-havent-even-had-yet",
       "excerpt": "Some conversations are easy to plan for. Take the cup of coffee you ordered this morning for example. Chances are it started with a reciprocal greeting and moved onto a",
@@ -1664,7 +1703,7 @@
       "id": "658f221d560869e694a60983",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "5 Things We Learned at O'Reilly's AI Conference",
+      "title": "5 Things We Learned at O’Reilly’s AI Conference",
       "slug": "5-things-learned-oreillys-ai-conference",
       "url": "/blog/5-things-learned-oreillys-ai-conference",
       "excerpt": "There are no shortages of AI conferences out there, but the event the folks from O’Reilly threw this past week is one of the best in recent memory. They managed to couple",
@@ -1767,14 +1806,14 @@
       "id": "658f221d560869e694a6097e",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "Guide to Human-in-the-Loop Machine Learning",
+      "title": "Human in the loop: how HITL works in machine learning and AI agents",
       "slug": "human-in-the-loop",
       "url": "/blog/human-in-the-loop",
-      "excerpt": "Discover how HITL machine learning works and how it addresses AI agents, generative AI risks, and regulatory compliance.",
+      "excerpt": "Human in the loop (HITL) routes uncertain or high-risk AI decisions to human reviewers; learn how it works across ML training, evaluation, and AI agents.",
       "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/699dd2a4661df67faef31228_guide-to-human-in-the-loop.jpg",
       "publishedDate": "2026-02-24T00:00:00.000Z",
       "author": {
-        "name": "Appen",
+        "name": "Divya Giritharan",
         "photo": null
       },
       "publisher": null,
@@ -2090,7 +2129,7 @@
       "id": "658f221d560869e694a6096d",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "Appen's Benchmarking Solution: Confidently Choosing the Right LLM for Your Application",
+      "title": "Appen’s Benchmarking Solution: Confidently Choosing the Right LLM for Your Application",
       "slug": "appens-benchmarking-solution-confidently-choosing-the-right-llm-for-your-application",
       "url": "/blog/appens-benchmarking-solution-confidently-choosing-the-right-llm-for-your-application",
       "excerpt": "With Large Language Model innovation happening at a rapid pace, LLMs are presenting both opportunities and challenges for practitioners. One of the most prominent problems",
@@ -2117,7 +2156,7 @@
       "id": "658f221d560869e694a6096e",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "Appen's AI Chat Feedback Solution: Enhancing Conversational AI Performance",
+      "title": "Appen’s AI Chat Feedback Solution: Enhancing Conversational AI Performance",
       "slug": "appens-ai-chat-feedback-solution-enhancing-conversational-ai-performance-llm",
       "url": "/blog/appens-ai-chat-feedback-solution-enhancing-conversational-ai-performance-llm",
       "excerpt": "The rise of Large Language Models has paved the way for advanced conversational agents, powering various applications such as chatbots and virtual assistants. Often, the need",
@@ -2327,7 +2366,7 @@
       "id": "658f221d560869e694a60965",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "Appen's Environmental Impact Commitment to a Better Future",
+      "title": "Appen’s Environmental Impact Commitment to a Better Future",
       "slug": "appens-environmental-impact-commitment-to-a-better-future",
       "url": "/blog/appens-environmental-impact-commitment-to-a-better-future",
       "excerpt": "As we commemorate Earth Day in the midst of great advances in AI technology, we are constantly reminded of the environmental challenges that we are facing through news,",
@@ -2350,7 +2389,7 @@
       "id": "658f221d560869e694a60961",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "Red Teaming: Why It's Critical for Accurate and Reliable Generative AI",
+      "title": "Red Teaming: Why It’s Critical for Accurate and Reliable Generative AI",
       "slug": "the-hidden-risks-of-generative-ai-how",
       "url": "/blog/the-hidden-risks-of-generative-ai-how",
       "excerpt": "Are you curious about the powerful world of Generative AI, but apprehensive about potential vulnerabilities that can come with it? Look no further than red teaming, also",
@@ -2480,11 +2519,11 @@
       "id": "658f221d560869e694a6095c",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "Beyond \"Do No Harm:\" Why AI Must be Ethical and Responsible",
+      "title": "Beyond “Do No Harm:” Why AI Must be Ethical and Responsible",
       "slug": "beyond-do-no-harm-why-ai-must-be-ethical-and-responsible",
       "url": "/blog/beyond-do-no-harm-why-ai-must-be-ethical-and-responsible",
       "excerpt": "The pace of technological change is increasing.  The long-term uptake of AI will depend not only on societies’ willingness to embrace new technology, but also on the",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/657792455d2ee676af3b212d_220527-WorldHunger-AI.jpeg",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/657792455d2ee676af3b212d_220527-WorldHunger-AI.jpeg",
       "publishedDate": "2023-02-24T00:00:00.000Z",
       "author": {
         "name": "Carl Middlehurst",
@@ -3907,7 +3946,7 @@
       "id": "658f221d560869e694a60915",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "AI vs. Deep Learning vs. Machine Learning: Everything You've Ever Wanted to Know",
+      "title": "AI vs. Deep Learning vs. Machine Learning: Everything You’ve Ever Wanted to Know",
       "slug": "ai-vs-deep-learning-vs-machine-learning-everything-youve-ever-wanted-to-know",
       "url": "/blog/ai-vs-deep-learning-vs-machine-learning-everything-youve-ever-wanted-to-know",
       "excerpt": "If you’ve spent any time reading articles about tech in the last few years, you’ve likely bumped into some new terms such as artificial intelligence or AI, machine learning",
@@ -6530,7 +6569,7 @@
       "id": "658f221d560869e694a608b6",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "Crowd's Collective Wisdom vs. Experts: Who Makes IBM Watson Smarter?",
+      "title": "Crowd’s Collective Wisdom vs. Experts: Who Makes IBM Watson Smarter?",
       "slug": "crowds-collective-wisdom-vs-experts-who-makes-ibm-watson-smarter",
       "url": "/blog/crowds-collective-wisdom-vs-experts-who-makes-ibm-watson-smarter",
       "excerpt": "Understanding natural language is one of the great aspirations of artificial intelligence. While solving it could have exciting implications for society, it’s going to take",
@@ -7439,7 +7478,7 @@
       "id": "658f221d560869e694a60896",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "RE·WORK's Q&A with Wilson Pang, CTO of Appen",
+      "title": "RE·WORK’s Q&A with Wilson Pang, CTO of Appen",
       "slug": "rework-qa-with-wilson-pang-cto-of-appen",
       "url": "/blog/rework-qa-with-wilson-pang-cto-of-appen",
       "excerpt": "This week, Appen is exhibiting at RE•WORK’s Deep Learning in Finance Summit in London. The summit helps business leaders, data scientists, and engineers discover advances in",
@@ -8347,7 +8386,7 @@
       "id": "658f221d560869e694a60873",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "Here's How Machine Learning Will Impact Healthcare",
+      "title": "Here’s How Machine Learning Will Impact Healthcare",
       "slug": "how-machine-learning-will-impact-healthcare",
       "url": "/blog/how-machine-learning-will-impact-healthcare",
       "excerpt": "With $150 billion expected to be spent by the healthcare industry on AI deployment and tools over the next decade, machine learning in healthcare is on the rise. Healthcare",
