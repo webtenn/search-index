@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-09T08:33:22.219Z",
-  "totalItems": 527,
+  "lastUpdated": "2026-10-09T15:04:47.121Z",
+  "totalItems": 528,
   "useCaseGroups": [
     {
       "name": "Frontier Alignment",
@@ -98,6 +98,33 @@
     }
   ],
   "items": [
+    {
+      "id": "6ac8fe06e28439870a8a0282",
+      "collection": "blogs",
+      "resourceType": "Blogs",
+      "title": "Recovery Labels Map to a Skill. They Don't Yet Prove It's Taught.",
+      "slug": "ai-agent-recovery-training-data",
+      "url": "/blog/ai-agent-recovery-training-data",
+      "excerpt": "See how recovery training data maps to agent skills like clarification, state repair, and retry, and why model evaluation is needed to prove those skills were learned.",
+      "thumbnail": null,
+      "publishedDate": "2026-10-09T00:00:00.000Z",
+      "author": {
+        "name": "Jeanine Sinanan-Singh",
+        "photo": null
+      },
+      "publisher": null,
+      "useCases": [
+        "Model Evaluation",
+        "Data Collection",
+        "Data Annotation"
+      ],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
     {
       "id": "6ab433362b24da37566384b8",
       "collection": "blogs",
