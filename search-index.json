@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T09:02:43.901Z",
+  "lastUpdated": "2026-10-14T07:11:19.782Z",
   "totalItems": 528,
   "useCaseGroups": [
     {
@@ -4421,7 +4421,7 @@
       "slug": "what-is-sensor-fusion",
       "url": "/blog/what-is-sensor-fusion",
       "excerpt": "Sensor Fusion Shapes the Future of Connected Devices. Sensors are used in almost every industry now: they’re found in our cars, in our factories, and even in our smartphones.",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/65779239a69e5ddcf4b71a1e_What-is-Sensor-Fusion-2-1.png",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/65779239a69e5ddcf4b71a1e_What-is-Sensor-Fusion-2-1.png",
       "publishedDate": "2021-10-21T00:00:00.000Z",
       "author": {
         "name": "Appen",
@@ -10328,7 +10328,7 @@
       "slug": "creating-a-safer-web-experience",
       "url": "/case-studies/creating-a-safer-web-experience",
       "excerpt": "The Project: Creating a Safer Web Experience for All. Trust Lab, a trusted company founded by senior Trust &amp; Safety executives from Google, YouTube, Reddit and TikTok, is ensuring the internet remains a safe place for all. They are doing this through sentiment analysis to see what real internet users",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/657b8c3efd709ab964d2b4f6_trust-lab-case-study.png",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/657b8c3efd709ab964d2b4f6_trust-lab-case-study.png",
       "publishedDate": "2022-11-02T00:00:00.000Z",
       "author": {
         "name": "Melissa Pardo",
@@ -10550,7 +10550,7 @@
       "slug": "allen-institute-for-ai-delivers-enhanced-research-experience-to-scholars",
       "url": "/case-studies/allen-institute-for-ai-delivers-enhanced-research-experience-to-scholars",
       "excerpt": "We were able to quickly go through different iterations of annotation tasks with our crowd workers and understand what was working and what wasn’t. The fact that the quality control features are already built into the Appen platform makes task setup even easier",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/657b8c3b0f05d39c49ecca0f_How-AI2-used-the-Appen-Platform_opt.jpeg",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/657b8c3b0f05d39c49ecca0f_How-AI2-used-the-Appen-Platform_opt.jpeg",
       "publishedDate": "2020-07-13T00:00:00.000Z",
       "author": {
         "name": "Appen",
@@ -10606,7 +10606,7 @@
       "slug": "johns-hopkins-university-annotating-data-to-study-spider-web-building",
       "url": "/case-studies/johns-hopkins-university-annotating-data-to-study-spider-web-building",
       "excerpt": "“What would have taken one person 1,500+ hours over a year or more was done in a few weeks by contributors through the Appen platform (then Figure Eight).” -Andrew Gordus, Assistant Professor of Biology, John Hopkins University",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/657b8c3b5fdda9130521f5a5_Johns-Hopkins-University-1-1.png",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/657b8c3b5fdda9130521f5a5_Johns-Hopkins-University-1-1.png",
       "publishedDate": "2021-12-17T00:00:00.000Z",
       "author": {
         "name": "Appen",
@@ -10634,7 +10634,7 @@
       "slug": "adobe-stock-leverages-massive-asset-profile",
       "url": "/case-studies/adobe-stock-leverages-massive-asset-profile",
       "excerpt": "Adobe is the global leader in creative software. You’d be hard-pressed to find a professional designer who isn’t well-versed in Photoshop, Illustrator, or InDesign, but Adobe has dozens of other offerings, spanning not just the design space, but e-signatures, analytics, marketing, stock photography",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/657b8c3b5d9fb1fd474582d8_Adobe-Stock-Case-Study.png",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/657b8c3b5d9fb1fd474582d8_Adobe-Stock-Case-Study.png",
       "publishedDate": "2020-05-19T00:00:00.000Z",
       "author": {
         "name": "Appen",
@@ -10661,7 +10661,7 @@
       "slug": "callminer",
       "url": "/case-studies/callminer",
       "excerpt": "Appen is so fast. Using their platform, we could do overnight what used to take us a month. Appen is wonderfully efficient. – Rick Britt, Vice President of AI, CallMiner. The Company: Founded in 2002, CallMiner is the pioneer of the artificial intelligence (AI)-powered speech analytics space",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/657b8c3b6ff5d69b9d91cf70_callminer-case-study-1-1.png",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/657b8c3b6ff5d69b9d91cf70_callminer-case-study-1-1.png",
       "publishedDate": "2021-03-10T00:00:00.000Z",
       "author": {
         "name": "Appen",
@@ -10799,7 +10799,7 @@
       "slug": "dialpad-creates-data-that-powers-ml-models-for-human-conversation-at-scale",
       "url": "/case-studies/dialpad-creates-data-that-powers-ml-models-for-human-conversation-at-scale",
       "excerpt": "Dialpad improves conversations with data. They collect telephonic audio, transcribe those dialogs with in-house speech recognition models, and use natural language processing algorithms to comprehend every conversation. They use this universe of one-on-one conversation to identify",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/657b8c3a6554778269a95530_talkiq-case-study.png",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/657b8c3a6554778269a95530_talkiq-case-study.png",
       "publishedDate": "2018-06-22T00:00:00.000Z",
       "author": {
         "name": "Appen",
@@ -11273,7 +11273,7 @@
       "slug": "top-automotive-oem-uses-speech-training-data-to-power-its-connected-car",
       "url": "/case-studies/top-automotive-oem-uses-speech-training-data-to-power-its-connected-car",
       "excerpt": "A leading global OEM has worked with us for over 10 years to develop the data needed to train its voice recognition systems for more than 20 languages",
-      "thumbnail": "https://uploads-ssl.webflow.com/656a6f5ca4824808211181c5/657b8c37bb91146f28a32e6c_Top-Automotive-OEM-Uses-Speech-Training-Data-to-Power-its-Connected-Car.jpeg",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/657b8c37bb91146f28a32e6c_Top-Automotive-OEM-Uses-Speech-Training-Data-to-Power-its-Connected-Car.jpeg",
       "publishedDate": "2020-03-27T00:00:00.000Z",
       "author": {
         "name": "Appen",
