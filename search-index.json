@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-29T08:07:07.799Z",
-  "totalItems": 528,
+  "lastUpdated": "2026-10-29T20:19:18.731Z",
+  "totalItems": 529,
   "useCaseGroups": [
     {
       "name": "Frontier Alignment",
@@ -98,6 +98,29 @@
     }
   ],
   "items": [
+    {
+      "id": "6ae39538ba9bd86425748dc0",
+      "collection": "blogs",
+      "resourceType": null,
+      "title": "AI agent evaluation: why agents that ace the benchmark still fail the job",
+      "slug": "ai-agent-evaluation-benchmarks",
+      "url": "/blog/ai-agent-evaluation-benchmarks",
+      "excerpt": "A passing score is not a finished job. Six practices from Appen's eval work, and six checks to run before you trust an AI agent benchmark result.",
+      "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/6ab44308290bca7c14d2b4c4_Appen-social-share.png",
+      "publishedDate": "2026-10-29T00:00:00.000Z",
+      "author": {
+        "name": "Sergio Bruccoleri",
+        "photo": null
+      },
+      "publisher": null,
+      "useCases": [],
+      "industries": [],
+      "eventDateText": null,
+      "eventBooth": null,
+      "eventStatus": null,
+      "eventVenue": null,
+      "eventLocation": null
+    },
     {
       "id": "6ac8fe06e28439870a8a0282",
       "collection": "blogs",
