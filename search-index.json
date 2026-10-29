@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T20:19:18.731Z",
+  "lastUpdated": "2026-10-29T20:26:55.794Z",
   "totalItems": 529,
   "useCaseGroups": [
     {
@@ -101,7 +101,7 @@
     {
       "id": "6ae39538ba9bd86425748dc0",
       "collection": "blogs",
-      "resourceType": null,
+      "resourceType": "Blogs",
       "title": "AI agent evaluation: why agents that ace the benchmark still fail the job",
       "slug": "ai-agent-evaluation-benchmarks",
       "url": "/blog/ai-agent-evaluation-benchmarks",
@@ -113,7 +113,12 @@
         "photo": null
       },
       "publisher": null,
-      "useCases": [],
+      "useCases": [
+        "Agent Evaluation",
+        "Model Evaluation",
+        "LLM Benchmarking",
+        "Human Evaluation"
+      ],
       "industries": [],
       "eventDateText": null,
       "eventBooth": null,
