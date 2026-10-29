@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T07:58:42.717Z",
+  "lastUpdated": "2026-10-29T08:07:07.799Z",
   "totalItems": 528,
   "useCaseGroups": [
     {
@@ -482,14 +482,14 @@
       "id": "68c4668ed7620831d643ae3d",
       "collection": "blogs",
       "resourceType": "Blogs",
-      "title": "LLM Hallucinations: Why Models Make Mistakes & How to Fix Them",
-      "slug": "ai-hallucinations",
-      "url": "/blog/ai-hallucinations",
-      "excerpt": "Explore new insights on why language models hallucinate. Learn how Appen addresses AI hallucinations with quality data, human feedback, and evaluation strategies.",
+      "title": "LLM hallucinations: why models make mistakes and how to reduce them",
+      "slug": "llm-hallucinations",
+      "url": "/blog/llm-hallucinations",
+      "excerpt": "Learn why LLM hallucinations happen, see real examples from law and research, and follow a seven-step process to measure and reduce them in production.",
       "thumbnail": "https://cdn.prod.website-files.com/656a6f5ca4824808211181c5/68c45a2efa66e785f4713abb_llm-hallucinations.jpg",
       "publishedDate": "2025-09-15T00:00:00.000Z",
       "author": {
-        "name": "Madison Van Doren",
+        "name": "Appen",
         "photo": null
       },
       "publisher": null,
