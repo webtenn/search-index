@@ -12,7 +12,8 @@ Fetches content from 6 Webflow CMS collections, resolves all references, and wri
 │   └── workflows/
 │       └── sync-search-index.yml   # GitHub Actions workflow
 ├── sync-search-index.js            # Main sync script
-├── webhook-handler.js              # Webflow webhook → GitHub trigger
+├── api/
+│   └── webhook-handler.js          # Webflow webhook → GitHub trigger (Vercel)
 ├── search-index.json               # Output file (auto-generated, do not edit)
 ├── _headers                        # Cloudflare Pages headers (cache + CORS)
 ├── package.json
