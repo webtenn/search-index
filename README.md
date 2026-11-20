@@ -14,9 +14,25 @@ Fetches content from 6 Webflow CMS collections, resolves all references, and wri
 ├── sync-search-index.js            # Main sync script
 ├── webhook-handler.js              # Webflow webhook → GitHub trigger
 ├── search-index.json               # Output file (auto-generated, do not edit)
+├── _headers                        # Cloudflare Pages headers (cache + CORS)
 ├── package.json
 └── README.md
 ```
+
+---
+
+## Hosting
+
+`search-index.json` is served by **Cloudflare Pages** (Git integration on this repo):
+
+```
+https://search-index.pages.dev/search-index.json
+```
+
+Every push to `main` (including the workflow's commit) deploys automatically and atomically —
+no CDN purge needed. `_headers` sets `Cache-Control: public, max-age=300` and
+`Access-Control-Allow-Origin: *`. Roll back from Cloudflare → Workers & Pages → `search-index`
+→ Deployments. (Previously served via jsDelivr `@main`, retired 2026-11-20.)
 
 ---
 
